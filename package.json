@@ -1,7 +1,7 @@
 {
   "name": "twemazing",
   "version": "1.0.0",
-  "description": "An easy-to-use icon library for Twemoji inspired by Font Awesome",
+  "description": "An easy-to-use icon library for Twemoji inspired by Font Awesome.",
   "main": "/css/all.min.css",
   "repository": {
     "type": "git",
