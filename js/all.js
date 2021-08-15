@@ -1,5 +1,5 @@
 /*!
- *  Twemazing 1.1.0 by Azury - https://twemazing.com
+ *  Twemazing 1.1.1 by Azury - https://twemazing.com
  *  License - Apache-2.0
 !*/
 
@@ -14318,12 +14318,10 @@ const emojis = [
 // get all emojis
 const twe = document.querySelectorAll('.twe')
 
-// loop through all and add default style
+// get amount of emojis
 let amountOfEmojis = twe.length
 
-// set cdn endpoint
-const cdnEndpoint = 'https://cdn.jsdelivr.net/npm/@twemoji/cdn/'
-
+// loop through all and add default style
 while (amountOfEmojis--) {
   twe[amountOfEmojis].style.display = 'inline-block'
   twe[amountOfEmojis].style.height = '1em'
@@ -14337,5 +14335,5 @@ while (amountOfEmojis--) {
   const name = twe[amountOfEmojis].classList[1].replace('twe-', '')
   const emoji = emojis.find(emoji => emoji.name == name)
 
-  twe[amountOfEmojis].style.background = `url(${cdnEndpoint}${emoji.code}.svg)`
+  twe[amountOfEmojis].style.background = `url(https://cdn.jsdelivr.net/npm/@twemoji/cdn/${emoji.code}.svg)`
 }
