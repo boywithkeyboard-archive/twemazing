@@ -7,6 +7,7 @@ An easy-to-use icon library for Twemoji inspired by Font Awesome.
 ## Installation
 
 ### Via CDN
+> Soon you'll be able to import only certain categories, but get only one file with our generator :)
 
 **CSS:**
 ```CSS
