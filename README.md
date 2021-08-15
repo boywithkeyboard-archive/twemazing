@@ -1,4 +1,8 @@
+# Twemazing
+
 An easy-to-use icon library for Twemoji inspired by Font Awesome.
+
+<img src="https://cdn.jsdelivr.net/npm/@twemoji/cdn/1f638.svg" width="32px" height="32px" />⠀<img src="https://cdn.jsdelivr.net/npm/@twemoji/cdn/1f408.svg" width="32px" height="32px" />⠀<img src="https://cdn.jsdelivr.net/npm/@twemoji/cdn/1f44c.svg" width="32px" height="32px" />⠀<img src="https://cdn.jsdelivr.net/npm/@twemoji/cdn/1f4a9.svg" width="32px" height="32px" />⠀<img src="https://cdn.jsdelivr.net/npm/@twemoji/cdn/1f37f.svg" width="32px" height="32px" />⠀<img src="https://cdn.jsdelivr.net/npm/@twemoji/cdn/1f63b.svg" width="32px" height="32px" />⠀<img src="https://cdn.jsdelivr.net/npm/@twemoji/cdn/1f308.svg" width="32px" height="32px" />⠀<img src="https://cdn.jsdelivr.net/npm/@twemoji/cdn/1f496.svg" width="32px" height="32px" />⠀<img src="https://cdn.jsdelivr.net/npm/@twemoji/cdn/1f92a.svg" width="32px" height="32px" />
 
 ## Installation
 
