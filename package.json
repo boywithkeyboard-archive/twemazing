@@ -1,6 +1,6 @@
 {
   "name": "twemazing",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "An easy-to-use icon library for Twemoji inspired by Font Awesome.",
   "main": "/js/all.min.js",
   "repository": {
@@ -8,7 +8,7 @@
     "url": "git+https://github.com/twemazing/twemazing.git"
   },
   "keywords": [
-    "twemoji", "emojis", "icons", "twitter", "easy-to-use", "azury"
+    "twemoji", "emojis", "icons", "twitter", "easy-to-use", "azury", "font-awesome"
   ],
   "author": "Azury <hello@azury.dev> (https://azury.dev)",
   "license": "Apache-2.0",
