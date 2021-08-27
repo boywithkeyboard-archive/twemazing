@@ -1,5 +1,5 @@
 /*!
- *  Twemazing 1.1.1 by Azury - https://twemazing.com
+ *  Twemazing 1.2.0 by Azury - https://twemazing.com
  *  License - Apache-2.0
 !*/
 
@@ -14335,5 +14335,5 @@ while (amountOfEmojis--) {
   const name = twe[amountOfEmojis].classList[1].replace('twe-', '')
   const emoji = emojis.find(emoji => emoji.name == name)
 
-  twe[amountOfEmojis].style.background = `url(https://cdn.jsdelivr.net/npm/@twemoji/cdn/${emoji.code}.svg)`
+  twe[amountOfEmojis].style.background = `url(https://cdn.jsdelivr.net/npm/@twe/emojis/${emoji.code}.svg)`
 }
