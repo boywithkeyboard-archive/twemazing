@@ -8,7 +8,7 @@ An easy-to-use icon library for Twemoji inspired by Font Awesome.
 
 ## Installation
 
-### via cdn
+### CDN
 
 #### CSS
 ```css
@@ -24,25 +24,17 @@ An easy-to-use icon library for Twemoji inspired by Font Awesome.
 <script src="https://cdn.jsdelivr.net/npm/twemazing@latest/js/all.min.js"></script>
 ```
 
-### via npm
+### NPM
 
 > coming soon!
 
-## usage
+## Usage
 
-**code:**
+`<i class="twe twe-pizza"></i>` results in: <img src="https://cdn.jsdelivr.net/npm/@twemoji/cdn/1f355.svg" width="32px" height="32px" />
 
-```html
-<i class="twe twe-pizza"></i>
-```
+Check out [our website](https://twemazing.com) for a better overview of all available emojis.
 
-**result:**
+## Licensing
 
-<img src="https://cdn.jsdelivr.net/npm/@twemoji/cdn/1f355.svg" width="48px" height="48px" />
-
-check out [our website](https://twemazing.com) for a better overview of all available emojis.
-
-## licenses
-
-code licensed under the [apache-2.0](https://github.com/twemazing/twemazing/blob/main/license) license. \
-images were created and published by [twitter](https://twemoji.twitter.com) and are licensed under the [cc-by 4.0](https://creativecommons.org/licenses/by/4.0) license.
+Code licensed under the [Apache-2.0](https://github.com/twemazing/twemazing/blob/main/license) license. \
+Images were created and published by [Twitter](https://twemoji.twitter.com) and are licensed under the [CC by 4.0](https://creativecommons.org/licenses/by/4.0) license.
