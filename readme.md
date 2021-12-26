@@ -1,6 +1,6 @@
 # twemazing
 
-🙈 **twemazing** - a better Twemoji Library!
+🧸 **twemazing** - a better Twemoji Library!
 
 #### Libraries
 
