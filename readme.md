@@ -1,7 +1,54 @@
-# Twemazing
+# twemazing
 
-> ⚠️ Some features might not work as expected. **We're currently working on [v2](), going in public beta on *[December 30, 2021]()!*** v2 will have a JavaScript and CSS implementation with a ton of additional features including a easy-to-use API! ⚠️
+🙈 **twemazing** - a better Twemoji Library!
 
-An easy-to-use Twemoji library inspired by Font Awesome.
+#### Libraries
 
-🔗 [Website](https://twemazing.com) + 📣 [Discord](https://azury.dev/discord)
+- [`twemazing`](https://www.npmjs.com/package/twemazing) **(react)**
+- [`@twemazing/css`](https://www.npmjs.com/package/@twemazing/css) **(css)**
+- [`@twemazing/js`](https://www.npmjs.com/package/@twemazing/js) **(js)**
+- [`@twemazing/sass`](https://www.npmjs.com/package/@twemazing/sass) **(sass)**
+- [`@twemazing/scss`](https://www.npmjs.com/package/@twemazing/scss) **(scss)**
+- [`@twemazing/cdn`](https://www.npmjs.com/package/@twemazing/cdn) **(images)**
+
+ℹ️ **All our libraries follow the versioning of this repository.**
+
+## Usage
+
+- ### React Library
+  - #### Installation
+    ```sh-session
+    npm i twemazing
+    yarn add twemazing
+    ```
+  - #### Usage
+    ```js
+    import { PartyingFace } from 'twemazing'
+    
+    <PartyingFace size={512} /> // -> 🥳
+    ```
+  
+- ### CSS Library
+  - #### Installation
+    ```html
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@twemazing/css">
+    ```
+    ```css
+    @import url('https://cdn.jsdelivr.net/npm/@twemazing/css');
+    ```
+    
+- ### JavaScript Library
+  - #### Installation
+    ```html
+    <script src="https://cdn.jsdelivr.net/npm/@twemazing/js"></script>
+    ```
+    
+- ### Sass Libraries
+  - #### Installation
+    ```scss
+    // scss
+    @import 'https://cdn.jsdelivr.net/npm/@twemazing/scss';
+    
+    // sass
+    @import 'https://cdn.jsdelivr.net/npm/@twemazing/sass';
+    ```
