@@ -3,21 +3,23 @@
   "private": true,
   "scripts": {
     "build:css": "node src/builders/css.js",
-    "build:cdn": "packu",
+    "build:cdn": "packu minify -i twemojis -o packages/cdn && node src/builders/cdn.js",
     "build:scss": "node src/builders/scss.js",
     "build:sass": "node src/builders/sass.js",
     "build:react": "node src/builders/react.js",
     "build:js": "node src/builders/js.js",
     "build:all": "npm run build:css && npm run build:cdn && npm run build:scss && npm run build:sass && npm run build:react && npm run build:js",
-    "publish:css": "npm run build:css && cd packages/css && npm publish",
-    "publish:cdn": "npm run build:cdn && cd packages/cdn && npm publish",
-    "publish:scss": "npm run build:scss && cd packages/scss && npm publish",
-    "publish:sass": "npm run build:sass && cd packages/sass && npm publish",
+    "publish:css": "npm run build:css && cd packages/css && npm publish --access=public",
+    "publish:cdn": "npm run build:cdn && cd packages/cdn && npm publish --access=public",
+    "publish:scss": "npm run build:scss && cd packages/scss && npm publish --access=public",
+    "publish:sass": "npm run build:sass && cd packages/sass && npm publish --access=public",
     "publish:react": "npm run build:react && cd packages/react && npm publish",
-    "publish:js": "npm run build:js && cd packages/js && npm publish",
+    "publish:js": "npm run build:js && cd packages/js && npm publish --access=public",
     "publish:all": "npm run publish:css && npm run publish:cdn && npm run publish:scss && npm run publish:sass && npm run publish:react && npm run publish:js"
   },
   "devDependencies": {
+    "esbuild": "^0.14.9",
+    "fs-extra": "^10.0.0",
     "packu": "^2.0.4"
   }
 }
