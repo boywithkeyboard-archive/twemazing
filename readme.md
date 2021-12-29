@@ -11,7 +11,7 @@
 - [`@twemazing/scss`](https://www.npmjs.com/package/@twemazing/scss) **(scss)**
 - [`@twemazing/cdn`](https://www.npmjs.com/package/@twemazing/cdn) **(images)**
 
-ℹ️ **All our libraries follow the versioning of this repository.**
+###### ℹ️ All our packages follow the versioning of this repository. 👌 Up to date with [Twemoji v13.1.0](https://twemoji.twitter.com)
 
 ## Usage
 
