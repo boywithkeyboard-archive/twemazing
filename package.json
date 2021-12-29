@@ -1,19 +1,23 @@
 {
-  "name": "twemazing",
-  "version": "1.2.1",
-  "description": "An easy-to-use icon library for Twemoji inspired by Font Awesome.",
-  "main": "/js/all.min.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/twemazing/twemazing.git"
+  "name": "@twemazing/builder",
+  "private": true,
+  "scripts": {
+    "build:css": "node src/builders/css.js",
+    "build:cdn": "packu",
+    "build:scss": "node src/builders/scss.js",
+    "build:sass": "node src/builders/sass.js",
+    "build:react": "node src/builders/react.js",
+    "build:js": "node src/builders/js.js",
+    "build:all": "npm run build:css && npm run build:cdn && npm run build:scss && npm run build:sass && npm run build:react && npm run build:js",
+    "publish:css": "npm run build:css && cd packages/css && npm publish",
+    "publish:cdn": "npm run build:cdn && cd packages/cdn && npm publish",
+    "publish:scss": "npm run build:scss && cd packages/scss && npm publish",
+    "publish:sass": "npm run build:sass && cd packages/sass && npm publish",
+    "publish:react": "npm run build:react && cd packages/react && npm publish",
+    "publish:js": "npm run build:js && cd packages/js && npm publish",
+    "publish:all": "npm run publish:css && npm run publish:cdn && npm run publish:scss && npm run publish:sass && npm run publish:react && npm run publish:js"
   },
-  "keywords": [
-    "twemoji", "emojis", "icons", "twitter", "easy-to-use", "azury", "font-awesome"
-  ],
-  "author": "Azury <hello@azury.dev> (https://azury.dev)",
-  "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/twemazing/twemazing/issues"
-  },
-  "homepage": "https://twemazing.com"
+  "devDependencies": {
+    "packu": "^2.0.4"
+  }
 }
