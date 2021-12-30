@@ -76,3 +76,8 @@
     ```html
     <i class="twe twe-partying-face"></i> <!-- 🥳 -->
     ```
+- ### [CDN](https://github.com/azurydev/twemazing/tree/current#cdn-clones)
+
+  ```html
+  <img src="https://cdn.jsdelivr.net/npm/{cdn}/{codepoint_of_emoji}.svg" alt="error" />
+  ```
