@@ -42,7 +42,7 @@
 
   - #### Usage
     ```html
-    <i class="twe twe-partying-face"></i>
+    <i class="twe twe-partying-face"></i> <!-- -> 🥳 -->
     ```
     
 - ### JavaScript Library
@@ -53,7 +53,7 @@
     
   - #### Usage
     ```html
-    <i class="twe twe-partying-face"></i>
+    <i class="twe twe-partying-face"></i> <!-- -> 🥳 -->
     ```
     
 - ### Sass Libraries
@@ -68,5 +68,5 @@
     
   - #### Usage
     ```html
-    <i class="twe twe-partying-face"></i>
+    <i class="twe twe-partying-face"></i> <!-- -> 🥳 -->
     ```
