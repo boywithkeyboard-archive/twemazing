@@ -8,24 +8,19 @@
     "build:sass": "node src/builders/sass.mjs",
     "build:react": "node src/builders/react.mjs",
     "build:js": "node src/builders/js.mjs",
-
     "build:twecdn": "packu minify -i twemojis -o packages/@twe-cdn && node src/builders/@twe-cdn.mjs",
     "build:twemoji": "packu minify -i twemojis -o packages/@twe-moji && node src/builders/@twe-moji.mjs",
     "build:twex": "packu minify -i twemojis -o packages/@twe-x && node src/builders/@twe-x.mjs",
-
     "build:all": "npm run build:twecdn && npm run build:twemoji && npm run build:twex && npm run build:css && npm run build:cdn && npm run build:scss && npm run build:sass && npm run build:react && npm run build:js",
-    
     "publish:css": "npm run build:css && cd packages/css && npm publish --access=public",
     "publish:cdn": "npm run build:cdn && cd packages/cdn && npm publish --access=public",
     "publish:scss": "npm run build:scss && cd packages/scss && npm publish --access=public",
     "publish:sass": "npm run build:sass && cd packages/sass && npm publish --access=public",
     "publish:react": "npm run build:react && cd packages/react && npm publish",
     "publish:js": "npm run build:js && cd packages/js && npm publish --access=public",
-
     "publish:twecdn": "npm run build:twecdn && cd packages/@twe-cdn && npm publish --access=public",
     "publish:twemoji": "npm run build:twemoji && cd packages/@twe-moji && npm publish --access=public",
     "publish:twex": "npm run build:twex && cd packages/@twe-x && npm publish --access=public",
-
     "publish:all": "npm run publish:twecdn && npm run publish:twemoji && npm run publish:twex && npm run publish:css && npm run publish:cdn && npm run publish:scss && npm run publish:sass && npm run publish:react && npm run publish:js"
   },
   "devDependencies": {
@@ -33,6 +28,7 @@
     "clean-css": "^5.2.2",
     "esbuild": "^0.14.9",
     "fs-extra": "^10.0.0",
-    "packu": "^2.0.4"
+    "packu": "^2.0.4",
+    "terser": "^5.10.0"
   }
 }
