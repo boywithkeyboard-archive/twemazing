@@ -15,7 +15,6 @@
     "publish:sass": "npm run build:sass && cd packages/sass && npm publish --access=public",
     "publish:react": "npm run build:react && cd packages/react && npm publish",
     "publish:js": "npm run build:js && cd packages/js && npm publish --access=public",
-    "get:emojis": "node src/getter.mjs",
     "publish:all": "npm run publish:css && npm run publish:cdn && npm run publish:scss && npm run publish:sass && npm run publish:react && npm run publish:js"
   },
   "devDependencies": {
