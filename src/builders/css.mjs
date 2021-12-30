@@ -48,10 +48,7 @@ import CleanCSS from 'clean-css'
 
   // generate css
   await log('Generating the stylesheet...')
-let stylesheet = `/*!
- *  Twemazing v${config.version} by Azury - https://twemazing.com
- *  License - Apache-2.0
-!*/
+let stylesheet = `
 
 .twe {
   display: inline-block;
@@ -72,11 +69,12 @@ stylesheet += `
 }
 `
 }
+  stylesheet = config.head + stylesheet
 
   await writeFile(path.join(__dirname, '../../packages/css/any.css'), stylesheet)
 
   // generate minified stylesheet
   await log('Generating minified stylesheet...')
   const minifiedStylesheet = new CleanCSS().minify(stylesheet)
-  await writeFile(path.join(__dirname, '../../packages/css/any.min.css'), minifiedStylesheet.styles.replace('!*/', '!*/\n'), 'utf-8')
+  await writeFile(path.join(__dirname, '../../packages/css/any.min.css'), minifiedStylesheet.styles.replace(config.head, config.minifiedHead + '\n'), 'utf-8')
 })()
