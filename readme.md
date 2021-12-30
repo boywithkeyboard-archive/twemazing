@@ -11,6 +11,12 @@
 - [`@twemazing/scss`](https://www.npmjs.com/package/@twemazing/scss) **(scss)**
 - [`@twemazing/cdn`](https://www.npmjs.com/package/@twemazing/cdn) **(images)**
 
+#### CDN Clones
+
+- [`@twe/x`](https://www.npmjs.com/package/@twe/x)
+- [`@twe/moji`](https://www.npmjs.com/package/@twe/moji)
+- [`@twe/cdn`](https://www.npmjs.com/package/@twe/cdn)
+
 ###### ℹ️ All our packages follow the versioning of this repository. ✅ Up to date with [Twemoji v13.1.0](https://twemoji.twitter.com). 🏷️ Names as of [Emojipedia](https://emojipedia.org/emoji).
 
 ## Usage
