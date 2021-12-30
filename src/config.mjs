@@ -1,5 +1,7 @@
+const version = '0.0.0'
+
 export default {
-  version: '0.0.0',
+  version: version,
   description: '🧸 A better Twemoji Library',
   funding: {
     type: 'individual',
@@ -21,5 +23,10 @@ export default {
   bugs: {
     url: 'https://github.com/azurydev/twemazing/issues'
   },
-  homepage: 'https://twemazing.com'
+  homepage: 'https://twemazing.com',
+  head: `/*!
+ *  Twemazing v${version} by Azury - https://twemazing.com
+ *  License - Apache-2.0
+ */`,
+  minifiedHead: `/*! Twemazing v${version} by Azury - https://twemazing.com | License - Apache-2.0 */`
 }
