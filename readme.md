@@ -11,7 +11,7 @@
 - [`@twemazing/scss`](https://www.npmjs.com/package/@twemazing/scss) **(scss)**
 - [`@twemazing/cdn`](https://www.npmjs.com/package/@twemazing/cdn) **(images)**
 
-###### ℹ️ All our packages follow the versioning of this repository. ✅ Up to date with [Twemoji v13.1.0](https://twemoji.twitter.com)
+###### ℹ️ All our packages follow the versioning of this repository. ✅ Up to date with [Twemoji v13.1.0](https://twemoji.twitter.com). 🏷️ Names as of [Emojipedia](https://emojipedia.org/emoji). <br> 📜 Code licensed under the [Apache-2.0-License](https://github.com/azurydev/twemazing/blob/current/license). Graphics licensed under the [CC-BY 4.0-License](https://creativecommons.org/licenses/by/4.0).
 
 ## Usage
 
