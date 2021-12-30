@@ -129,27 +129,27 @@ export default [
 	},
 	{
 		shortName: 'Artist',
-		codepoint: '1f9d1 200d 1f3a8'
+		codepoint: '1f9d1-200d-1f3a8'
 	},
 	{
 		shortName: 'Artist Dark Skin Tone',
-		codepoint: '1f9d1 1f3ff 200d 1f3a8'
+		codepoint: '1f9d1-1f3ff-200d-1f3a8'
 	},
 	{
 		shortName: 'Artist Light Skin Tone',
-		codepoint: '1f9d1 1f3fb 200d 1f3a8'
+		codepoint: '1f9d1-1f3fb-200d-1f3a8'
 	},
 	{
 		shortName: 'Artist Medium Dark Skin Tone',
-		codepoint: '1f9d1 1f3fe 200d 1f3a8'
+		codepoint: '1f9d1-1f3fe-200d-1f3a8'
 	},
 	{
 		shortName: 'Artist Medium Light Skin Tone',
-		codepoint: '1f9d1 1f3fc 200d 1f3a8'
+		codepoint: '1f9d1-1f3fc-200d-1f3a8'
 	},
 	{
 		shortName: 'Artist Medium Skin Tone',
-		codepoint: '1f9d1 1f3fd 200d 1f3a8'
+		codepoint: '1f9d1-1f3fd-200d-1f3a8'
 	},
 	{
 		shortName: 'Artist Palette',
@@ -161,27 +161,27 @@ export default [
 	},
 	{
 		shortName: 'Astronaut',
-		codepoint: '1f9d1 200d 1f680'
+		codepoint: '1f9d1-200d-1f680'
 	},
 	{
 		shortName: 'Astronaut Dark Skin Tone',
-		codepoint: '1f9d1 1f3ff 200d 1f680'
+		codepoint: '1f9d1-1f3ff-200d-1f680'
 	},
 	{
 		shortName: 'Astronaut Light Skin Tone',
-		codepoint: '1f9d1 1f3fb 200d 1f680'
+		codepoint: '1f9d1-1f3fb-200d-1f680'
 	},
 	{
 		shortName: 'Astronaut Medium Dark Skin Tone',
-		codepoint: '1f9d1 1f3fe 200d 1f680'
+		codepoint: '1f9d1-1f3fe-200d-1f680'
 	},
 	{
 		shortName: 'Astronaut Medium Light Skin Tone',
-		codepoint: '1f9d1 1f3fc 200d 1f680'
+		codepoint: '1f9d1-1f3fc-200d-1f680'
 	},
 	{
 		shortName: 'Astronaut Medium Skin Tone',
-		codepoint: '1f9d1 1f3fd 200d 1f680'
+		codepoint: '1f9d1-1f3fd-200d-1f680'
 	},
 	{
 		shortName: 'Atm Sign',
@@ -221,23 +221,23 @@ export default [
 	},
 	{
 		shortName: 'Baby Angel Dark Skin Tone',
-		codepoint: '1f47c 1f3ff'
+		codepoint: '1f47c-1f3ff'
 	},
 	{
 		shortName: 'Baby Angel Light Skin Tone',
-		codepoint: '1f47c 1f3fb'
+		codepoint: '1f47c-1f3fb'
 	},
 	{
 		shortName: 'Baby Angel Medium Dark Skin Tone',
-		codepoint: '1f47c 1f3fe'
+		codepoint: '1f47c-1f3fe'
 	},
 	{
 		shortName: 'Baby Angel Medium Light Skin Tone',
-		codepoint: '1f47c 1f3fc'
+		codepoint: '1f47c-1f3fc'
 	},
 	{
 		shortName: 'Baby Angel Medium Skin Tone',
-		codepoint: '1f47c 1f3fd'
+		codepoint: '1f47c-1f3fd'
 	},
 	{
 		shortName: 'Baby Bottle',
@@ -249,23 +249,23 @@ export default [
 	},
 	{
 		shortName: 'Baby Dark Skin Tone',
-		codepoint: '1f476 1f3ff'
+		codepoint: '1f476-1f3ff'
 	},
 	{
 		shortName: 'Baby Light Skin Tone',
-		codepoint: '1f476 1f3fb'
+		codepoint: '1f476-1f3fb'
 	},
 	{
 		shortName: 'Baby Medium Dark Skin Tone',
-		codepoint: '1f476 1f3fe'
+		codepoint: '1f476-1f3fe'
 	},
 	{
 		shortName: 'Baby Medium Light Skin Tone',
-		codepoint: '1f476 1f3fc'
+		codepoint: '1f476-1f3fc'
 	},
 	{
 		shortName: 'Baby Medium Skin Tone',
-		codepoint: '1f476 1f3fd'
+		codepoint: '1f476-1f3fd'
 	},
 	{
 		shortName: 'Baby Symbol',
@@ -281,23 +281,23 @@ export default [
 	},
 	{
 		shortName: 'Backhand Index Pointing Down Dark Skin Tone',
-		codepoint: '1f447 1f3ff'
+		codepoint: '1f447-1f3ff'
 	},
 	{
 		shortName: 'Backhand Index Pointing Down Light Skin Tone',
-		codepoint: '1f447 1f3fb'
+		codepoint: '1f447-1f3fb'
 	},
 	{
 		shortName: 'Backhand Index Pointing Down Medium Dark Skin Tone',
-		codepoint: '1f447 1f3fe'
+		codepoint: '1f447-1f3fe'
 	},
 	{
 		shortName: 'Backhand Index Pointing Down Medium Light Skin Tone',
-		codepoint: '1f447 1f3fc'
+		codepoint: '1f447-1f3fc'
 	},
 	{
 		shortName: 'Backhand Index Pointing Down Medium Skin Tone',
-		codepoint: '1f447 1f3fd'
+		codepoint: '1f447-1f3fd'
 	},
 	{
 		shortName: 'Backhand Index Pointing Left',
@@ -305,23 +305,23 @@ export default [
 	},
 	{
 		shortName: 'Backhand Index Pointing Left Dark Skin Tone',
-		codepoint: '1f448 1f3ff'
+		codepoint: '1f448-1f3ff'
 	},
 	{
 		shortName: 'Backhand Index Pointing Left Light Skin Tone',
-		codepoint: '1f448 1f3fb'
+		codepoint: '1f448-1f3fb'
 	},
 	{
 		shortName: 'Backhand Index Pointing Left Medium Dark Skin Tone',
-		codepoint: '1f448 1f3fe'
+		codepoint: '1f448-1f3fe'
 	},
 	{
 		shortName: 'Backhand Index Pointing Left Medium Light Skin Tone',
-		codepoint: '1f448 1f3fc'
+		codepoint: '1f448-1f3fc'
 	},
 	{
 		shortName: 'Backhand Index Pointing Left Medium Skin Tone',
-		codepoint: '1f448 1f3fd'
+		codepoint: '1f448-1f3fd'
 	},
 	{
 		shortName: 'Backhand Index Pointing Right',
@@ -329,23 +329,23 @@ export default [
 	},
 	{
 		shortName: 'Backhand Index Pointing Right Dark Skin Tone',
-		codepoint: '1f449 1f3ff'
+		codepoint: '1f449-1f3ff'
 	},
 	{
 		shortName: 'Backhand Index Pointing Right Light Skin Tone',
-		codepoint: '1f449 1f3fb'
+		codepoint: '1f449-1f3fb'
 	},
 	{
 		shortName: 'Backhand Index Pointing Right Medium Dark Skin Tone',
-		codepoint: '1f449 1f3fe'
+		codepoint: '1f449-1f3fe'
 	},
 	{
 		shortName: 'Backhand Index Pointing Right Medium Light Skin Tone',
-		codepoint: '1f449 1f3fc'
+		codepoint: '1f449-1f3fc'
 	},
 	{
 		shortName: 'Backhand Index Pointing Right Medium Skin Tone',
-		codepoint: '1f449 1f3fd'
+		codepoint: '1f449-1f3fd'
 	},
 	{
 		shortName: 'Backhand Index Pointing Up',
@@ -353,23 +353,23 @@ export default [
 	},
 	{
 		shortName: 'Backhand Index Pointing Up Dark Skin Tone',
-		codepoint: '1f446 1f3ff'
+		codepoint: '1f446-1f3ff'
 	},
 	{
 		shortName: 'Backhand Index Pointing Up Light Skin Tone',
-		codepoint: '1f446 1f3fb'
+		codepoint: '1f446-1f3fb'
 	},
 	{
 		shortName: 'Backhand Index Pointing Up Medium Dark Skin Tone',
-		codepoint: '1f446 1f3fe'
+		codepoint: '1f446-1f3fe'
 	},
 	{
 		shortName: 'Backhand Index Pointing Up Medium Light Skin Tone',
-		codepoint: '1f446 1f3fc'
+		codepoint: '1f446-1f3fc'
 	},
 	{
 		shortName: 'Backhand Index Pointing Up Medium Skin Tone',
-		codepoint: '1f446 1f3fd'
+		codepoint: '1f446-1f3fd'
 	},
 	{
 		shortName: 'Backpack',
@@ -549,7 +549,7 @@ export default [
 	},
 	{
 		shortName: 'Black Cat',
-		codepoint: '1f408 200d 2b1b'
+		codepoint: '1f408-200d-2b1b'
 	},
 	{
 		shortName: 'Black Circle',
@@ -673,23 +673,23 @@ export default [
 	},
 	{
 		shortName: 'Boy Dark Skin Tone',
-		codepoint: '1f466 1f3ff'
+		codepoint: '1f466-1f3ff'
 	},
 	{
 		shortName: 'Boy Light Skin Tone',
-		codepoint: '1f466 1f3fb'
+		codepoint: '1f466-1f3fb'
 	},
 	{
 		shortName: 'Boy Medium Dark Skin Tone',
-		codepoint: '1f466 1f3fe'
+		codepoint: '1f466-1f3fe'
 	},
 	{
 		shortName: 'Boy Medium Light Skin Tone',
-		codepoint: '1f466 1f3fc'
+		codepoint: '1f466-1f3fc'
 	},
 	{
 		shortName: 'Boy Medium Skin Tone',
-		codepoint: '1f466 1f3fd'
+		codepoint: '1f466-1f3fd'
 	},
 	{
 		shortName: 'Brain',
@@ -705,23 +705,23 @@ export default [
 	},
 	{
 		shortName: 'Breast Feeding Dark Skin Tone',
-		codepoint: '1f931 1f3ff'
+		codepoint: '1f931-1f3ff'
 	},
 	{
 		shortName: 'Breast Feeding Light Skin Tone',
-		codepoint: '1f931 1f3fb'
+		codepoint: '1f931-1f3fb'
 	},
 	{
 		shortName: 'Breast Feeding Medium Dark Skin Tone',
-		codepoint: '1f931 1f3fe'
+		codepoint: '1f931-1f3fe'
 	},
 	{
 		shortName: 'Breast Feeding Medium Light Skin Tone',
-		codepoint: '1f931 1f3fc'
+		codepoint: '1f931-1f3fc'
 	},
 	{
 		shortName: 'Breast Feeding Medium Skin Tone',
-		codepoint: '1f931 1f3fd'
+		codepoint: '1f931-1f3fd'
 	},
 	{
 		shortName: 'Brick',
@@ -833,23 +833,23 @@ export default [
 	},
 	{
 		shortName: 'Call Me Hand Dark Skin Tone',
-		codepoint: '1f919 1f3ff'
+		codepoint: '1f919-1f3ff'
 	},
 	{
 		shortName: 'Call Me Hand Light Skin Tone',
-		codepoint: '1f919 1f3fb'
+		codepoint: '1f919-1f3fb'
 	},
 	{
 		shortName: 'Call Me Hand Medium Dark Skin Tone',
-		codepoint: '1f919 1f3fe'
+		codepoint: '1f919-1f3fe'
 	},
 	{
 		shortName: 'Call Me Hand Medium Light Skin Tone',
-		codepoint: '1f919 1f3fc'
+		codepoint: '1f919-1f3fc'
 	},
 	{
 		shortName: 'Call Me Hand Medium Skin Tone',
-		codepoint: '1f919 1f3fd'
+		codepoint: '1f919-1f3fd'
 	},
 	{
 		shortName: 'Camel',
@@ -1005,23 +1005,23 @@ export default [
 	},
 	{
 		shortName: 'Child Dark Skin Tone',
-		codepoint: '1f9d2 1f3ff'
+		codepoint: '1f9d2-1f3ff'
 	},
 	{
 		shortName: 'Child Light Skin Tone',
-		codepoint: '1f9d2 1f3fb'
+		codepoint: '1f9d2-1f3fb'
 	},
 	{
 		shortName: 'Child Medium Dark Skin Tone',
-		codepoint: '1f9d2 1f3fe'
+		codepoint: '1f9d2-1f3fe'
 	},
 	{
 		shortName: 'Child Medium Light Skin Tone',
-		codepoint: '1f9d2 1f3fc'
+		codepoint: '1f9d2-1f3fc'
 	},
 	{
 		shortName: 'Child Medium Skin Tone',
-		codepoint: '1f9d2 1f3fd'
+		codepoint: '1f9d2-1f3fd'
 	},
 	{
 		shortName: 'Children Crossing',
@@ -1089,23 +1089,23 @@ export default [
 	},
 	{
 		shortName: 'Clapping Hands Dark Skin Tone',
-		codepoint: '1f44f 1f3ff'
+		codepoint: '1f44f-1f3ff'
 	},
 	{
 		shortName: 'Clapping Hands Light Skin Tone',
-		codepoint: '1f44f 1f3fb'
+		codepoint: '1f44f-1f3fb'
 	},
 	{
 		shortName: 'Clapping Hands Medium Dark Skin Tone',
-		codepoint: '1f44f 1f3fe'
+		codepoint: '1f44f-1f3fe'
 	},
 	{
 		shortName: 'Clapping Hands Medium Light Skin Tone',
-		codepoint: '1f44f 1f3fc'
+		codepoint: '1f44f-1f3fc'
 	},
 	{
 		shortName: 'Clapping Hands Medium Skin Tone',
-		codepoint: '1f44f 1f3fd'
+		codepoint: '1f44f-1f3fd'
 	},
 	{
 		shortName: 'Classical Building',
@@ -1245,23 +1245,23 @@ export default [
 	},
 	{
 		shortName: 'Construction Worker Dark Skin Tone',
-		codepoint: '1f477 1f3ff'
+		codepoint: '1f477-1f3ff'
 	},
 	{
 		shortName: 'Construction Worker Light Skin Tone',
-		codepoint: '1f477 1f3fb'
+		codepoint: '1f477-1f3fb'
 	},
 	{
 		shortName: 'Construction Worker Medium Dark Skin Tone',
-		codepoint: '1f477 1f3fe'
+		codepoint: '1f477-1f3fe'
 	},
 	{
 		shortName: 'Construction Worker Medium Light Skin Tone',
-		codepoint: '1f477 1f3fc'
+		codepoint: '1f477-1f3fc'
 	},
 	{
 		shortName: 'Construction Worker Medium Skin Tone',
-		codepoint: '1f477 1f3fd'
+		codepoint: '1f477-1f3fd'
 	},
 	{
 		shortName: 'Control Knobs',
@@ -1273,27 +1273,27 @@ export default [
 	},
 	{
 		shortName: 'Cook',
-		codepoint: '1f9d1 200d 1f373'
+		codepoint: '1f9d1-200d-1f373'
 	},
 	{
 		shortName: 'Cook Dark Skin Tone',
-		codepoint: '1f9d1 1f3ff 200d 1f373'
+		codepoint: '1f9d1-1f3ff-200d-1f373'
 	},
 	{
 		shortName: 'Cook Light Skin Tone',
-		codepoint: '1f9d1 1f3fb 200d 1f373'
+		codepoint: '1f9d1-1f3fb-200d-1f373'
 	},
 	{
 		shortName: 'Cook Medium Dark Skin Tone',
-		codepoint: '1f9d1 1f3fe 200d 1f373'
+		codepoint: '1f9d1-1f3fe-200d-1f373'
 	},
 	{
 		shortName: 'Cook Medium Light Skin Tone',
-		codepoint: '1f9d1 1f3fc 200d 1f373'
+		codepoint: '1f9d1-1f3fc-200d-1f373'
 	},
 	{
 		shortName: 'Cook Medium Skin Tone',
-		codepoint: '1f9d1 1f3fd 200d 1f373'
+		codepoint: '1f9d1-1f3fd-200d-1f373'
 	},
 	{
 		shortName: 'Cooked Rice',
@@ -1329,415 +1329,415 @@ export default [
 	},
 	{
 		shortName: 'Couple With Heart Dark Skin Tone',
-		codepoint: '1f491 1f3ff'
+		codepoint: '1f491-1f3ff'
 	},
 	{
 		shortName: 'Couple With Heart Light Skin Tone',
-		codepoint: '1f491 1f3fb'
+		codepoint: '1f491-1f3fb'
 	},
 	{
 		shortName: 'Couple With Heart Man Man',
-		codepoint: '1f468 200d 2764 fe0f 200d 1f468'
+		codepoint: '1f468-200d-2764-fe0f-200d-1f468'
 	},
 	{
 		shortName: 'Couple With Heart Man Man Dark Skin Tone',
-		codepoint: '1f468 1f3ff 200d 2764 fe0f 200d 1f468 1f3ff'
+		codepoint: '1f468-1f3ff-200d-2764-fe0f-200d-1f468-1f3ff'
 	},
 	{
 		shortName: 'Couple With Heart Man Man Dark Skin Tone Light Skin Tone',
-		codepoint: '1f468 1f3ff 200d 2764 fe0f 200d 1f468 1f3fb'
+		codepoint: '1f468-1f3ff-200d-2764-fe0f-200d-1f468-1f3fb'
 	},
 	{
 		shortName: 'Couple With Heart Man Man Dark Skin Tone Medium Dark Skin Tone',
-		codepoint: '1f468 1f3ff 200d 2764 fe0f 200d 1f468 1f3fe'
+		codepoint: '1f468-1f3ff-200d-2764-fe0f-200d-1f468-1f3fe'
 	},
 	{
 		shortName: 'Couple With Heart Man Man Dark Skin Tone Medium Light Skin Tone',
-		codepoint: '1f468 1f3ff 200d 2764 fe0f 200d 1f468 1f3fc'
+		codepoint: '1f468-1f3ff-200d-2764-fe0f-200d-1f468-1f3fc'
 	},
 	{
 		shortName: 'Couple With Heart Man Man Dark Skin Tone Medium Skin Tone',
-		codepoint: '1f468 1f3ff 200d 2764 fe0f 200d 1f468 1f3fd'
+		codepoint: '1f468-1f3ff-200d-2764-fe0f-200d-1f468-1f3fd'
 	},
 	{
 		shortName: 'Couple With Heart Man Man Light Skin Tone',
-		codepoint: '1f468 1f3fb 200d 2764 fe0f 200d 1f468 1f3fb'
+		codepoint: '1f468-1f3fb-200d-2764-fe0f-200d-1f468-1f3fb'
 	},
 	{
 		shortName: 'Couple With Heart Man Man Light Skin Tone Dark Skin Tone',
-		codepoint: '1f468 1f3fb 200d 2764 fe0f 200d 1f468 1f3ff'
+		codepoint: '1f468-1f3fb-200d-2764-fe0f-200d-1f468-1f3ff'
 	},
 	{
 		shortName: 'Couple With Heart Man Man Light Skin Tone Medium Dark Skin Tone',
-		codepoint: '1f468 1f3fb 200d 2764 fe0f 200d 1f468 1f3fe'
+		codepoint: '1f468-1f3fb-200d-2764-fe0f-200d-1f468-1f3fe'
 	},
 	{
 		shortName: 'Couple With Heart Man Man Light Skin Tone Medium Light Skin Tone',
-		codepoint: '1f468 1f3fb 200d 2764 fe0f 200d 1f468 1f3fc'
+		codepoint: '1f468-1f3fb-200d-2764-fe0f-200d-1f468-1f3fc'
 	},
 	{
 		shortName: 'Couple With Heart Man Man Light Skin Tone Medium Skin Tone',
-		codepoint: '1f468 1f3fb 200d 2764 fe0f 200d 1f468 1f3fd'
+		codepoint: '1f468-1f3fb-200d-2764-fe0f-200d-1f468-1f3fd'
 	},
 	{
 		shortName: 'Couple With Heart Man Man Medium Dark Skin Tone',
-		codepoint: '1f468 1f3fe 200d 2764 fe0f 200d 1f468 1f3fe'
+		codepoint: '1f468-1f3fe-200d-2764-fe0f-200d-1f468-1f3fe'
 	},
 	{
 		shortName: 'Couple With Heart Man Man Medium Dark Skin Tone Dark Skin Tone',
-		codepoint: '1f468 1f3fe 200d 2764 fe0f 200d 1f468 1f3ff'
+		codepoint: '1f468-1f3fe-200d-2764-fe0f-200d-1f468-1f3ff'
 	},
 	{
 		shortName: 'Couple With Heart Man Man Medium Dark Skin Tone Light Skin Tone',
-		codepoint: '1f468 1f3fe 200d 2764 fe0f 200d 1f468 1f3fb'
+		codepoint: '1f468-1f3fe-200d-2764-fe0f-200d-1f468-1f3fb'
 	},
 	{
 		shortName: 'Couple With Heart Man Man Medium Dark Skin Tone Medium Light Skin Tone',
-		codepoint: '1f468 1f3fe 200d 2764 fe0f 200d 1f468 1f3fc'
+		codepoint: '1f468-1f3fe-200d-2764-fe0f-200d-1f468-1f3fc'
 	},
 	{
 		shortName: 'Couple With Heart Man Man Medium Dark Skin Tone Medium Skin Tone',
-		codepoint: '1f468 1f3fe 200d 2764 fe0f 200d 1f468 1f3fd'
+		codepoint: '1f468-1f3fe-200d-2764-fe0f-200d-1f468-1f3fd'
 	},
 	{
 		shortName: 'Couple With Heart Man Man Medium Light Skin Tone',
-		codepoint: '1f468 1f3fc 200d 2764 fe0f 200d 1f468 1f3fc'
+		codepoint: '1f468-1f3fc-200d-2764-fe0f-200d-1f468-1f3fc'
 	},
 	{
 		shortName: 'Couple With Heart Man Man Medium Light Skin Tone Dark Skin Tone',
-		codepoint: '1f468 1f3fc 200d 2764 fe0f 200d 1f468 1f3ff'
+		codepoint: '1f468-1f3fc-200d-2764-fe0f-200d-1f468-1f3ff'
 	},
 	{
 		shortName: 'Couple With Heart Man Man Medium Light Skin Tone Light Skin Tone',
-		codepoint: '1f468 1f3fc 200d 2764 fe0f 200d 1f468 1f3fb'
+		codepoint: '1f468-1f3fc-200d-2764-fe0f-200d-1f468-1f3fb'
 	},
 	{
 		shortName: 'Couple With Heart Man Man Medium Light Skin Tone Medium Dark Skin Tone',
-		codepoint: '1f468 1f3fc 200d 2764 fe0f 200d 1f468 1f3fe'
+		codepoint: '1f468-1f3fc-200d-2764-fe0f-200d-1f468-1f3fe'
 	},
 	{
 		shortName: 'Couple With Heart Man Man Medium Light Skin Tone Medium Skin Tone',
-		codepoint: '1f468 1f3fc 200d 2764 fe0f 200d 1f468 1f3fd'
+		codepoint: '1f468-1f3fc-200d-2764-fe0f-200d-1f468-1f3fd'
 	},
 	{
 		shortName: 'Couple With Heart Man Man Medium Skin Tone',
-		codepoint: '1f468 1f3fd 200d 2764 fe0f 200d 1f468 1f3fd'
+		codepoint: '1f468-1f3fd-200d-2764-fe0f-200d-1f468-1f3fd'
 	},
 	{
 		shortName: 'Couple With Heart Man Man Medium Skin Tone Dark Skin Tone',
-		codepoint: '1f468 1f3fd 200d 2764 fe0f 200d 1f468 1f3ff'
+		codepoint: '1f468-1f3fd-200d-2764-fe0f-200d-1f468-1f3ff'
 	},
 	{
 		shortName: 'Couple With Heart Man Man Medium Skin Tone Light Skin Tone',
-		codepoint: '1f468 1f3fd 200d 2764 fe0f 200d 1f468 1f3fb'
+		codepoint: '1f468-1f3fd-200d-2764-fe0f-200d-1f468-1f3fb'
 	},
 	{
 		shortName: 'Couple With Heart Man Man Medium Skin Tone Medium Dark Skin Tone',
-		codepoint: '1f468 1f3fd 200d 2764 fe0f 200d 1f468 1f3fe'
+		codepoint: '1f468-1f3fd-200d-2764-fe0f-200d-1f468-1f3fe'
 	},
 	{
 		shortName: 'Couple With Heart Man Man Medium Skin Tone Medium Light Skin Tone',
-		codepoint: '1f468 1f3fd 200d 2764 fe0f 200d 1f468 1f3fc'
+		codepoint: '1f468-1f3fd-200d-2764-fe0f-200d-1f468-1f3fc'
 	},
 	{
 		shortName: 'Couple With Heart Medium Dark Skin Tone',
-		codepoint: '1f491 1f3fe'
+		codepoint: '1f491-1f3fe'
 	},
 	{
 		shortName: 'Couple With Heart Medium Light Skin Tone',
-		codepoint: '1f491 1f3fc'
+		codepoint: '1f491-1f3fc'
 	},
 	{
 		shortName: 'Couple With Heart Medium Skin Tone',
-		codepoint: '1f491 1f3fd'
+		codepoint: '1f491-1f3fd'
 	},
 	{
 		shortName: 'Couple With Heart Person Person Dark Skin Tone Light Skin Tone',
-		codepoint: '1f9d1 1f3ff 200d 2764 fe0f 200d 1f9d1 1f3fb'
+		codepoint: '1f9d1-1f3ff-200d-2764-fe0f-200d-1f9d1-1f3fb'
 	},
 	{
 		shortName: 'Couple With Heart Person Person Dark Skin Tone Medium Dark Skin Tone',
-		codepoint: '1f9d1 1f3ff 200d 2764 fe0f 200d 1f9d1 1f3fe'
+		codepoint: '1f9d1-1f3ff-200d-2764-fe0f-200d-1f9d1-1f3fe'
 	},
 	{
 		shortName: 'Couple With Heart Person Person Dark Skin Tone Medium Light Skin Tone',
-		codepoint: '1f9d1 1f3ff 200d 2764 fe0f 200d 1f9d1 1f3fc'
+		codepoint: '1f9d1-1f3ff-200d-2764-fe0f-200d-1f9d1-1f3fc'
 	},
 	{
 		shortName: 'Couple With Heart Person Person Dark Skin Tone Medium Skin Tone',
-		codepoint: '1f9d1 1f3ff 200d 2764 fe0f 200d 1f9d1 1f3fd'
+		codepoint: '1f9d1-1f3ff-200d-2764-fe0f-200d-1f9d1-1f3fd'
 	},
 	{
 		shortName: 'Couple With Heart Person Person Light Skin Tone Dark Skin Tone',
-		codepoint: '1f9d1 1f3fb 200d 2764 fe0f 200d 1f9d1 1f3ff'
+		codepoint: '1f9d1-1f3fb-200d-2764-fe0f-200d-1f9d1-1f3ff'
 	},
 	{
 		shortName: 'Couple With Heart Person Person Light Skin Tone Medium Dark Skin Tone',
-		codepoint: '1f9d1 1f3fb 200d 2764 fe0f 200d 1f9d1 1f3fe'
+		codepoint: '1f9d1-1f3fb-200d-2764-fe0f-200d-1f9d1-1f3fe'
 	},
 	{
 		shortName: 'Couple With Heart Person Person Light Skin Tone Medium Light Skin Tone',
-		codepoint: '1f9d1 1f3fb 200d 2764 fe0f 200d 1f9d1 1f3fc'
+		codepoint: '1f9d1-1f3fb-200d-2764-fe0f-200d-1f9d1-1f3fc'
 	},
 	{
 		shortName: 'Couple With Heart Person Person Light Skin Tone Medium Skin Tone',
-		codepoint: '1f9d1 1f3fb 200d 2764 fe0f 200d 1f9d1 1f3fd'
+		codepoint: '1f9d1-1f3fb-200d-2764-fe0f-200d-1f9d1-1f3fd'
 	},
 	{
 		shortName: 'Couple With Heart Person Person Medium Dark Skin Tone Dark Skin Tone',
-		codepoint: '1f9d1 1f3fe 200d 2764 fe0f 200d 1f9d1 1f3ff'
+		codepoint: '1f9d1-1f3fe-200d-2764-fe0f-200d-1f9d1-1f3ff'
 	},
 	{
 		shortName: 'Couple With Heart Person Person Medium Dark Skin Tone Light Skin Tone',
-		codepoint: '1f9d1 1f3fe 200d 2764 fe0f 200d 1f9d1 1f3fb'
+		codepoint: '1f9d1-1f3fe-200d-2764-fe0f-200d-1f9d1-1f3fb'
 	},
 	{
 		shortName: 'Couple With Heart Person Person Medium Dark Skin Tone Medium Light Skin Tone',
-		codepoint: '1f9d1 1f3fe 200d 2764 fe0f 200d 1f9d1 1f3fc'
+		codepoint: '1f9d1-1f3fe-200d-2764-fe0f-200d-1f9d1-1f3fc'
 	},
 	{
 		shortName: 'Couple With Heart Person Person Medium Dark Skin Tone Medium Skin Tone',
-		codepoint: '1f9d1 1f3fe 200d 2764 fe0f 200d 1f9d1 1f3fd'
+		codepoint: '1f9d1-1f3fe-200d-2764-fe0f-200d-1f9d1-1f3fd'
 	},
 	{
 		shortName: 'Couple With Heart Person Person Medium Light Skin Tone Dark Skin Tone',
-		codepoint: '1f9d1 1f3fc 200d 2764 fe0f 200d 1f9d1 1f3ff'
+		codepoint: '1f9d1-1f3fc-200d-2764-fe0f-200d-1f9d1-1f3ff'
 	},
 	{
 		shortName: 'Couple With Heart Person Person Medium Light Skin Tone Light Skin Tone',
-		codepoint: '1f9d1 1f3fc 200d 2764 fe0f 200d 1f9d1 1f3fb'
+		codepoint: '1f9d1-1f3fc-200d-2764-fe0f-200d-1f9d1-1f3fb'
 	},
 	{
 		shortName: 'Couple With Heart Person Person Medium Light Skin Tone Medium Dark Skin Tone',
-		codepoint: '1f9d1 1f3fc 200d 2764 fe0f 200d 1f9d1 1f3fe'
+		codepoint: '1f9d1-1f3fc-200d-2764-fe0f-200d-1f9d1-1f3fe'
 	},
 	{
 		shortName: 'Couple With Heart Person Person Medium Light Skin Tone Medium Skin Tone',
-		codepoint: '1f9d1 1f3fc 200d 2764 fe0f 200d 1f9d1 1f3fd'
+		codepoint: '1f9d1-1f3fc-200d-2764-fe0f-200d-1f9d1-1f3fd'
 	},
 	{
 		shortName: 'Couple With Heart Person Person Medium Skin Tone Dark Skin Tone',
-		codepoint: '1f9d1 1f3fd 200d 2764 fe0f 200d 1f9d1 1f3ff'
+		codepoint: '1f9d1-1f3fd-200d-2764-fe0f-200d-1f9d1-1f3ff'
 	},
 	{
 		shortName: 'Couple With Heart Person Person Medium Skin Tone Light Skin Tone',
-		codepoint: '1f9d1 1f3fd 200d 2764 fe0f 200d 1f9d1 1f3fb'
+		codepoint: '1f9d1-1f3fd-200d-2764-fe0f-200d-1f9d1-1f3fb'
 	},
 	{
 		shortName: 'Couple With Heart Person Person Medium Skin Tone Medium Dark Skin Tone',
-		codepoint: '1f9d1 1f3fd 200d 2764 fe0f 200d 1f9d1 1f3fe'
+		codepoint: '1f9d1-1f3fd-200d-2764-fe0f-200d-1f9d1-1f3fe'
 	},
 	{
 		shortName: 'Couple With Heart Person Person Medium Skin Tone Medium Light Skin Tone',
-		codepoint: '1f9d1 1f3fd 200d 2764 fe0f 200d 1f9d1 1f3fc'
+		codepoint: '1f9d1-1f3fd-200d-2764-fe0f-200d-1f9d1-1f3fc'
 	},
 	{
 		shortName: 'Couple With Heart Woman Man',
-		codepoint: '1f469 200d 2764 fe0f 200d 1f468'
+		codepoint: '1f469-200d-2764-fe0f-200d-1f468'
 	},
 	{
 		shortName: 'Couple With Heart Woman Man Dark Skin Tone',
-		codepoint: '1f469 1f3ff 200d 2764 fe0f 200d 1f468 1f3ff'
+		codepoint: '1f469-1f3ff-200d-2764-fe0f-200d-1f468-1f3ff'
 	},
 	{
 		shortName: 'Couple With Heart Woman Man Dark Skin Tone Light Skin Tone',
-		codepoint: '1f469 1f3ff 200d 2764 fe0f 200d 1f468 1f3fb'
+		codepoint: '1f469-1f3ff-200d-2764-fe0f-200d-1f468-1f3fb'
 	},
 	{
 		shortName: 'Couple With Heart Woman Man Dark Skin Tone Medium Dark Skin Tone',
-		codepoint: '1f469 1f3ff 200d 2764 fe0f 200d 1f468 1f3fe'
+		codepoint: '1f469-1f3ff-200d-2764-fe0f-200d-1f468-1f3fe'
 	},
 	{
 		shortName: 'Couple With Heart Woman Man Dark Skin Tone Medium Light Skin Tone',
-		codepoint: '1f469 1f3ff 200d 2764 fe0f 200d 1f468 1f3fc'
+		codepoint: '1f469-1f3ff-200d-2764-fe0f-200d-1f468-1f3fc'
 	},
 	{
 		shortName: 'Couple With Heart Woman Man Dark Skin Tone Medium Skin Tone',
-		codepoint: '1f469 1f3ff 200d 2764 fe0f 200d 1f468 1f3fd'
+		codepoint: '1f469-1f3ff-200d-2764-fe0f-200d-1f468-1f3fd'
 	},
 	{
 		shortName: 'Couple With Heart Woman Man Light Skin Tone',
-		codepoint: '1f469 1f3fb 200d 2764 fe0f 200d 1f468 1f3fb'
+		codepoint: '1f469-1f3fb-200d-2764-fe0f-200d-1f468-1f3fb'
 	},
 	{
 		shortName: 'Couple With Heart Woman Man Light Skin Tone Dark Skin Tone',
-		codepoint: '1f469 1f3fb 200d 2764 fe0f 200d 1f468 1f3ff'
+		codepoint: '1f469-1f3fb-200d-2764-fe0f-200d-1f468-1f3ff'
 	},
 	{
 		shortName: 'Couple With Heart Woman Man Light Skin Tone Medium Dark Skin Tone',
-		codepoint: '1f469 1f3fb 200d 2764 fe0f 200d 1f468 1f3fe'
+		codepoint: '1f469-1f3fb-200d-2764-fe0f-200d-1f468-1f3fe'
 	},
 	{
 		shortName: 'Couple With Heart Woman Man Light Skin Tone Medium Light Skin Tone',
-		codepoint: '1f469 1f3fb 200d 2764 fe0f 200d 1f468 1f3fc'
+		codepoint: '1f469-1f3fb-200d-2764-fe0f-200d-1f468-1f3fc'
 	},
 	{
 		shortName: 'Couple With Heart Woman Man Light Skin Tone Medium Skin Tone',
-		codepoint: '1f469 1f3fb 200d 2764 fe0f 200d 1f468 1f3fd'
+		codepoint: '1f469-1f3fb-200d-2764-fe0f-200d-1f468-1f3fd'
 	},
 	{
 		shortName: 'Couple With Heart Woman Man Medium Dark Skin Tone',
-		codepoint: '1f469 1f3fe 200d 2764 fe0f 200d 1f468 1f3fe'
+		codepoint: '1f469-1f3fe-200d-2764-fe0f-200d-1f468-1f3fe'
 	},
 	{
 		shortName: 'Couple With Heart Woman Man Medium Dark Skin Tone Dark Skin Tone',
-		codepoint: '1f469 1f3fe 200d 2764 fe0f 200d 1f468 1f3ff'
+		codepoint: '1f469-1f3fe-200d-2764-fe0f-200d-1f468-1f3ff'
 	},
 	{
 		shortName: 'Couple With Heart Woman Man Medium Dark Skin Tone Light Skin Tone',
-		codepoint: '1f469 1f3fe 200d 2764 fe0f 200d 1f468 1f3fb'
+		codepoint: '1f469-1f3fe-200d-2764-fe0f-200d-1f468-1f3fb'
 	},
 	{
 		shortName: 'Couple With Heart Woman Man Medium Dark Skin Tone Medium Light Skin Tone',
-		codepoint: '1f469 1f3fe 200d 2764 fe0f 200d 1f468 1f3fc'
+		codepoint: '1f469-1f3fe-200d-2764-fe0f-200d-1f468-1f3fc'
 	},
 	{
 		shortName: 'Couple With Heart Woman Man Medium Dark Skin Tone Medium Skin Tone',
-		codepoint: '1f469 1f3fe 200d 2764 fe0f 200d 1f468 1f3fd'
+		codepoint: '1f469-1f3fe-200d-2764-fe0f-200d-1f468-1f3fd'
 	},
 	{
 		shortName: 'Couple With Heart Woman Man Medium Light Skin Tone',
-		codepoint: '1f469 1f3fc 200d 2764 fe0f 200d 1f468 1f3fc'
+		codepoint: '1f469-1f3fc-200d-2764-fe0f-200d-1f468-1f3fc'
 	},
 	{
 		shortName: 'Couple With Heart Woman Man Medium Light Skin Tone Dark Skin Tone',
-		codepoint: '1f469 1f3fc 200d 2764 fe0f 200d 1f468 1f3ff'
+		codepoint: '1f469-1f3fc-200d-2764-fe0f-200d-1f468-1f3ff'
 	},
 	{
 		shortName: 'Couple With Heart Woman Man Medium Light Skin Tone Light Skin Tone',
-		codepoint: '1f469 1f3fc 200d 2764 fe0f 200d 1f468 1f3fb'
+		codepoint: '1f469-1f3fc-200d-2764-fe0f-200d-1f468-1f3fb'
 	},
 	{
 		shortName: 'Couple With Heart Woman Man Medium Light Skin Tone Medium Dark Skin Tone',
-		codepoint: '1f469 1f3fc 200d 2764 fe0f 200d 1f468 1f3fe'
+		codepoint: '1f469-1f3fc-200d-2764-fe0f-200d-1f468-1f3fe'
 	},
 	{
 		shortName: 'Couple With Heart Woman Man Medium Light Skin Tone Medium Skin Tone',
-		codepoint: '1f469 1f3fc 200d 2764 fe0f 200d 1f468 1f3fd'
+		codepoint: '1f469-1f3fc-200d-2764-fe0f-200d-1f468-1f3fd'
 	},
 	{
 		shortName: 'Couple With Heart Woman Man Medium Skin Tone',
-		codepoint: '1f469 1f3fd 200d 2764 fe0f 200d 1f468 1f3fd'
+		codepoint: '1f469-1f3fd-200d-2764-fe0f-200d-1f468-1f3fd'
 	},
 	{
 		shortName: 'Couple With Heart Woman Man Medium Skin Tone Dark Skin Tone',
-		codepoint: '1f469 1f3fd 200d 2764 fe0f 200d 1f468 1f3ff'
+		codepoint: '1f469-1f3fd-200d-2764-fe0f-200d-1f468-1f3ff'
 	},
 	{
 		shortName: 'Couple With Heart Woman Man Medium Skin Tone Light Skin Tone',
-		codepoint: '1f469 1f3fd 200d 2764 fe0f 200d 1f468 1f3fb'
+		codepoint: '1f469-1f3fd-200d-2764-fe0f-200d-1f468-1f3fb'
 	},
 	{
 		shortName: 'Couple With Heart Woman Man Medium Skin Tone Medium Dark Skin Tone',
-		codepoint: '1f469 1f3fd 200d 2764 fe0f 200d 1f468 1f3fe'
+		codepoint: '1f469-1f3fd-200d-2764-fe0f-200d-1f468-1f3fe'
 	},
 	{
 		shortName: 'Couple With Heart Woman Man Medium Skin Tone Medium Light Skin Tone',
-		codepoint: '1f469 1f3fd 200d 2764 fe0f 200d 1f468 1f3fc'
+		codepoint: '1f469-1f3fd-200d-2764-fe0f-200d-1f468-1f3fc'
 	},
 	{
 		shortName: 'Couple With Heart Woman Woman',
-		codepoint: '1f469 200d 2764 fe0f 200d 1f469'
+		codepoint: '1f469-200d-2764-fe0f-200d-1f469'
 	},
 	{
 		shortName: 'Couple With Heart Woman Woman Dark Skin Tone',
-		codepoint: '1f469 1f3ff 200d 2764 fe0f 200d 1f469 1f3ff'
+		codepoint: '1f469-1f3ff-200d-2764-fe0f-200d-1f469-1f3ff'
 	},
 	{
 		shortName: 'Couple With Heart Woman Woman Dark Skin Tone Light Skin Tone',
-		codepoint: '1f469 1f3ff 200d 2764 fe0f 200d 1f469 1f3fb'
+		codepoint: '1f469-1f3ff-200d-2764-fe0f-200d-1f469-1f3fb'
 	},
 	{
 		shortName: 'Couple With Heart Woman Woman Dark Skin Tone Medium Dark Skin Tone',
-		codepoint: '1f469 1f3ff 200d 2764 fe0f 200d 1f469 1f3fe'
+		codepoint: '1f469-1f3ff-200d-2764-fe0f-200d-1f469-1f3fe'
 	},
 	{
 		shortName: 'Couple With Heart Woman Woman Dark Skin Tone Medium Light Skin Tone',
-		codepoint: '1f469 1f3ff 200d 2764 fe0f 200d 1f469 1f3fc'
+		codepoint: '1f469-1f3ff-200d-2764-fe0f-200d-1f469-1f3fc'
 	},
 	{
 		shortName: 'Couple With Heart Woman Woman Dark Skin Tone Medium Skin Tone',
-		codepoint: '1f469 1f3ff 200d 2764 fe0f 200d 1f469 1f3fd'
+		codepoint: '1f469-1f3ff-200d-2764-fe0f-200d-1f469-1f3fd'
 	},
 	{
 		shortName: 'Couple With Heart Woman Woman Light Skin Tone',
-		codepoint: '1f469 1f3fb 200d 2764 fe0f 200d 1f469 1f3fb'
+		codepoint: '1f469-1f3fb-200d-2764-fe0f-200d-1f469-1f3fb'
 	},
 	{
 		shortName: 'Couple With Heart Woman Woman Light Skin Tone Dark Skin Tone',
-		codepoint: '1f469 1f3fb 200d 2764 fe0f 200d 1f469 1f3ff'
+		codepoint: '1f469-1f3fb-200d-2764-fe0f-200d-1f469-1f3ff'
 	},
 	{
 		shortName: 'Couple With Heart Woman Woman Light Skin Tone Medium Dark Skin Tone',
-		codepoint: '1f469 1f3fb 200d 2764 fe0f 200d 1f469 1f3fe'
+		codepoint: '1f469-1f3fb-200d-2764-fe0f-200d-1f469-1f3fe'
 	},
 	{
 		shortName: 'Couple With Heart Woman Woman Light Skin Tone Medium Light Skin Tone',
-		codepoint: '1f469 1f3fb 200d 2764 fe0f 200d 1f469 1f3fc'
+		codepoint: '1f469-1f3fb-200d-2764-fe0f-200d-1f469-1f3fc'
 	},
 	{
 		shortName: 'Couple With Heart Woman Woman Light Skin Tone Medium Skin Tone',
-		codepoint: '1f469 1f3fb 200d 2764 fe0f 200d 1f469 1f3fd'
+		codepoint: '1f469-1f3fb-200d-2764-fe0f-200d-1f469-1f3fd'
 	},
 	{
 		shortName: 'Couple With Heart Woman Woman Medium Dark Skin Tone',
-		codepoint: '1f469 1f3fe 200d 2764 fe0f 200d 1f469 1f3fe'
+		codepoint: '1f469-1f3fe-200d-2764-fe0f-200d-1f469-1f3fe'
 	},
 	{
 		shortName: 'Couple With Heart Woman Woman Medium Dark Skin Tone Dark Skin Tone',
-		codepoint: '1f469 1f3fe 200d 2764 fe0f 200d 1f469 1f3ff'
+		codepoint: '1f469-1f3fe-200d-2764-fe0f-200d-1f469-1f3ff'
 	},
 	{
 		shortName: 'Couple With Heart Woman Woman Medium Dark Skin Tone Light Skin Tone',
-		codepoint: '1f469 1f3fe 200d 2764 fe0f 200d 1f469 1f3fb'
+		codepoint: '1f469-1f3fe-200d-2764-fe0f-200d-1f469-1f3fb'
 	},
 	{
 		shortName: 'Couple With Heart Woman Woman Medium Dark Skin Tone Medium Light Skin Tone',
-		codepoint: '1f469 1f3fe 200d 2764 fe0f 200d 1f469 1f3fc'
+		codepoint: '1f469-1f3fe-200d-2764-fe0f-200d-1f469-1f3fc'
 	},
 	{
 		shortName: 'Couple With Heart Woman Woman Medium Dark Skin Tone Medium Skin Tone',
-		codepoint: '1f469 1f3fe 200d 2764 fe0f 200d 1f469 1f3fd'
+		codepoint: '1f469-1f3fe-200d-2764-fe0f-200d-1f469-1f3fd'
 	},
 	{
 		shortName: 'Couple With Heart Woman Woman Medium Light Skin Tone',
-		codepoint: '1f469 1f3fc 200d 2764 fe0f 200d 1f469 1f3fc'
+		codepoint: '1f469-1f3fc-200d-2764-fe0f-200d-1f469-1f3fc'
 	},
 	{
 		shortName: 'Couple With Heart Woman Woman Medium Light Skin Tone Dark Skin Tone',
-		codepoint: '1f469 1f3fc 200d 2764 fe0f 200d 1f469 1f3ff'
+		codepoint: '1f469-1f3fc-200d-2764-fe0f-200d-1f469-1f3ff'
 	},
 	{
 		shortName: 'Couple With Heart Woman Woman Medium Light Skin Tone Light Skin Tone',
-		codepoint: '1f469 1f3fc 200d 2764 fe0f 200d 1f469 1f3fb'
+		codepoint: '1f469-1f3fc-200d-2764-fe0f-200d-1f469-1f3fb'
 	},
 	{
 		shortName: 'Couple With Heart Woman Woman Medium Light Skin Tone Medium Dark Skin Tone',
-		codepoint: '1f469 1f3fc 200d 2764 fe0f 200d 1f469 1f3fe'
+		codepoint: '1f469-1f3fc-200d-2764-fe0f-200d-1f469-1f3fe'
 	},
 	{
 		shortName: 'Couple With Heart Woman Woman Medium Light Skin Tone Medium Skin Tone',
-		codepoint: '1f469 1f3fc 200d 2764 fe0f 200d 1f469 1f3fd'
+		codepoint: '1f469-1f3fc-200d-2764-fe0f-200d-1f469-1f3fd'
 	},
 	{
 		shortName: 'Couple With Heart Woman Woman Medium Skin Tone',
-		codepoint: '1f469 1f3fd 200d 2764 fe0f 200d 1f469 1f3fd'
+		codepoint: '1f469-1f3fd-200d-2764-fe0f-200d-1f469-1f3fd'
 	},
 	{
 		shortName: 'Couple With Heart Woman Woman Medium Skin Tone Dark Skin Tone',
-		codepoint: '1f469 1f3fd 200d 2764 fe0f 200d 1f469 1f3ff'
+		codepoint: '1f469-1f3fd-200d-2764-fe0f-200d-1f469-1f3ff'
 	},
 	{
 		shortName: 'Couple With Heart Woman Woman Medium Skin Tone Light Skin Tone',
-		codepoint: '1f469 1f3fd 200d 2764 fe0f 200d 1f469 1f3fb'
+		codepoint: '1f469-1f3fd-200d-2764-fe0f-200d-1f469-1f3fb'
 	},
 	{
 		shortName: 'Couple With Heart Woman Woman Medium Skin Tone Medium Dark Skin Tone',
-		codepoint: '1f469 1f3fd 200d 2764 fe0f 200d 1f469 1f3fe'
+		codepoint: '1f469-1f3fd-200d-2764-fe0f-200d-1f469-1f3fe'
 	},
 	{
 		shortName: 'Couple With Heart Woman Woman Medium Skin Tone Medium Light Skin Tone',
-		codepoint: '1f469 1f3fd 200d 2764 fe0f 200d 1f469 1f3fc'
+		codepoint: '1f469-1f3fd-200d-2764-fe0f-200d-1f469-1f3fc'
 	},
 	{
 		shortName: 'Cow',
@@ -1797,23 +1797,23 @@ export default [
 	},
 	{
 		shortName: 'Crossed Fingers Dark Skin Tone',
-		codepoint: '1f91e 1f3ff'
+		codepoint: '1f91e-1f3ff'
 	},
 	{
 		shortName: 'Crossed Fingers Light Skin Tone',
-		codepoint: '1f91e 1f3fb'
+		codepoint: '1f91e-1f3fb'
 	},
 	{
 		shortName: 'Crossed Fingers Medium Dark Skin Tone',
-		codepoint: '1f91e 1f3fe'
+		codepoint: '1f91e-1f3fe'
 	},
 	{
 		shortName: 'Crossed Fingers Medium Light Skin Tone',
-		codepoint: '1f91e 1f3fc'
+		codepoint: '1f91e-1f3fc'
 	},
 	{
 		shortName: 'Crossed Fingers Medium Skin Tone',
-		codepoint: '1f91e 1f3fd'
+		codepoint: '1f91e-1f3fd'
 	},
 	{
 		shortName: 'Crossed Flags',
@@ -1905,27 +1905,27 @@ export default [
 	},
 	{
 		shortName: 'Deaf Man',
-		codepoint: '1f9cf 200d 2642 fe0f'
+		codepoint: '1f9cf-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Deaf Man Dark Skin Tone',
-		codepoint: '1f9cf 1f3ff 200d 2642 fe0f'
+		codepoint: '1f9cf-1f3ff-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Deaf Man Light Skin Tone',
-		codepoint: '1f9cf 1f3fb 200d 2642 fe0f'
+		codepoint: '1f9cf-1f3fb-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Deaf Man Medium Dark Skin Tone',
-		codepoint: '1f9cf 1f3fe 200d 2642 fe0f'
+		codepoint: '1f9cf-1f3fe-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Deaf Man Medium Light Skin Tone',
-		codepoint: '1f9cf 1f3fc 200d 2642 fe0f'
+		codepoint: '1f9cf-1f3fc-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Deaf Man Medium Skin Tone',
-		codepoint: '1f9cf 1f3fd 200d 2642 fe0f'
+		codepoint: '1f9cf-1f3fd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Deaf Person',
@@ -1933,47 +1933,47 @@ export default [
 	},
 	{
 		shortName: 'Deaf Person Dark Skin Tone',
-		codepoint: '1f9cf 1f3ff'
+		codepoint: '1f9cf-1f3ff'
 	},
 	{
 		shortName: 'Deaf Person Light Skin Tone',
-		codepoint: '1f9cf 1f3fb'
+		codepoint: '1f9cf-1f3fb'
 	},
 	{
 		shortName: 'Deaf Person Medium Dark Skin Tone',
-		codepoint: '1f9cf 1f3fe'
+		codepoint: '1f9cf-1f3fe'
 	},
 	{
 		shortName: 'Deaf Person Medium Light Skin Tone',
-		codepoint: '1f9cf 1f3fc'
+		codepoint: '1f9cf-1f3fc'
 	},
 	{
 		shortName: 'Deaf Person Medium Skin Tone',
-		codepoint: '1f9cf 1f3fd'
+		codepoint: '1f9cf-1f3fd'
 	},
 	{
 		shortName: 'Deaf Woman',
-		codepoint: '1f9cf 200d 2640 fe0f'
+		codepoint: '1f9cf-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Deaf Woman Dark Skin Tone',
-		codepoint: '1f9cf 1f3ff 200d 2640 fe0f'
+		codepoint: '1f9cf-1f3ff-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Deaf Woman Light Skin Tone',
-		codepoint: '1f9cf 1f3fb 200d 2640 fe0f'
+		codepoint: '1f9cf-1f3fb-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Deaf Woman Medium Dark Skin Tone',
-		codepoint: '1f9cf 1f3fe 200d 2640 fe0f'
+		codepoint: '1f9cf-1f3fe-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Deaf Woman Medium Light Skin Tone',
-		codepoint: '1f9cf 1f3fc 200d 2640 fe0f'
+		codepoint: '1f9cf-1f3fc-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Deaf Woman Medium Skin Tone',
-		codepoint: '1f9cf 1f3fd 200d 2640 fe0f'
+		codepoint: '1f9cf-1f3fd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Deciduous Tree',
@@ -2013,23 +2013,23 @@ export default [
 	},
 	{
 		shortName: 'Detective Dark Skin Tone',
-		codepoint: '1f575 1f3ff'
+		codepoint: '1f575-1f3ff'
 	},
 	{
 		shortName: 'Detective Light Skin Tone',
-		codepoint: '1f575 1f3fb'
+		codepoint: '1f575-1f3fb'
 	},
 	{
 		shortName: 'Detective Medium Dark Skin Tone',
-		codepoint: '1f575 1f3fe'
+		codepoint: '1f575-1f3fe'
 	},
 	{
 		shortName: 'Detective Medium Light Skin Tone',
-		codepoint: '1f575 1f3fc'
+		codepoint: '1f575-1f3fc'
 	},
 	{
 		shortName: 'Detective Medium Skin Tone',
-		codepoint: '1f575 1f3fd'
+		codepoint: '1f575-1f3fd'
 	},
 	{
 		shortName: 'Diamond Suit',
@@ -2189,23 +2189,23 @@ export default [
 	},
 	{
 		shortName: 'Ear Dark Skin Tone',
-		codepoint: '1f442 1f3ff'
+		codepoint: '1f442-1f3ff'
 	},
 	{
 		shortName: 'Ear Light Skin Tone',
-		codepoint: '1f442 1f3fb'
+		codepoint: '1f442-1f3fb'
 	},
 	{
 		shortName: 'Ear Medium Dark Skin Tone',
-		codepoint: '1f442 1f3fe'
+		codepoint: '1f442-1f3fe'
 	},
 	{
 		shortName: 'Ear Medium Light Skin Tone',
-		codepoint: '1f442 1f3fc'
+		codepoint: '1f442-1f3fc'
 	},
 	{
 		shortName: 'Ear Medium Skin Tone',
-		codepoint: '1f442 1f3fd'
+		codepoint: '1f442-1f3fd'
 	},
 	{
 		shortName: 'Ear Of Corn',
@@ -2217,23 +2217,23 @@ export default [
 	},
 	{
 		shortName: 'Ear With Hearing Aid Dark Skin Tone',
-		codepoint: '1f9bb 1f3ff'
+		codepoint: '1f9bb-1f3ff'
 	},
 	{
 		shortName: 'Ear With Hearing Aid Light Skin Tone',
-		codepoint: '1f9bb 1f3fb'
+		codepoint: '1f9bb-1f3fb'
 	},
 	{
 		shortName: 'Ear With Hearing Aid Medium Dark Skin Tone',
-		codepoint: '1f9bb 1f3fe'
+		codepoint: '1f9bb-1f3fe'
 	},
 	{
 		shortName: 'Ear With Hearing Aid Medium Light Skin Tone',
-		codepoint: '1f9bb 1f3fc'
+		codepoint: '1f9bb-1f3fc'
 	},
 	{
 		shortName: 'Ear With Hearing Aid Medium Skin Tone',
-		codepoint: '1f9bb 1f3fd'
+		codepoint: '1f9bb-1f3fd'
 	},
 	{
 		shortName: 'Egg',
@@ -2289,23 +2289,23 @@ export default [
 	},
 	{
 		shortName: 'Elf Dark Skin Tone',
-		codepoint: '1f9dd 1f3ff'
+		codepoint: '1f9dd-1f3ff'
 	},
 	{
 		shortName: 'Elf Light Skin Tone',
-		codepoint: '1f9dd 1f3fb'
+		codepoint: '1f9dd-1f3fb'
 	},
 	{
 		shortName: 'Elf Medium Dark Skin Tone',
-		codepoint: '1f9dd 1f3fe'
+		codepoint: '1f9dd-1f3fe'
 	},
 	{
 		shortName: 'Elf Medium Light Skin Tone',
-		codepoint: '1f9dd 1f3fc'
+		codepoint: '1f9dd-1f3fc'
 	},
 	{
 		shortName: 'Elf Medium Skin Tone',
-		codepoint: '1f9dd 1f3fd'
+		codepoint: '1f9dd-1f3fd'
 	},
 	{
 		shortName: 'End Arrow',
@@ -2349,7 +2349,7 @@ export default [
 	},
 	{
 		shortName: 'Eye In Speech Bubble',
-		codepoint: '1f441 200d 1f5e8'
+		codepoint: '1f441-200d-1f5e8'
 	},
 	{
 		shortName: 'Eyes',
@@ -2361,11 +2361,11 @@ export default [
 	},
 	{
 		shortName: 'Face Exhaling',
-		codepoint: '1f62e 200d 1f4a8'
+		codepoint: '1f62e-200d-1f4a8'
 	},
 	{
 		shortName: 'Face In Clouds',
-		codepoint: '1f636 200d 1f32b fe0f'
+		codepoint: '1f636-200d-1f32b-fe0f'
 	},
 	{
 		shortName: 'Face Savoring Food',
@@ -2409,7 +2409,7 @@ export default [
 	},
 	{
 		shortName: 'Face With Spiral Eyes',
-		codepoint: '1f635 200d 1f4ab'
+		codepoint: '1f635-200d-1f4ab'
 	},
 	{
 		shortName: 'Face With Steam From Nose',
@@ -2441,27 +2441,27 @@ export default [
 	},
 	{
 		shortName: 'Factory Worker',
-		codepoint: '1f9d1 200d 1f3ed'
+		codepoint: '1f9d1-200d-1f3ed'
 	},
 	{
 		shortName: 'Factory Worker Dark Skin Tone',
-		codepoint: '1f9d1 1f3ff 200d 1f3ed'
+		codepoint: '1f9d1-1f3ff-200d-1f3ed'
 	},
 	{
 		shortName: 'Factory Worker Light Skin Tone',
-		codepoint: '1f9d1 1f3fb 200d 1f3ed'
+		codepoint: '1f9d1-1f3fb-200d-1f3ed'
 	},
 	{
 		shortName: 'Factory Worker Medium Dark Skin Tone',
-		codepoint: '1f9d1 1f3fe 200d 1f3ed'
+		codepoint: '1f9d1-1f3fe-200d-1f3ed'
 	},
 	{
 		shortName: 'Factory Worker Medium Light Skin Tone',
-		codepoint: '1f9d1 1f3fc 200d 1f3ed'
+		codepoint: '1f9d1-1f3fc-200d-1f3ed'
 	},
 	{
 		shortName: 'Factory Worker Medium Skin Tone',
-		codepoint: '1f9d1 1f3fd 200d 1f3ed'
+		codepoint: '1f9d1-1f3fd-200d-1f3ed'
 	},
 	{
 		shortName: 'Fairy',
@@ -2469,23 +2469,23 @@ export default [
 	},
 	{
 		shortName: 'Fairy Dark Skin Tone',
-		codepoint: '1f9da 1f3ff'
+		codepoint: '1f9da-1f3ff'
 	},
 	{
 		shortName: 'Fairy Light Skin Tone',
-		codepoint: '1f9da 1f3fb'
+		codepoint: '1f9da-1f3fb'
 	},
 	{
 		shortName: 'Fairy Medium Dark Skin Tone',
-		codepoint: '1f9da 1f3fe'
+		codepoint: '1f9da-1f3fe'
 	},
 	{
 		shortName: 'Fairy Medium Light Skin Tone',
-		codepoint: '1f9da 1f3fc'
+		codepoint: '1f9da-1f3fc'
 	},
 	{
 		shortName: 'Fairy Medium Skin Tone',
-		codepoint: '1f9da 1f3fd'
+		codepoint: '1f9da-1f3fd'
 	},
 	{
 		shortName: 'Falafel',
@@ -2501,127 +2501,127 @@ export default [
 	},
 	{
 		shortName: 'Family Man Boy',
-		codepoint: '1f468 200d 1f466'
+		codepoint: '1f468-200d-1f466'
 	},
 	{
 		shortName: 'Family Man Boy Boy',
-		codepoint: '1f468 200d 1f466 200d 1f466'
+		codepoint: '1f468-200d-1f466-200d-1f466'
 	},
 	{
 		shortName: 'Family Man Girl',
-		codepoint: '1f468 200d 1f467'
+		codepoint: '1f468-200d-1f467'
 	},
 	{
 		shortName: 'Family Man Girl Boy',
-		codepoint: '1f468 200d 1f467 200d 1f466'
+		codepoint: '1f468-200d-1f467-200d-1f466'
 	},
 	{
 		shortName: 'Family Man Girl Girl',
-		codepoint: '1f468 200d 1f467 200d 1f467'
+		codepoint: '1f468-200d-1f467-200d-1f467'
 	},
 	{
 		shortName: 'Family Man Man Boy',
-		codepoint: '1f468 200d 1f468 200d 1f466'
+		codepoint: '1f468-200d-1f468-200d-1f466'
 	},
 	{
 		shortName: 'Family Man Man Boy Boy',
-		codepoint: '1f468 200d 1f468 200d 1f466 200d 1f466'
+		codepoint: '1f468-200d-1f468-200d-1f466-200d-1f466'
 	},
 	{
 		shortName: 'Family Man Man Girl',
-		codepoint: '1f468 200d 1f468 200d 1f467'
+		codepoint: '1f468-200d-1f468-200d-1f467'
 	},
 	{
 		shortName: 'Family Man Man Girl Boy',
-		codepoint: '1f468 200d 1f468 200d 1f467 200d 1f466'
+		codepoint: '1f468-200d-1f468-200d-1f467-200d-1f466'
 	},
 	{
 		shortName: 'Family Man Man Girl Girl',
-		codepoint: '1f468 200d 1f468 200d 1f467 200d 1f467'
+		codepoint: '1f468-200d-1f468-200d-1f467-200d-1f467'
 	},
 	{
 		shortName: 'Family Man Woman Boy',
-		codepoint: '1f468 200d 1f469 200d 1f466'
+		codepoint: '1f468-200d-1f469-200d-1f466'
 	},
 	{
 		shortName: 'Family Man Woman Boy Boy',
-		codepoint: '1f468 200d 1f469 200d 1f466 200d 1f466'
+		codepoint: '1f468-200d-1f469-200d-1f466-200d-1f466'
 	},
 	{
 		shortName: 'Family Man Woman Girl',
-		codepoint: '1f468 200d 1f469 200d 1f467'
+		codepoint: '1f468-200d-1f469-200d-1f467'
 	},
 	{
 		shortName: 'Family Man Woman Girl Boy',
-		codepoint: '1f468 200d 1f469 200d 1f467 200d 1f466'
+		codepoint: '1f468-200d-1f469-200d-1f467-200d-1f466'
 	},
 	{
 		shortName: 'Family Man Woman Girl Girl',
-		codepoint: '1f468 200d 1f469 200d 1f467 200d 1f467'
+		codepoint: '1f468-200d-1f469-200d-1f467-200d-1f467'
 	},
 	{
 		shortName: 'Family Woman Boy',
-		codepoint: '1f469 200d 1f466'
+		codepoint: '1f469-200d-1f466'
 	},
 	{
 		shortName: 'Family Woman Boy Boy',
-		codepoint: '1f469 200d 1f466 200d 1f466'
+		codepoint: '1f469-200d-1f466-200d-1f466'
 	},
 	{
 		shortName: 'Family Woman Girl',
-		codepoint: '1f469 200d 1f467'
+		codepoint: '1f469-200d-1f467'
 	},
 	{
 		shortName: 'Family Woman Girl Boy',
-		codepoint: '1f469 200d 1f467 200d 1f466'
+		codepoint: '1f469-200d-1f467-200d-1f466'
 	},
 	{
 		shortName: 'Family Woman Girl Girl',
-		codepoint: '1f469 200d 1f467 200d 1f467'
+		codepoint: '1f469-200d-1f467-200d-1f467'
 	},
 	{
 		shortName: 'Family Woman Woman Boy',
-		codepoint: '1f469 200d 1f469 200d 1f466'
+		codepoint: '1f469-200d-1f469-200d-1f466'
 	},
 	{
 		shortName: 'Family Woman Woman Boy Boy',
-		codepoint: '1f469 200d 1f469 200d 1f466 200d 1f466'
+		codepoint: '1f469-200d-1f469-200d-1f466-200d-1f466'
 	},
 	{
 		shortName: 'Family Woman Woman Girl',
-		codepoint: '1f469 200d 1f469 200d 1f467'
+		codepoint: '1f469-200d-1f469-200d-1f467'
 	},
 	{
 		shortName: 'Family Woman Woman Girl Boy',
-		codepoint: '1f469 200d 1f469 200d 1f467 200d 1f466'
+		codepoint: '1f469-200d-1f469-200d-1f467-200d-1f466'
 	},
 	{
 		shortName: 'Family Woman Woman Girl Girl',
-		codepoint: '1f469 200d 1f469 200d 1f467 200d 1f467'
+		codepoint: '1f469-200d-1f469-200d-1f467-200d-1f467'
 	},
 	{
 		shortName: 'Farmer',
-		codepoint: '1f9d1 200d 1f33e'
+		codepoint: '1f9d1-200d-1f33e'
 	},
 	{
 		shortName: 'Farmer Dark Skin Tone',
-		codepoint: '1f9d1 1f3ff 200d 1f33e'
+		codepoint: '1f9d1-1f3ff-200d-1f33e'
 	},
 	{
 		shortName: 'Farmer Light Skin Tone',
-		codepoint: '1f9d1 1f3fb 200d 1f33e'
+		codepoint: '1f9d1-1f3fb-200d-1f33e'
 	},
 	{
 		shortName: 'Farmer Medium Dark Skin Tone',
-		codepoint: '1f9d1 1f3fe 200d 1f33e'
+		codepoint: '1f9d1-1f3fe-200d-1f33e'
 	},
 	{
 		shortName: 'Farmer Medium Light Skin Tone',
-		codepoint: '1f9d1 1f3fc 200d 1f33e'
+		codepoint: '1f9d1-1f3fc-200d-1f33e'
 	},
 	{
 		shortName: 'Farmer Medium Skin Tone',
-		codepoint: '1f9d1 1f3fd 200d 1f33e'
+		codepoint: '1f9d1-1f3fd-200d-1f33e'
 	},
 	{
 		shortName: 'Fast Down Button',
@@ -2701,27 +2701,27 @@ export default [
 	},
 	{
 		shortName: 'Firefighter',
-		codepoint: '1f9d1 200d 1f692'
+		codepoint: '1f9d1-200d-1f692'
 	},
 	{
 		shortName: 'Firefighter Dark Skin Tone',
-		codepoint: '1f9d1 1f3ff 200d 1f692'
+		codepoint: '1f9d1-1f3ff-200d-1f692'
 	},
 	{
 		shortName: 'Firefighter Light Skin Tone',
-		codepoint: '1f9d1 1f3fb 200d 1f692'
+		codepoint: '1f9d1-1f3fb-200d-1f692'
 	},
 	{
 		shortName: 'Firefighter Medium Dark Skin Tone',
-		codepoint: '1f9d1 1f3fe 200d 1f692'
+		codepoint: '1f9d1-1f3fe-200d-1f692'
 	},
 	{
 		shortName: 'Firefighter Medium Light Skin Tone',
-		codepoint: '1f9d1 1f3fc 200d 1f692'
+		codepoint: '1f9d1-1f3fc-200d-1f692'
 	},
 	{
 		shortName: 'Firefighter Medium Skin Tone',
-		codepoint: '1f9d1 1f3fd 200d 1f692'
+		codepoint: '1f9d1-1f3fd-200d-1f692'
 	},
 	{
 		shortName: 'Fireworks',
@@ -2757,439 +2757,439 @@ export default [
 	},
 	{
 		shortName: 'Flag Afghanistan',
-		codepoint: '1f1e6 1f1eb'
+		codepoint: '1f1e6-1f1eb'
 	},
 	{
 		shortName: 'Flag Albania',
-		codepoint: '1f1e6 1f1f1'
+		codepoint: '1f1e6-1f1f1'
 	},
 	{
 		shortName: 'Flag Algeria',
-		codepoint: '1f1e9 1f1ff'
+		codepoint: '1f1e9-1f1ff'
 	},
 	{
 		shortName: 'Flag American Samoa',
-		codepoint: '1f1e6 1f1f8'
+		codepoint: '1f1e6-1f1f8'
 	},
 	{
 		shortName: 'Flag Andorra',
-		codepoint: '1f1e6 1f1e9'
+		codepoint: '1f1e6-1f1e9'
 	},
 	{
 		shortName: 'Flag Angola',
-		codepoint: '1f1e6 1f1f4'
+		codepoint: '1f1e6-1f1f4'
 	},
 	{
 		shortName: 'Flag Anguilla',
-		codepoint: '1f1e6 1f1ee'
+		codepoint: '1f1e6-1f1ee'
 	},
 	{
 		shortName: 'Flag Antarctica',
-		codepoint: '1f1e6 1f1f6'
+		codepoint: '1f1e6-1f1f6'
 	},
 	{
 		shortName: 'Flag Antigua Barbuda',
-		codepoint: '1f1e6 1f1ec'
+		codepoint: '1f1e6-1f1ec'
 	},
 	{
 		shortName: 'Flag Argentina',
-		codepoint: '1f1e6 1f1f7'
+		codepoint: '1f1e6-1f1f7'
 	},
 	{
 		shortName: 'Flag Armenia',
-		codepoint: '1f1e6 1f1f2'
+		codepoint: '1f1e6-1f1f2'
 	},
 	{
 		shortName: 'Flag Aruba',
-		codepoint: '1f1e6 1f1fc'
+		codepoint: '1f1e6-1f1fc'
 	},
 	{
 		shortName: 'Flag Ascension Island',
-		codepoint: '1f1e6 1f1e8'
+		codepoint: '1f1e6-1f1e8'
 	},
 	{
 		shortName: 'Flag Australia',
-		codepoint: '1f1e6 1f1fa'
+		codepoint: '1f1e6-1f1fa'
 	},
 	{
 		shortName: 'Flag Austria',
-		codepoint: '1f1e6 1f1f9'
+		codepoint: '1f1e6-1f1f9'
 	},
 	{
 		shortName: 'Flag Azerbaijan',
-		codepoint: '1f1e6 1f1ff'
+		codepoint: '1f1e6-1f1ff'
 	},
 	{
 		shortName: 'Flag Bahamas',
-		codepoint: '1f1e7 1f1f8'
+		codepoint: '1f1e7-1f1f8'
 	},
 	{
 		shortName: 'Flag Bahrain',
-		codepoint: '1f1e7 1f1ed'
+		codepoint: '1f1e7-1f1ed'
 	},
 	{
 		shortName: 'Flag Bangladesh',
-		codepoint: '1f1e7 1f1e9'
+		codepoint: '1f1e7-1f1e9'
 	},
 	{
 		shortName: 'Flag Barbados',
-		codepoint: '1f1e7 1f1e7'
+		codepoint: '1f1e7-1f1e7'
 	},
 	{
 		shortName: 'Flag Belarus',
-		codepoint: '1f1e7 1f1fe'
+		codepoint: '1f1e7-1f1fe'
 	},
 	{
 		shortName: 'Flag Belgium',
-		codepoint: '1f1e7 1f1ea'
+		codepoint: '1f1e7-1f1ea'
 	},
 	{
 		shortName: 'Flag Belize',
-		codepoint: '1f1e7 1f1ff'
+		codepoint: '1f1e7-1f1ff'
 	},
 	{
 		shortName: 'Flag Benin',
-		codepoint: '1f1e7 1f1ef'
+		codepoint: '1f1e7-1f1ef'
 	},
 	{
 		shortName: 'Flag Bermuda',
-		codepoint: '1f1e7 1f1f2'
+		codepoint: '1f1e7-1f1f2'
 	},
 	{
 		shortName: 'Flag Bhutan',
-		codepoint: '1f1e7 1f1f9'
+		codepoint: '1f1e7-1f1f9'
 	},
 	{
 		shortName: 'Flag Bolivia',
-		codepoint: '1f1e7 1f1f4'
+		codepoint: '1f1e7-1f1f4'
 	},
 	{
 		shortName: 'Flag Bosnia Herzegovina',
-		codepoint: '1f1e7 1f1e6'
+		codepoint: '1f1e7-1f1e6'
 	},
 	{
 		shortName: 'Flag Botswana',
-		codepoint: '1f1e7 1f1fc'
+		codepoint: '1f1e7-1f1fc'
 	},
 	{
 		shortName: 'Flag Bouvet Island',
-		codepoint: '1f1e7 1f1fb'
+		codepoint: '1f1e7-1f1fb'
 	},
 	{
 		shortName: 'Flag Brazil',
-		codepoint: '1f1e7 1f1f7'
+		codepoint: '1f1e7-1f1f7'
 	},
 	{
 		shortName: 'Flag British Indian Ocean Territory',
-		codepoint: '1f1ee 1f1f4'
+		codepoint: '1f1ee-1f1f4'
 	},
 	{
 		shortName: 'Flag British Virgin Islands',
-		codepoint: '1f1fb 1f1ec'
+		codepoint: '1f1fb-1f1ec'
 	},
 	{
 		shortName: 'Flag Brunei',
-		codepoint: '1f1e7 1f1f3'
+		codepoint: '1f1e7-1f1f3'
 	},
 	{
 		shortName: 'Flag Bulgaria',
-		codepoint: '1f1e7 1f1ec'
+		codepoint: '1f1e7-1f1ec'
 	},
 	{
 		shortName: 'Flag Burkina Faso',
-		codepoint: '1f1e7 1f1eb'
+		codepoint: '1f1e7-1f1eb'
 	},
 	{
 		shortName: 'Flag Burundi',
-		codepoint: '1f1e7 1f1ee'
+		codepoint: '1f1e7-1f1ee'
 	},
 	{
 		shortName: 'Flag C Te D Ivoire',
-		codepoint: '1f1e8 1f1ee'
+		codepoint: '1f1e8-1f1ee'
 	},
 	{
 		shortName: 'Flag Cambodia',
-		codepoint: '1f1f0 1f1ed'
+		codepoint: '1f1f0-1f1ed'
 	},
 	{
 		shortName: 'Flag Cameroon',
-		codepoint: '1f1e8 1f1f2'
+		codepoint: '1f1e8-1f1f2'
 	},
 	{
 		shortName: 'Flag Canada',
-		codepoint: '1f1e8 1f1e6'
+		codepoint: '1f1e8-1f1e6'
 	},
 	{
 		shortName: 'Flag Canary Islands',
-		codepoint: '1f1ee 1f1e8'
+		codepoint: '1f1ee-1f1e8'
 	},
 	{
 		shortName: 'Flag Cape Verde',
-		codepoint: '1f1e8 1f1fb'
+		codepoint: '1f1e8-1f1fb'
 	},
 	{
 		shortName: 'Flag Caribbean Netherlands',
-		codepoint: '1f1e7 1f1f6'
+		codepoint: '1f1e7-1f1f6'
 	},
 	{
 		shortName: 'Flag Cayman Islands',
-		codepoint: '1f1f0 1f1fe'
+		codepoint: '1f1f0-1f1fe'
 	},
 	{
 		shortName: 'Flag Central African Republic',
-		codepoint: '1f1e8 1f1eb'
+		codepoint: '1f1e8-1f1eb'
 	},
 	{
 		shortName: 'Flag Ceuta Melilla',
-		codepoint: '1f1ea 1f1e6'
+		codepoint: '1f1ea-1f1e6'
 	},
 	{
 		shortName: 'Flag Chad',
-		codepoint: '1f1f9 1f1e9'
+		codepoint: '1f1f9-1f1e9'
 	},
 	{
 		shortName: 'Flag Chile',
-		codepoint: '1f1e8 1f1f1'
+		codepoint: '1f1e8-1f1f1'
 	},
 	{
 		shortName: 'Flag China',
-		codepoint: '1f1e8 1f1f3'
+		codepoint: '1f1e8-1f1f3'
 	},
 	{
 		shortName: 'Flag Christmas Island',
-		codepoint: '1f1e8 1f1fd'
+		codepoint: '1f1e8-1f1fd'
 	},
 	{
 		shortName: 'Flag Clipperton Island',
-		codepoint: '1f1e8 1f1f5'
+		codepoint: '1f1e8-1f1f5'
 	},
 	{
 		shortName: 'Flag Cocos Keeling Islands',
-		codepoint: '1f1e8 1f1e8'
+		codepoint: '1f1e8-1f1e8'
 	},
 	{
 		shortName: 'Flag Colombia',
-		codepoint: '1f1e8 1f1f4'
+		codepoint: '1f1e8-1f1f4'
 	},
 	{
 		shortName: 'Flag Comoros',
-		codepoint: '1f1f0 1f1f2'
+		codepoint: '1f1f0-1f1f2'
 	},
 	{
 		shortName: 'Flag Congo Brazzaville',
-		codepoint: '1f1e8 1f1ec'
+		codepoint: '1f1e8-1f1ec'
 	},
 	{
 		shortName: 'Flag Congo Kinshasa',
-		codepoint: '1f1e8 1f1e9'
+		codepoint: '1f1e8-1f1e9'
 	},
 	{
 		shortName: 'Flag Cook Islands',
-		codepoint: '1f1e8 1f1f0'
+		codepoint: '1f1e8-1f1f0'
 	},
 	{
 		shortName: 'Flag Costa Rica',
-		codepoint: '1f1e8 1f1f7'
+		codepoint: '1f1e8-1f1f7'
 	},
 	{
 		shortName: 'Flag Croatia',
-		codepoint: '1f1ed 1f1f7'
+		codepoint: '1f1ed-1f1f7'
 	},
 	{
 		shortName: 'Flag Cuba',
-		codepoint: '1f1e8 1f1fa'
+		codepoint: '1f1e8-1f1fa'
 	},
 	{
 		shortName: 'Flag Cura Ao',
-		codepoint: '1f1e8 1f1fc'
+		codepoint: '1f1e8-1f1fc'
 	},
 	{
 		shortName: 'Flag Cyprus',
-		codepoint: '1f1e8 1f1fe'
+		codepoint: '1f1e8-1f1fe'
 	},
 	{
 		shortName: 'Flag Czechia',
-		codepoint: '1f1e8 1f1ff'
+		codepoint: '1f1e8-1f1ff'
 	},
 	{
 		shortName: 'Flag Denmark',
-		codepoint: '1f1e9 1f1f0'
+		codepoint: '1f1e9-1f1f0'
 	},
 	{
 		shortName: 'Flag Diego Garcia',
-		codepoint: '1f1e9 1f1ec'
+		codepoint: '1f1e9-1f1ec'
 	},
 	{
 		shortName: 'Flag Djibouti',
-		codepoint: '1f1e9 1f1ef'
+		codepoint: '1f1e9-1f1ef'
 	},
 	{
 		shortName: 'Flag Dominica',
-		codepoint: '1f1e9 1f1f2'
+		codepoint: '1f1e9-1f1f2'
 	},
 	{
 		shortName: 'Flag Dominican Republic',
-		codepoint: '1f1e9 1f1f4'
+		codepoint: '1f1e9-1f1f4'
 	},
 	{
 		shortName: 'Flag Ecuador',
-		codepoint: '1f1ea 1f1e8'
+		codepoint: '1f1ea-1f1e8'
 	},
 	{
 		shortName: 'Flag Egypt',
-		codepoint: '1f1ea 1f1ec'
+		codepoint: '1f1ea-1f1ec'
 	},
 	{
 		shortName: 'Flag El Salvador',
-		codepoint: '1f1f8 1f1fb'
+		codepoint: '1f1f8-1f1fb'
 	},
 	{
 		shortName: 'Flag England',
-		codepoint: '1f3f4 e0067 e0062 e0065 e006e e0067 e007f'
+		codepoint: '1f3f4-e0067-e0062-e0065-e006e-e0067-e007f'
 	},
 	{
 		shortName: 'Flag Equatorial Guinea',
-		codepoint: '1f1ec 1f1f6'
+		codepoint: '1f1ec-1f1f6'
 	},
 	{
 		shortName: 'Flag Eritrea',
-		codepoint: '1f1ea 1f1f7'
+		codepoint: '1f1ea-1f1f7'
 	},
 	{
 		shortName: 'Flag Estonia',
-		codepoint: '1f1ea 1f1ea'
+		codepoint: '1f1ea-1f1ea'
 	},
 	{
 		shortName: 'Flag Eswatini',
-		codepoint: '1f1f8 1f1ff'
+		codepoint: '1f1f8-1f1ff'
 	},
 	{
 		shortName: 'Flag Ethiopia',
-		codepoint: '1f1ea 1f1f9'
+		codepoint: '1f1ea-1f1f9'
 	},
 	{
 		shortName: 'Flag European Union',
-		codepoint: '1f1ea 1f1fa'
+		codepoint: '1f1ea-1f1fa'
 	},
 	{
 		shortName: 'Flag Falkland Islands',
-		codepoint: '1f1eb 1f1f0'
+		codepoint: '1f1eb-1f1f0'
 	},
 	{
 		shortName: 'Flag Faroe Islands',
-		codepoint: '1f1eb 1f1f4'
+		codepoint: '1f1eb-1f1f4'
 	},
 	{
 		shortName: 'Flag Fiji',
-		codepoint: '1f1eb 1f1ef'
+		codepoint: '1f1eb-1f1ef'
 	},
 	{
 		shortName: 'Flag Finland',
-		codepoint: '1f1eb 1f1ee'
+		codepoint: '1f1eb-1f1ee'
 	},
 	{
 		shortName: 'Flag France',
-		codepoint: '1f1eb 1f1f7'
+		codepoint: '1f1eb-1f1f7'
 	},
 	{
 		shortName: 'Flag French Guiana',
-		codepoint: '1f1ec 1f1eb'
+		codepoint: '1f1ec-1f1eb'
 	},
 	{
 		shortName: 'Flag French Polynesia',
-		codepoint: '1f1f5 1f1eb'
+		codepoint: '1f1f5-1f1eb'
 	},
 	{
 		shortName: 'Flag French Southern Territories',
-		codepoint: '1f1f9 1f1eb'
+		codepoint: '1f1f9-1f1eb'
 	},
 	{
 		shortName: 'Flag Gabon',
-		codepoint: '1f1ec 1f1e6'
+		codepoint: '1f1ec-1f1e6'
 	},
 	{
 		shortName: 'Flag Gambia',
-		codepoint: '1f1ec 1f1f2'
+		codepoint: '1f1ec-1f1f2'
 	},
 	{
 		shortName: 'Flag Georgia',
-		codepoint: '1f1ec 1f1ea'
+		codepoint: '1f1ec-1f1ea'
 	},
 	{
 		shortName: 'Flag Germany',
-		codepoint: '1f1e9 1f1ea'
+		codepoint: '1f1e9-1f1ea'
 	},
 	{
 		shortName: 'Flag Ghana',
-		codepoint: '1f1ec 1f1ed'
+		codepoint: '1f1ec-1f1ed'
 	},
 	{
 		shortName: 'Flag Gibraltar',
-		codepoint: '1f1ec 1f1ee'
+		codepoint: '1f1ec-1f1ee'
 	},
 	{
 		shortName: 'Flag Greece',
-		codepoint: '1f1ec 1f1f7'
+		codepoint: '1f1ec-1f1f7'
 	},
 	{
 		shortName: 'Flag Greenland',
-		codepoint: '1f1ec 1f1f1'
+		codepoint: '1f1ec-1f1f1'
 	},
 	{
 		shortName: 'Flag Grenada',
-		codepoint: '1f1ec 1f1e9'
+		codepoint: '1f1ec-1f1e9'
 	},
 	{
 		shortName: 'Flag Guadeloupe',
-		codepoint: '1f1ec 1f1f5'
+		codepoint: '1f1ec-1f1f5'
 	},
 	{
 		shortName: 'Flag Guam',
-		codepoint: '1f1ec 1f1fa'
+		codepoint: '1f1ec-1f1fa'
 	},
 	{
 		shortName: 'Flag Guatemala',
-		codepoint: '1f1ec 1f1f9'
+		codepoint: '1f1ec-1f1f9'
 	},
 	{
 		shortName: 'Flag Guernsey',
-		codepoint: '1f1ec 1f1ec'
+		codepoint: '1f1ec-1f1ec'
 	},
 	{
 		shortName: 'Flag Guinea',
-		codepoint: '1f1ec 1f1f3'
+		codepoint: '1f1ec-1f1f3'
 	},
 	{
 		shortName: 'Flag Guinea Bissau',
-		codepoint: '1f1ec 1f1fc'
+		codepoint: '1f1ec-1f1fc'
 	},
 	{
 		shortName: 'Flag Guyana',
-		codepoint: '1f1ec 1f1fe'
+		codepoint: '1f1ec-1f1fe'
 	},
 	{
 		shortName: 'Flag Haiti',
-		codepoint: '1f1ed 1f1f9'
+		codepoint: '1f1ed-1f1f9'
 	},
 	{
 		shortName: 'Flag Heard Mcdonald Islands',
-		codepoint: '1f1ed 1f1f2'
+		codepoint: '1f1ed-1f1f2'
 	},
 	{
 		shortName: 'Flag Honduras',
-		codepoint: '1f1ed 1f1f3'
+		codepoint: '1f1ed-1f1f3'
 	},
 	{
 		shortName: 'Flag Hong Kong Sar China',
-		codepoint: '1f1ed 1f1f0'
+		codepoint: '1f1ed-1f1f0'
 	},
 	{
 		shortName: 'Flag Hungary',
-		codepoint: '1f1ed 1f1fa'
+		codepoint: '1f1ed-1f1fa'
 	},
 	{
 		shortName: 'Flag Iceland',
-		codepoint: '1f1ee 1f1f8'
+		codepoint: '1f1ee-1f1f8'
 	},
 	{
 		shortName: 'Flag In Hole',
@@ -3197,611 +3197,611 @@ export default [
 	},
 	{
 		shortName: 'Flag India',
-		codepoint: '1f1ee 1f1f3'
+		codepoint: '1f1ee-1f1f3'
 	},
 	{
 		shortName: 'Flag Indonesia',
-		codepoint: '1f1ee 1f1e9'
+		codepoint: '1f1ee-1f1e9'
 	},
 	{
 		shortName: 'Flag Iran',
-		codepoint: '1f1ee 1f1f7'
+		codepoint: '1f1ee-1f1f7'
 	},
 	{
 		shortName: 'Flag Iraq',
-		codepoint: '1f1ee 1f1f6'
+		codepoint: '1f1ee-1f1f6'
 	},
 	{
 		shortName: 'Flag Ireland',
-		codepoint: '1f1ee 1f1ea'
+		codepoint: '1f1ee-1f1ea'
 	},
 	{
 		shortName: 'Flag Isle Of Man',
-		codepoint: '1f1ee 1f1f2'
+		codepoint: '1f1ee-1f1f2'
 	},
 	{
 		shortName: 'Flag Israel',
-		codepoint: '1f1ee 1f1f1'
+		codepoint: '1f1ee-1f1f1'
 	},
 	{
 		shortName: 'Flag Italy',
-		codepoint: '1f1ee 1f1f9'
+		codepoint: '1f1ee-1f1f9'
 	},
 	{
 		shortName: 'Flag Jamaica',
-		codepoint: '1f1ef 1f1f2'
+		codepoint: '1f1ef-1f1f2'
 	},
 	{
 		shortName: 'Flag Japan',
-		codepoint: '1f1ef 1f1f5'
+		codepoint: '1f1ef-1f1f5'
 	},
 	{
 		shortName: 'Flag Jersey',
-		codepoint: '1f1ef 1f1ea'
+		codepoint: '1f1ef-1f1ea'
 	},
 	{
 		shortName: 'Flag Jordan',
-		codepoint: '1f1ef 1f1f4'
+		codepoint: '1f1ef-1f1f4'
 	},
 	{
 		shortName: 'Flag Kazakhstan',
-		codepoint: '1f1f0 1f1ff'
+		codepoint: '1f1f0-1f1ff'
 	},
 	{
 		shortName: 'Flag Kenya',
-		codepoint: '1f1f0 1f1ea'
+		codepoint: '1f1f0-1f1ea'
 	},
 	{
 		shortName: 'Flag Kiribati',
-		codepoint: '1f1f0 1f1ee'
+		codepoint: '1f1f0-1f1ee'
 	},
 	{
 		shortName: 'Flag Kosovo',
-		codepoint: '1f1fd 1f1f0'
+		codepoint: '1f1fd-1f1f0'
 	},
 	{
 		shortName: 'Flag Kuwait',
-		codepoint: '1f1f0 1f1fc'
+		codepoint: '1f1f0-1f1fc'
 	},
 	{
 		shortName: 'Flag Kyrgyzstan',
-		codepoint: '1f1f0 1f1ec'
+		codepoint: '1f1f0-1f1ec'
 	},
 	{
 		shortName: 'Flag Land Islands',
-		codepoint: '1f1e6 1f1fd'
+		codepoint: '1f1e6-1f1fd'
 	},
 	{
 		shortName: 'Flag Laos',
-		codepoint: '1f1f1 1f1e6'
+		codepoint: '1f1f1-1f1e6'
 	},
 	{
 		shortName: 'Flag Latvia',
-		codepoint: '1f1f1 1f1fb'
+		codepoint: '1f1f1-1f1fb'
 	},
 	{
 		shortName: 'Flag Lebanon',
-		codepoint: '1f1f1 1f1e7'
+		codepoint: '1f1f1-1f1e7'
 	},
 	{
 		shortName: 'Flag Lesotho',
-		codepoint: '1f1f1 1f1f8'
+		codepoint: '1f1f1-1f1f8'
 	},
 	{
 		shortName: 'Flag Liberia',
-		codepoint: '1f1f1 1f1f7'
+		codepoint: '1f1f1-1f1f7'
 	},
 	{
 		shortName: 'Flag Libya',
-		codepoint: '1f1f1 1f1fe'
+		codepoint: '1f1f1-1f1fe'
 	},
 	{
 		shortName: 'Flag Liechtenstein',
-		codepoint: '1f1f1 1f1ee'
+		codepoint: '1f1f1-1f1ee'
 	},
 	{
 		shortName: 'Flag Lithuania',
-		codepoint: '1f1f1 1f1f9'
+		codepoint: '1f1f1-1f1f9'
 	},
 	{
 		shortName: 'Flag Luxembourg',
-		codepoint: '1f1f1 1f1fa'
+		codepoint: '1f1f1-1f1fa'
 	},
 	{
 		shortName: 'Flag Macao Sar China',
-		codepoint: '1f1f2 1f1f4'
+		codepoint: '1f1f2-1f1f4'
 	},
 	{
 		shortName: 'Flag Madagascar',
-		codepoint: '1f1f2 1f1ec'
+		codepoint: '1f1f2-1f1ec'
 	},
 	{
 		shortName: 'Flag Malawi',
-		codepoint: '1f1f2 1f1fc'
+		codepoint: '1f1f2-1f1fc'
 	},
 	{
 		shortName: 'Flag Malaysia',
-		codepoint: '1f1f2 1f1fe'
+		codepoint: '1f1f2-1f1fe'
 	},
 	{
 		shortName: 'Flag Maldives',
-		codepoint: '1f1f2 1f1fb'
+		codepoint: '1f1f2-1f1fb'
 	},
 	{
 		shortName: 'Flag Mali',
-		codepoint: '1f1f2 1f1f1'
+		codepoint: '1f1f2-1f1f1'
 	},
 	{
 		shortName: 'Flag Malta',
-		codepoint: '1f1f2 1f1f9'
+		codepoint: '1f1f2-1f1f9'
 	},
 	{
 		shortName: 'Flag Marshall Islands',
-		codepoint: '1f1f2 1f1ed'
+		codepoint: '1f1f2-1f1ed'
 	},
 	{
 		shortName: 'Flag Martinique',
-		codepoint: '1f1f2 1f1f6'
+		codepoint: '1f1f2-1f1f6'
 	},
 	{
 		shortName: 'Flag Mauritania',
-		codepoint: '1f1f2 1f1f7'
+		codepoint: '1f1f2-1f1f7'
 	},
 	{
 		shortName: 'Flag Mauritius',
-		codepoint: '1f1f2 1f1fa'
+		codepoint: '1f1f2-1f1fa'
 	},
 	{
 		shortName: 'Flag Mayotte',
-		codepoint: '1f1fe 1f1f9'
+		codepoint: '1f1fe-1f1f9'
 	},
 	{
 		shortName: 'Flag Mexico',
-		codepoint: '1f1f2 1f1fd'
+		codepoint: '1f1f2-1f1fd'
 	},
 	{
 		shortName: 'Flag Micronesia',
-		codepoint: '1f1eb 1f1f2'
+		codepoint: '1f1eb-1f1f2'
 	},
 	{
 		shortName: 'Flag Moldova',
-		codepoint: '1f1f2 1f1e9'
+		codepoint: '1f1f2-1f1e9'
 	},
 	{
 		shortName: 'Flag Monaco',
-		codepoint: '1f1f2 1f1e8'
+		codepoint: '1f1f2-1f1e8'
 	},
 	{
 		shortName: 'Flag Mongolia',
-		codepoint: '1f1f2 1f1f3'
+		codepoint: '1f1f2-1f1f3'
 	},
 	{
 		shortName: 'Flag Montenegro',
-		codepoint: '1f1f2 1f1ea'
+		codepoint: '1f1f2-1f1ea'
 	},
 	{
 		shortName: 'Flag Montserrat',
-		codepoint: '1f1f2 1f1f8'
+		codepoint: '1f1f2-1f1f8'
 	},
 	{
 		shortName: 'Flag Morocco',
-		codepoint: '1f1f2 1f1e6'
+		codepoint: '1f1f2-1f1e6'
 	},
 	{
 		shortName: 'Flag Mozambique',
-		codepoint: '1f1f2 1f1ff'
+		codepoint: '1f1f2-1f1ff'
 	},
 	{
 		shortName: 'Flag Myanmar Burma',
-		codepoint: '1f1f2 1f1f2'
+		codepoint: '1f1f2-1f1f2'
 	},
 	{
 		shortName: 'Flag Namibia',
-		codepoint: '1f1f3 1f1e6'
+		codepoint: '1f1f3-1f1e6'
 	},
 	{
 		shortName: 'Flag Nauru',
-		codepoint: '1f1f3 1f1f7'
+		codepoint: '1f1f3-1f1f7'
 	},
 	{
 		shortName: 'Flag Nepal',
-		codepoint: '1f1f3 1f1f5'
+		codepoint: '1f1f3-1f1f5'
 	},
 	{
 		shortName: 'Flag Netherlands',
-		codepoint: '1f1f3 1f1f1'
+		codepoint: '1f1f3-1f1f1'
 	},
 	{
 		shortName: 'Flag New Caledonia',
-		codepoint: '1f1f3 1f1e8'
+		codepoint: '1f1f3-1f1e8'
 	},
 	{
 		shortName: 'Flag New Zealand',
-		codepoint: '1f1f3 1f1ff'
+		codepoint: '1f1f3-1f1ff'
 	},
 	{
 		shortName: 'Flag Nicaragua',
-		codepoint: '1f1f3 1f1ee'
+		codepoint: '1f1f3-1f1ee'
 	},
 	{
 		shortName: 'Flag Niger',
-		codepoint: '1f1f3 1f1ea'
+		codepoint: '1f1f3-1f1ea'
 	},
 	{
 		shortName: 'Flag Nigeria',
-		codepoint: '1f1f3 1f1ec'
+		codepoint: '1f1f3-1f1ec'
 	},
 	{
 		shortName: 'Flag Niue',
-		codepoint: '1f1f3 1f1fa'
+		codepoint: '1f1f3-1f1fa'
 	},
 	{
 		shortName: 'Flag Norfolk Island',
-		codepoint: '1f1f3 1f1eb'
+		codepoint: '1f1f3-1f1eb'
 	},
 	{
 		shortName: 'Flag North Korea',
-		codepoint: '1f1f0 1f1f5'
+		codepoint: '1f1f0-1f1f5'
 	},
 	{
 		shortName: 'Flag North Macedonia',
-		codepoint: '1f1f2 1f1f0'
+		codepoint: '1f1f2-1f1f0'
 	},
 	{
 		shortName: 'Flag Northern Mariana Islands',
-		codepoint: '1f1f2 1f1f5'
+		codepoint: '1f1f2-1f1f5'
 	},
 	{
 		shortName: 'Flag Norway',
-		codepoint: '1f1f3 1f1f4'
+		codepoint: '1f1f3-1f1f4'
 	},
 	{
 		shortName: 'Flag Oman',
-		codepoint: '1f1f4 1f1f2'
+		codepoint: '1f1f4-1f1f2'
 	},
 	{
 		shortName: 'Flag Pakistan',
-		codepoint: '1f1f5 1f1f0'
+		codepoint: '1f1f5-1f1f0'
 	},
 	{
 		shortName: 'Flag Palau',
-		codepoint: '1f1f5 1f1fc'
+		codepoint: '1f1f5-1f1fc'
 	},
 	{
 		shortName: 'Flag Palestinian Territories',
-		codepoint: '1f1f5 1f1f8'
+		codepoint: '1f1f5-1f1f8'
 	},
 	{
 		shortName: 'Flag Panama',
-		codepoint: '1f1f5 1f1e6'
+		codepoint: '1f1f5-1f1e6'
 	},
 	{
 		shortName: 'Flag Papua New Guinea',
-		codepoint: '1f1f5 1f1ec'
+		codepoint: '1f1f5-1f1ec'
 	},
 	{
 		shortName: 'Flag Paraguay',
-		codepoint: '1f1f5 1f1fe'
+		codepoint: '1f1f5-1f1fe'
 	},
 	{
 		shortName: 'Flag Peru',
-		codepoint: '1f1f5 1f1ea'
+		codepoint: '1f1f5-1f1ea'
 	},
 	{
 		shortName: 'Flag Philippines',
-		codepoint: '1f1f5 1f1ed'
+		codepoint: '1f1f5-1f1ed'
 	},
 	{
 		shortName: 'Flag Pitcairn Islands',
-		codepoint: '1f1f5 1f1f3'
+		codepoint: '1f1f5-1f1f3'
 	},
 	{
 		shortName: 'Flag Poland',
-		codepoint: '1f1f5 1f1f1'
+		codepoint: '1f1f5-1f1f1'
 	},
 	{
 		shortName: 'Flag Portugal',
-		codepoint: '1f1f5 1f1f9'
+		codepoint: '1f1f5-1f1f9'
 	},
 	{
 		shortName: 'Flag Puerto Rico',
-		codepoint: '1f1f5 1f1f7'
+		codepoint: '1f1f5-1f1f7'
 	},
 	{
 		shortName: 'Flag Qatar',
-		codepoint: '1f1f6 1f1e6'
+		codepoint: '1f1f6-1f1e6'
 	},
 	{
 		shortName: 'Flag R Union',
-		codepoint: '1f1f7 1f1ea'
+		codepoint: '1f1f7-1f1ea'
 	},
 	{
 		shortName: 'Flag Romania',
-		codepoint: '1f1f7 1f1f4'
+		codepoint: '1f1f7-1f1f4'
 	},
 	{
 		shortName: 'Flag Russia',
-		codepoint: '1f1f7 1f1fa'
+		codepoint: '1f1f7-1f1fa'
 	},
 	{
 		shortName: 'Flag Rwanda',
-		codepoint: '1f1f7 1f1fc'
+		codepoint: '1f1f7-1f1fc'
 	},
 	{
 		shortName: 'Flag S O Tom Pr Ncipe',
-		codepoint: '1f1f8 1f1f9'
+		codepoint: '1f1f8-1f1f9'
 	},
 	{
 		shortName: 'Flag Samoa',
-		codepoint: '1f1fc 1f1f8'
+		codepoint: '1f1fc-1f1f8'
 	},
 	{
 		shortName: 'Flag San Marino',
-		codepoint: '1f1f8 1f1f2'
+		codepoint: '1f1f8-1f1f2'
 	},
 	{
 		shortName: 'Flag Saudi Arabia',
-		codepoint: '1f1f8 1f1e6'
+		codepoint: '1f1f8-1f1e6'
 	},
 	{
 		shortName: 'Flag Scotland',
-		codepoint: '1f3f4 e0067 e0062 e0073 e0063 e0074 e007f'
+		codepoint: '1f3f4-e0067-e0062-e0073-e0063-e0074-e007f'
 	},
 	{
 		shortName: 'Flag Senegal',
-		codepoint: '1f1f8 1f1f3'
+		codepoint: '1f1f8-1f1f3'
 	},
 	{
 		shortName: 'Flag Serbia',
-		codepoint: '1f1f7 1f1f8'
+		codepoint: '1f1f7-1f1f8'
 	},
 	{
 		shortName: 'Flag Seychelles',
-		codepoint: '1f1f8 1f1e8'
+		codepoint: '1f1f8-1f1e8'
 	},
 	{
 		shortName: 'Flag Sierra Leone',
-		codepoint: '1f1f8 1f1f1'
+		codepoint: '1f1f8-1f1f1'
 	},
 	{
 		shortName: 'Flag Singapore',
-		codepoint: '1f1f8 1f1ec'
+		codepoint: '1f1f8-1f1ec'
 	},
 	{
 		shortName: 'Flag Sint Maarten',
-		codepoint: '1f1f8 1f1fd'
+		codepoint: '1f1f8-1f1fd'
 	},
 	{
 		shortName: 'Flag Slovakia',
-		codepoint: '1f1f8 1f1f0'
+		codepoint: '1f1f8-1f1f0'
 	},
 	{
 		shortName: 'Flag Slovenia',
-		codepoint: '1f1f8 1f1ee'
+		codepoint: '1f1f8-1f1ee'
 	},
 	{
 		shortName: 'Flag Solomon Islands',
-		codepoint: '1f1f8 1f1e7'
+		codepoint: '1f1f8-1f1e7'
 	},
 	{
 		shortName: 'Flag Somalia',
-		codepoint: '1f1f8 1f1f4'
+		codepoint: '1f1f8-1f1f4'
 	},
 	{
 		shortName: 'Flag South Africa',
-		codepoint: '1f1ff 1f1e6'
+		codepoint: '1f1ff-1f1e6'
 	},
 	{
 		shortName: 'Flag South Georgia South Sandwich Islands',
-		codepoint: '1f1ec 1f1f8'
+		codepoint: '1f1ec-1f1f8'
 	},
 	{
 		shortName: 'Flag South Korea',
-		codepoint: '1f1f0 1f1f7'
+		codepoint: '1f1f0-1f1f7'
 	},
 	{
 		shortName: 'Flag South Sudan',
-		codepoint: '1f1f8 1f1f8'
+		codepoint: '1f1f8-1f1f8'
 	},
 	{
 		shortName: 'Flag Spain',
-		codepoint: '1f1ea 1f1f8'
+		codepoint: '1f1ea-1f1f8'
 	},
 	{
 		shortName: 'Flag Sri Lanka',
-		codepoint: '1f1f1 1f1f0'
+		codepoint: '1f1f1-1f1f0'
 	},
 	{
 		shortName: 'Flag St Barth Lemy',
-		codepoint: '1f1e7 1f1f1'
+		codepoint: '1f1e7-1f1f1'
 	},
 	{
 		shortName: 'Flag St Helena',
-		codepoint: '1f1f8 1f1ed'
+		codepoint: '1f1f8-1f1ed'
 	},
 	{
 		shortName: 'Flag St Kitts Nevis',
-		codepoint: '1f1f0 1f1f3'
+		codepoint: '1f1f0-1f1f3'
 	},
 	{
 		shortName: 'Flag St Lucia',
-		codepoint: '1f1f1 1f1e8'
+		codepoint: '1f1f1-1f1e8'
 	},
 	{
 		shortName: 'Flag St Martin',
-		codepoint: '1f1f2 1f1eb'
+		codepoint: '1f1f2-1f1eb'
 	},
 	{
 		shortName: 'Flag St Pierre Miquelon',
-		codepoint: '1f1f5 1f1f2'
+		codepoint: '1f1f5-1f1f2'
 	},
 	{
 		shortName: 'Flag St Vincent Grenadines',
-		codepoint: '1f1fb 1f1e8'
+		codepoint: '1f1fb-1f1e8'
 	},
 	{
 		shortName: 'Flag Sudan',
-		codepoint: '1f1f8 1f1e9'
+		codepoint: '1f1f8-1f1e9'
 	},
 	{
 		shortName: 'Flag Suriname',
-		codepoint: '1f1f8 1f1f7'
+		codepoint: '1f1f8-1f1f7'
 	},
 	{
 		shortName: 'Flag Svalbard Jan Mayen',
-		codepoint: '1f1f8 1f1ef'
+		codepoint: '1f1f8-1f1ef'
 	},
 	{
 		shortName: 'Flag Sweden',
-		codepoint: '1f1f8 1f1ea'
+		codepoint: '1f1f8-1f1ea'
 	},
 	{
 		shortName: 'Flag Switzerland',
-		codepoint: '1f1e8 1f1ed'
+		codepoint: '1f1e8-1f1ed'
 	},
 	{
 		shortName: 'Flag Syria',
-		codepoint: '1f1f8 1f1fe'
+		codepoint: '1f1f8-1f1fe'
 	},
 	{
 		shortName: 'Flag Taiwan',
-		codepoint: '1f1f9 1f1fc'
+		codepoint: '1f1f9-1f1fc'
 	},
 	{
 		shortName: 'Flag Tajikistan',
-		codepoint: '1f1f9 1f1ef'
+		codepoint: '1f1f9-1f1ef'
 	},
 	{
 		shortName: 'Flag Tanzania',
-		codepoint: '1f1f9 1f1ff'
+		codepoint: '1f1f9-1f1ff'
 	},
 	{
 		shortName: 'Flag Thailand',
-		codepoint: '1f1f9 1f1ed'
+		codepoint: '1f1f9-1f1ed'
 	},
 	{
 		shortName: 'Flag Timor Leste',
-		codepoint: '1f1f9 1f1f1'
+		codepoint: '1f1f9-1f1f1'
 	},
 	{
 		shortName: 'Flag Togo',
-		codepoint: '1f1f9 1f1ec'
+		codepoint: '1f1f9-1f1ec'
 	},
 	{
 		shortName: 'Flag Tokelau',
-		codepoint: '1f1f9 1f1f0'
+		codepoint: '1f1f9-1f1f0'
 	},
 	{
 		shortName: 'Flag Tonga',
-		codepoint: '1f1f9 1f1f4'
+		codepoint: '1f1f9-1f1f4'
 	},
 	{
 		shortName: 'Flag Trinidad Tobago',
-		codepoint: '1f1f9 1f1f9'
+		codepoint: '1f1f9-1f1f9'
 	},
 	{
 		shortName: 'Flag Tristan Da Cunha',
-		codepoint: '1f1f9 1f1e6'
+		codepoint: '1f1f9-1f1e6'
 	},
 	{
 		shortName: 'Flag Tunisia',
-		codepoint: '1f1f9 1f1f3'
+		codepoint: '1f1f9-1f1f3'
 	},
 	{
 		shortName: 'Flag Turkey',
-		codepoint: '1f1f9 1f1f7'
+		codepoint: '1f1f9-1f1f7'
 	},
 	{
 		shortName: 'Flag Turkmenistan',
-		codepoint: '1f1f9 1f1f2'
+		codepoint: '1f1f9-1f1f2'
 	},
 	{
 		shortName: 'Flag Turks Caicos Islands',
-		codepoint: '1f1f9 1f1e8'
+		codepoint: '1f1f9-1f1e8'
 	},
 	{
 		shortName: 'Flag Tuvalu',
-		codepoint: '1f1f9 1f1fb'
+		codepoint: '1f1f9-1f1fb'
 	},
 	{
 		shortName: 'Flag U S Outlying Islands',
-		codepoint: '1f1fa 1f1f2'
+		codepoint: '1f1fa-1f1f2'
 	},
 	{
 		shortName: 'Flag U S Virgin Islands',
-		codepoint: '1f1fb 1f1ee'
+		codepoint: '1f1fb-1f1ee'
 	},
 	{
 		shortName: 'Flag Uganda',
-		codepoint: '1f1fa 1f1ec'
+		codepoint: '1f1fa-1f1ec'
 	},
 	{
 		shortName: 'Flag Ukraine',
-		codepoint: '1f1fa 1f1e6'
+		codepoint: '1f1fa-1f1e6'
 	},
 	{
 		shortName: 'Flag United Arab Emirates',
-		codepoint: '1f1e6 1f1ea'
+		codepoint: '1f1e6-1f1ea'
 	},
 	{
 		shortName: 'Flag United Kingdom',
-		codepoint: '1f1ec 1f1e7'
+		codepoint: '1f1ec-1f1e7'
 	},
 	{
 		shortName: 'Flag United Nations',
-		codepoint: '1f1fa 1f1f3'
+		codepoint: '1f1fa-1f1f3'
 	},
 	{
 		shortName: 'Flag United States',
-		codepoint: '1f1fa 1f1f8'
+		codepoint: '1f1fa-1f1f8'
 	},
 	{
 		shortName: 'Flag Uruguay',
-		codepoint: '1f1fa 1f1fe'
+		codepoint: '1f1fa-1f1fe'
 	},
 	{
 		shortName: 'Flag Uzbekistan',
-		codepoint: '1f1fa 1f1ff'
+		codepoint: '1f1fa-1f1ff'
 	},
 	{
 		shortName: 'Flag Vanuatu',
-		codepoint: '1f1fb 1f1fa'
+		codepoint: '1f1fb-1f1fa'
 	},
 	{
 		shortName: 'Flag Vatican City',
-		codepoint: '1f1fb 1f1e6'
+		codepoint: '1f1fb-1f1e6'
 	},
 	{
 		shortName: 'Flag Venezuela',
-		codepoint: '1f1fb 1f1ea'
+		codepoint: '1f1fb-1f1ea'
 	},
 	{
 		shortName: 'Flag Vietnam',
-		codepoint: '1f1fb 1f1f3'
+		codepoint: '1f1fb-1f1f3'
 	},
 	{
 		shortName: 'Flag Wales',
-		codepoint: '1f3f4 e0067 e0062 e0077 e006c e0073 e007f'
+		codepoint: '1f3f4-e0067-e0062-e0077-e006c-e0073-e007f'
 	},
 	{
 		shortName: 'Flag Wallis Futuna',
-		codepoint: '1f1fc 1f1eb'
+		codepoint: '1f1fc-1f1eb'
 	},
 	{
 		shortName: 'Flag Western Sahara',
-		codepoint: '1f1ea 1f1ed'
+		codepoint: '1f1ea-1f1ed'
 	},
 	{
 		shortName: 'Flag Yemen',
-		codepoint: '1f1fe 1f1ea'
+		codepoint: '1f1fe-1f1ea'
 	},
 	{
 		shortName: 'Flag Zambia',
-		codepoint: '1f1ff 1f1f2'
+		codepoint: '1f1ff-1f1f2'
 	},
 	{
 		shortName: 'Flag Zimbabwe',
-		codepoint: '1f1ff 1f1fc'
+		codepoint: '1f1ff-1f1fc'
 	},
 	{
 		shortName: 'Flamingo',
@@ -3829,23 +3829,23 @@ export default [
 	},
 	{
 		shortName: 'Flexed Biceps Dark Skin Tone',
-		codepoint: '1f4aa 1f3ff'
+		codepoint: '1f4aa-1f3ff'
 	},
 	{
 		shortName: 'Flexed Biceps Light Skin Tone',
-		codepoint: '1f4aa 1f3fb'
+		codepoint: '1f4aa-1f3fb'
 	},
 	{
 		shortName: 'Flexed Biceps Medium Dark Skin Tone',
-		codepoint: '1f4aa 1f3fe'
+		codepoint: '1f4aa-1f3fe'
 	},
 	{
 		shortName: 'Flexed Biceps Medium Light Skin Tone',
-		codepoint: '1f4aa 1f3fc'
+		codepoint: '1f4aa-1f3fc'
 	},
 	{
 		shortName: 'Flexed Biceps Medium Skin Tone',
-		codepoint: '1f4aa 1f3fd'
+		codepoint: '1f4aa-1f3fd'
 	},
 	{
 		shortName: 'Floppy Disk',
@@ -3885,23 +3885,23 @@ export default [
 	},
 	{
 		shortName: 'Folded Hands Dark Skin Tone',
-		codepoint: '1f64f 1f3ff'
+		codepoint: '1f64f-1f3ff'
 	},
 	{
 		shortName: 'Folded Hands Light Skin Tone',
-		codepoint: '1f64f 1f3fb'
+		codepoint: '1f64f-1f3fb'
 	},
 	{
 		shortName: 'Folded Hands Medium Dark Skin Tone',
-		codepoint: '1f64f 1f3fe'
+		codepoint: '1f64f-1f3fe'
 	},
 	{
 		shortName: 'Folded Hands Medium Light Skin Tone',
-		codepoint: '1f64f 1f3fc'
+		codepoint: '1f64f-1f3fc'
 	},
 	{
 		shortName: 'Folded Hands Medium Skin Tone',
-		codepoint: '1f64f 1f3fd'
+		codepoint: '1f64f-1f3fd'
 	},
 	{
 		shortName: 'Fondue',
@@ -3913,23 +3913,23 @@ export default [
 	},
 	{
 		shortName: 'Foot Dark Skin Tone',
-		codepoint: '1f9b6 1f3ff'
+		codepoint: '1f9b6-1f3ff'
 	},
 	{
 		shortName: 'Foot Light Skin Tone',
-		codepoint: '1f9b6 1f3fb'
+		codepoint: '1f9b6-1f3fb'
 	},
 	{
 		shortName: 'Foot Medium Dark Skin Tone',
-		codepoint: '1f9b6 1f3fe'
+		codepoint: '1f9b6-1f3fe'
 	},
 	{
 		shortName: 'Foot Medium Light Skin Tone',
-		codepoint: '1f9b6 1f3fc'
+		codepoint: '1f9b6-1f3fc'
 	},
 	{
 		shortName: 'Foot Medium Skin Tone',
-		codepoint: '1f9b6 1f3fd'
+		codepoint: '1f9b6-1f3fd'
 	},
 	{
 		shortName: 'Footprints',
@@ -4057,23 +4057,23 @@ export default [
 	},
 	{
 		shortName: 'Girl Dark Skin Tone',
-		codepoint: '1f467 1f3ff'
+		codepoint: '1f467-1f3ff'
 	},
 	{
 		shortName: 'Girl Light Skin Tone',
-		codepoint: '1f467 1f3fb'
+		codepoint: '1f467-1f3fb'
 	},
 	{
 		shortName: 'Girl Medium Dark Skin Tone',
-		codepoint: '1f467 1f3fe'
+		codepoint: '1f467-1f3fe'
 	},
 	{
 		shortName: 'Girl Medium Light Skin Tone',
-		codepoint: '1f467 1f3fc'
+		codepoint: '1f467-1f3fc'
 	},
 	{
 		shortName: 'Girl Medium Skin Tone',
-		codepoint: '1f467 1f3fd'
+		codepoint: '1f467-1f3fd'
 	},
 	{
 		shortName: 'Glass Of Milk',
@@ -4201,23 +4201,23 @@ export default [
 	},
 	{
 		shortName: 'Guard Dark Skin Tone',
-		codepoint: '1f482 1f3ff'
+		codepoint: '1f482-1f3ff'
 	},
 	{
 		shortName: 'Guard Light Skin Tone',
-		codepoint: '1f482 1f3fb'
+		codepoint: '1f482-1f3fb'
 	},
 	{
 		shortName: 'Guard Medium Dark Skin Tone',
-		codepoint: '1f482 1f3fe'
+		codepoint: '1f482-1f3fe'
 	},
 	{
 		shortName: 'Guard Medium Light Skin Tone',
-		codepoint: '1f482 1f3fc'
+		codepoint: '1f482-1f3fc'
 	},
 	{
 		shortName: 'Guard Medium Skin Tone',
-		codepoint: '1f482 1f3fd'
+		codepoint: '1f482-1f3fd'
 	},
 	{
 		shortName: 'Guide Dog',
@@ -4253,23 +4253,23 @@ export default [
 	},
 	{
 		shortName: 'Hand With Fingers Splayed Dark Skin Tone',
-		codepoint: '1f590 1f3ff'
+		codepoint: '1f590-1f3ff'
 	},
 	{
 		shortName: 'Hand With Fingers Splayed Light Skin Tone',
-		codepoint: '1f590 1f3fb'
+		codepoint: '1f590-1f3fb'
 	},
 	{
 		shortName: 'Hand With Fingers Splayed Medium Dark Skin Tone',
-		codepoint: '1f590 1f3fe'
+		codepoint: '1f590-1f3fe'
 	},
 	{
 		shortName: 'Hand With Fingers Splayed Medium Light Skin Tone',
-		codepoint: '1f590 1f3fc'
+		codepoint: '1f590-1f3fc'
 	},
 	{
 		shortName: 'Hand With Fingers Splayed Medium Skin Tone',
-		codepoint: '1f590 1f3fd'
+		codepoint: '1f590-1f3fd'
 	},
 	{
 		shortName: 'Handbag',
@@ -4293,27 +4293,27 @@ export default [
 	},
 	{
 		shortName: 'Health Worker',
-		codepoint: '1f9d1 200d 2695 fe0f'
+		codepoint: '1f9d1-200d-2695-fe0f'
 	},
 	{
 		shortName: 'Health Worker Dark Skin Tone',
-		codepoint: '1f9d1 1f3ff 200d 2695 fe0f'
+		codepoint: '1f9d1-1f3ff-200d-2695-fe0f'
 	},
 	{
 		shortName: 'Health Worker Light Skin Tone',
-		codepoint: '1f9d1 1f3fb 200d 2695 fe0f'
+		codepoint: '1f9d1-1f3fb-200d-2695-fe0f'
 	},
 	{
 		shortName: 'Health Worker Medium Dark Skin Tone',
-		codepoint: '1f9d1 1f3fe 200d 2695 fe0f'
+		codepoint: '1f9d1-1f3fe-200d-2695-fe0f'
 	},
 	{
 		shortName: 'Health Worker Medium Light Skin Tone',
-		codepoint: '1f9d1 1f3fc 200d 2695 fe0f'
+		codepoint: '1f9d1-1f3fc-200d-2695-fe0f'
 	},
 	{
 		shortName: 'Health Worker Medium Skin Tone',
-		codepoint: '1f9d1 1f3fd 200d 2695 fe0f'
+		codepoint: '1f9d1-1f3fd-200d-2695-fe0f'
 	},
 	{
 		shortName: 'Hear No Evil Monkey',
@@ -4329,7 +4329,7 @@ export default [
 	},
 	{
 		shortName: 'Heart On Fire',
-		codepoint: '2764 fe0f 200d 1f525'
+		codepoint: '2764-fe0f-200d-1f525'
 	},
 	{
 		shortName: 'Heart Suit',
@@ -4425,23 +4425,23 @@ export default [
 	},
 	{
 		shortName: 'Horse Racing Dark Skin Tone',
-		codepoint: '1f3c7 1f3ff'
+		codepoint: '1f3c7-1f3ff'
 	},
 	{
 		shortName: 'Horse Racing Light Skin Tone',
-		codepoint: '1f3c7 1f3fb'
+		codepoint: '1f3c7-1f3fb'
 	},
 	{
 		shortName: 'Horse Racing Medium Dark Skin Tone',
-		codepoint: '1f3c7 1f3fe'
+		codepoint: '1f3c7-1f3fe'
 	},
 	{
 		shortName: 'Horse Racing Medium Light Skin Tone',
-		codepoint: '1f3c7 1f3fc'
+		codepoint: '1f3c7-1f3fc'
 	},
 	{
 		shortName: 'Horse Racing Medium Skin Tone',
-		codepoint: '1f3c7 1f3fd'
+		codepoint: '1f3c7-1f3fd'
 	},
 	{
 		shortName: 'Hospital',
@@ -4541,23 +4541,23 @@ export default [
 	},
 	{
 		shortName: 'Index Pointing Up Dark Skin Tone',
-		codepoint: '261d 1f3ff'
+		codepoint: '261d-1f3ff'
 	},
 	{
 		shortName: 'Index Pointing Up Light Skin Tone',
-		codepoint: '261d 1f3fb'
+		codepoint: '261d-1f3fb'
 	},
 	{
 		shortName: 'Index Pointing Up Medium Dark Skin Tone',
-		codepoint: '261d 1f3fe'
+		codepoint: '261d-1f3fe'
 	},
 	{
 		shortName: 'Index Pointing Up Medium Light Skin Tone',
-		codepoint: '261d 1f3fc'
+		codepoint: '261d-1f3fc'
 	},
 	{
 		shortName: 'Index Pointing Up Medium Skin Tone',
-		codepoint: '261d 1f3fd'
+		codepoint: '261d-1f3fd'
 	},
 	{
 		shortName: 'Infinity',
@@ -4689,27 +4689,27 @@ export default [
 	},
 	{
 		shortName: 'Judge',
-		codepoint: '1f9d1 200d 2696 fe0f'
+		codepoint: '1f9d1-200d-2696-fe0f'
 	},
 	{
 		shortName: 'Judge Dark Skin Tone',
-		codepoint: '1f9d1 1f3ff 200d 2696 fe0f'
+		codepoint: '1f9d1-1f3ff-200d-2696-fe0f'
 	},
 	{
 		shortName: 'Judge Light Skin Tone',
-		codepoint: '1f9d1 1f3fb 200d 2696 fe0f'
+		codepoint: '1f9d1-1f3fb-200d-2696-fe0f'
 	},
 	{
 		shortName: 'Judge Medium Dark Skin Tone',
-		codepoint: '1f9d1 1f3fe 200d 2696 fe0f'
+		codepoint: '1f9d1-1f3fe-200d-2696-fe0f'
 	},
 	{
 		shortName: 'Judge Medium Light Skin Tone',
-		codepoint: '1f9d1 1f3fc 200d 2696 fe0f'
+		codepoint: '1f9d1-1f3fc-200d-2696-fe0f'
 	},
 	{
 		shortName: 'Judge Medium Skin Tone',
-		codepoint: '1f9d1 1f3fd 200d 2696 fe0f'
+		codepoint: '1f9d1-1f3fd-200d-2696-fe0f'
 	},
 	{
 		shortName: 'Kaaba',
@@ -4729,15 +4729,19 @@ export default [
 	},
 	{
 		shortName: 'Keycap',
-		codepoint: '2a 20e3'
+		codepoint: '2a-20e3'
+	},
+	{
+		shortName: 'Keycap Number Sign',
+		codepoint: '23-20e3'
 	},
 	{
 		shortName: 'Keycap 0',
-		codepoint: '30 20e3'
+		codepoint: '30-20e3'
 	},
 	{
 		shortName: 'Keycap 1',
-		codepoint: '31 20e3'
+		codepoint: '31-20e3'
 	},
 	{
 		shortName: 'Keycap 10',
@@ -4745,35 +4749,35 @@ export default [
 	},
 	{
 		shortName: 'Keycap 2',
-		codepoint: '32 20e3'
+		codepoint: '32-20e3'
 	},
 	{
 		shortName: 'Keycap 3',
-		codepoint: '33 20e3'
+		codepoint: '33-20e3'
 	},
 	{
 		shortName: 'Keycap 4',
-		codepoint: '34 20e3'
+		codepoint: '34-20e3'
 	},
 	{
 		shortName: 'Keycap 5',
-		codepoint: '35 20e3'
+		codepoint: '35-20e3'
 	},
 	{
 		shortName: 'Keycap 6',
-		codepoint: '36 20e3'
+		codepoint: '36-20e3'
 	},
 	{
 		shortName: 'Keycap 7',
-		codepoint: '37 20e3'
+		codepoint: '37-20e3'
 	},
 	{
 		shortName: 'Keycap 8',
-		codepoint: '38 20e3'
+		codepoint: '38-20e3'
 	},
 	{
 		shortName: 'Keycap 9',
-		codepoint: '39 20e3'
+		codepoint: '39-20e3'
 	},
 	{
 		shortName: 'Kick Scooter',
@@ -4789,115 +4793,115 @@ export default [
 	},
 	{
 		shortName: 'Kiss Dark Skin Tone',
-		codepoint: '1f48f 1f3ff'
+		codepoint: '1f48f-1f3ff'
 	},
 	{
 		shortName: 'Kiss Light Skin Tone',
-		codepoint: '1f48f 1f3fb'
+		codepoint: '1f48f-1f3fb'
 	},
 	{
 		shortName: 'Kiss Man Man',
-		codepoint: '1f468 200d 2764 fe0f 200d 1f48b 200d 1f468'
+		codepoint: '1f468-200d-2764-fe0f-200d-1f48b-200d-1f468'
 	},
 	{
 		shortName: 'Kiss Man Man Dark Skin Tone',
-		codepoint: '1f468 1f3ff 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3ff'
+		codepoint: '1f468-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3ff'
 	},
 	{
 		shortName: 'Kiss Man Man Dark Skin Tone Light Skin Tone',
-		codepoint: '1f468 1f3ff 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3fb'
+		codepoint: '1f468-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fb'
 	},
 	{
 		shortName: 'Kiss Man Man Dark Skin Tone Medium Dark Skin Tone',
-		codepoint: '1f468 1f3ff 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3fe'
+		codepoint: '1f468-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fe'
 	},
 	{
 		shortName: 'Kiss Man Man Dark Skin Tone Medium Light Skin Tone',
-		codepoint: '1f468 1f3ff 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3fc'
+		codepoint: '1f468-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fc'
 	},
 	{
 		shortName: 'Kiss Man Man Dark Skin Tone Medium Skin Tone',
-		codepoint: '1f468 1f3ff 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3fd'
+		codepoint: '1f468-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fd'
 	},
 	{
 		shortName: 'Kiss Man Man Light Skin Tone',
-		codepoint: '1f468 1f3fb 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3fb'
+		codepoint: '1f468-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fb'
 	},
 	{
 		shortName: 'Kiss Man Man Light Skin Tone Dark Skin Tone',
-		codepoint: '1f468 1f3fb 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3ff'
+		codepoint: '1f468-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3ff'
 	},
 	{
 		shortName: 'Kiss Man Man Light Skin Tone Medium Dark Skin Tone',
-		codepoint: '1f468 1f3fb 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3fe'
+		codepoint: '1f468-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fe'
 	},
 	{
 		shortName: 'Kiss Man Man Light Skin Tone Medium Light Skin Tone',
-		codepoint: '1f468 1f3fb 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3fc'
+		codepoint: '1f468-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fc'
 	},
 	{
 		shortName: 'Kiss Man Man Light Skin Tone Medium Skin Tone',
-		codepoint: '1f468 1f3fb 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3fd'
+		codepoint: '1f468-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fd'
 	},
 	{
 		shortName: 'Kiss Man Man Medium Dark Skin Tone',
-		codepoint: '1f468 1f3fe 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3fe'
+		codepoint: '1f468-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fe'
 	},
 	{
 		shortName: 'Kiss Man Man Medium Dark Skin Tone Dark Skin Tone',
-		codepoint: '1f468 1f3fe 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3ff'
+		codepoint: '1f468-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3ff'
 	},
 	{
 		shortName: 'Kiss Man Man Medium Dark Skin Tone Light Skin Tone',
-		codepoint: '1f468 1f3fe 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3fb'
+		codepoint: '1f468-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fb'
 	},
 	{
 		shortName: 'Kiss Man Man Medium Dark Skin Tone Medium Light Skin Tone',
-		codepoint: '1f468 1f3fe 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3fc'
+		codepoint: '1f468-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fc'
 	},
 	{
 		shortName: 'Kiss Man Man Medium Dark Skin Tone Medium Skin Tone',
-		codepoint: '1f468 1f3fe 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3fd'
+		codepoint: '1f468-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fd'
 	},
 	{
 		shortName: 'Kiss Man Man Medium Light Skin Tone',
-		codepoint: '1f468 1f3fc 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3fc'
+		codepoint: '1f468-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fc'
 	},
 	{
 		shortName: 'Kiss Man Man Medium Light Skin Tone Dark Skin Tone',
-		codepoint: '1f468 1f3fc 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3ff'
+		codepoint: '1f468-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3ff'
 	},
 	{
 		shortName: 'Kiss Man Man Medium Light Skin Tone Light Skin Tone',
-		codepoint: '1f468 1f3fc 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3fb'
+		codepoint: '1f468-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fb'
 	},
 	{
 		shortName: 'Kiss Man Man Medium Light Skin Tone Medium Dark Skin Tone',
-		codepoint: '1f468 1f3fc 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3fe'
+		codepoint: '1f468-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fe'
 	},
 	{
 		shortName: 'Kiss Man Man Medium Light Skin Tone Medium Skin Tone',
-		codepoint: '1f468 1f3fc 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3fd'
+		codepoint: '1f468-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fd'
 	},
 	{
 		shortName: 'Kiss Man Man Medium Skin Tone',
-		codepoint: '1f468 1f3fd 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3fd'
+		codepoint: '1f468-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fd'
 	},
 	{
 		shortName: 'Kiss Man Man Medium Skin Tone Dark Skin Tone',
-		codepoint: '1f468 1f3fd 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3ff'
+		codepoint: '1f468-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3ff'
 	},
 	{
 		shortName: 'Kiss Man Man Medium Skin Tone Light Skin Tone',
-		codepoint: '1f468 1f3fd 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3fb'
+		codepoint: '1f468-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fb'
 	},
 	{
 		shortName: 'Kiss Man Man Medium Skin Tone Medium Dark Skin Tone',
-		codepoint: '1f468 1f3fd 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3fe'
+		codepoint: '1f468-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fe'
 	},
 	{
 		shortName: 'Kiss Man Man Medium Skin Tone Medium Light Skin Tone',
-		codepoint: '1f468 1f3fd 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3fc'
+		codepoint: '1f468-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fc'
 	},
 	{
 		shortName: 'Kiss Mark',
@@ -4905,303 +4909,303 @@ export default [
 	},
 	{
 		shortName: 'Kiss Medium Dark Skin Tone',
-		codepoint: '1f48f 1f3fe'
+		codepoint: '1f48f-1f3fe'
 	},
 	{
 		shortName: 'Kiss Medium Light Skin Tone',
-		codepoint: '1f48f 1f3fc'
+		codepoint: '1f48f-1f3fc'
 	},
 	{
 		shortName: 'Kiss Medium Skin Tone',
-		codepoint: '1f48f 1f3fd'
+		codepoint: '1f48f-1f3fd'
 	},
 	{
 		shortName: 'Kiss Person Person Dark Skin Tone Light Skin Tone',
-		codepoint: '1f9d1 1f3ff 200d 2764 fe0f 200d 1f48b 200d 1f9d1 1f3fb'
+		codepoint: '1f9d1-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3fb'
 	},
 	{
 		shortName: 'Kiss Person Person Dark Skin Tone Medium Dark Skin Tone',
-		codepoint: '1f9d1 1f3ff 200d 2764 fe0f 200d 1f48b 200d 1f9d1 1f3fe'
+		codepoint: '1f9d1-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3fe'
 	},
 	{
 		shortName: 'Kiss Person Person Dark Skin Tone Medium Light Skin Tone',
-		codepoint: '1f9d1 1f3ff 200d 2764 fe0f 200d 1f48b 200d 1f9d1 1f3fc'
+		codepoint: '1f9d1-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3fc'
 	},
 	{
 		shortName: 'Kiss Person Person Dark Skin Tone Medium Skin Tone',
-		codepoint: '1f9d1 1f3ff 200d 2764 fe0f 200d 1f48b 200d 1f9d1 1f3fd'
+		codepoint: '1f9d1-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3fd'
 	},
 	{
 		shortName: 'Kiss Person Person Light Skin Tone Dark Skin Tone',
-		codepoint: '1f9d1 1f3fb 200d 2764 fe0f 200d 1f48b 200d 1f9d1 1f3ff'
+		codepoint: '1f9d1-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3ff'
 	},
 	{
 		shortName: 'Kiss Person Person Light Skin Tone Medium Dark Skin Tone',
-		codepoint: '1f9d1 1f3fb 200d 2764 fe0f 200d 1f48b 200d 1f9d1 1f3fe'
+		codepoint: '1f9d1-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3fe'
 	},
 	{
 		shortName: 'Kiss Person Person Light Skin Tone Medium Light Skin Tone',
-		codepoint: '1f9d1 1f3fb 200d 2764 fe0f 200d 1f48b 200d 1f9d1 1f3fc'
+		codepoint: '1f9d1-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3fc'
 	},
 	{
 		shortName: 'Kiss Person Person Light Skin Tone Medium Skin Tone',
-		codepoint: '1f9d1 1f3fb 200d 2764 fe0f 200d 1f48b 200d 1f9d1 1f3fd'
+		codepoint: '1f9d1-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3fd'
 	},
 	{
 		shortName: 'Kiss Person Person Medium Dark Skin Tone Dark Skin Tone',
-		codepoint: '1f9d1 1f3fe 200d 2764 fe0f 200d 1f48b 200d 1f9d1 1f3ff'
+		codepoint: '1f9d1-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3ff'
 	},
 	{
 		shortName: 'Kiss Person Person Medium Dark Skin Tone Light Skin Tone',
-		codepoint: '1f9d1 1f3fe 200d 2764 fe0f 200d 1f48b 200d 1f9d1 1f3fb'
+		codepoint: '1f9d1-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3fb'
 	},
 	{
 		shortName: 'Kiss Person Person Medium Dark Skin Tone Medium Light Skin Tone',
-		codepoint: '1f9d1 1f3fe 200d 2764 fe0f 200d 1f48b 200d 1f9d1 1f3fc'
+		codepoint: '1f9d1-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3fc'
 	},
 	{
 		shortName: 'Kiss Person Person Medium Dark Skin Tone Medium Skin Tone',
-		codepoint: '1f9d1 1f3fe 200d 2764 fe0f 200d 1f48b 200d 1f9d1 1f3fd'
+		codepoint: '1f9d1-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3fd'
 	},
 	{
 		shortName: 'Kiss Person Person Medium Light Skin Tone Dark Skin Tone',
-		codepoint: '1f9d1 1f3fc 200d 2764 fe0f 200d 1f48b 200d 1f9d1 1f3ff'
+		codepoint: '1f9d1-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3ff'
 	},
 	{
 		shortName: 'Kiss Person Person Medium Light Skin Tone Light Skin Tone',
-		codepoint: '1f9d1 1f3fc 200d 2764 fe0f 200d 1f48b 200d 1f9d1 1f3fb'
+		codepoint: '1f9d1-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3fb'
 	},
 	{
 		shortName: 'Kiss Person Person Medium Light Skin Tone Medium Dark Skin Tone',
-		codepoint: '1f9d1 1f3fc 200d 2764 fe0f 200d 1f48b 200d 1f9d1 1f3fe'
+		codepoint: '1f9d1-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3fe'
 	},
 	{
 		shortName: 'Kiss Person Person Medium Light Skin Tone Medium Skin Tone',
-		codepoint: '1f9d1 1f3fc 200d 2764 fe0f 200d 1f48b 200d 1f9d1 1f3fd'
+		codepoint: '1f9d1-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3fd'
 	},
 	{
 		shortName: 'Kiss Person Person Medium Skin Tone Dark Skin Tone',
-		codepoint: '1f9d1 1f3fd 200d 2764 fe0f 200d 1f48b 200d 1f9d1 1f3ff'
+		codepoint: '1f9d1-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3ff'
 	},
 	{
 		shortName: 'Kiss Person Person Medium Skin Tone Light Skin Tone',
-		codepoint: '1f9d1 1f3fd 200d 2764 fe0f 200d 1f48b 200d 1f9d1 1f3fb'
+		codepoint: '1f9d1-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3fb'
 	},
 	{
 		shortName: 'Kiss Person Person Medium Skin Tone Medium Dark Skin Tone',
-		codepoint: '1f9d1 1f3fd 200d 2764 fe0f 200d 1f48b 200d 1f9d1 1f3fe'
+		codepoint: '1f9d1-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3fe'
 	},
 	{
 		shortName: 'Kiss Person Person Medium Skin Tone Medium Light Skin Tone',
-		codepoint: '1f9d1 1f3fd 200d 2764 fe0f 200d 1f48b 200d 1f9d1 1f3fc'
+		codepoint: '1f9d1-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3fc'
 	},
 	{
 		shortName: 'Kiss Woman Man',
-		codepoint: '1f469 200d 2764 fe0f 200d 1f48b 200d 1f468'
+		codepoint: '1f469-200d-2764-fe0f-200d-1f48b-200d-1f468'
 	},
 	{
 		shortName: 'Kiss Woman Man Dark Skin Tone',
-		codepoint: '1f469 1f3ff 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3ff'
+		codepoint: '1f469-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3ff'
 	},
 	{
 		shortName: 'Kiss Woman Man Dark Skin Tone Light Skin Tone',
-		codepoint: '1f469 1f3ff 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3fb'
+		codepoint: '1f469-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fb'
 	},
 	{
 		shortName: 'Kiss Woman Man Dark Skin Tone Medium Dark Skin Tone',
-		codepoint: '1f469 1f3ff 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3fe'
+		codepoint: '1f469-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fe'
 	},
 	{
 		shortName: 'Kiss Woman Man Dark Skin Tone Medium Light Skin Tone',
-		codepoint: '1f469 1f3ff 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3fc'
+		codepoint: '1f469-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fc'
 	},
 	{
 		shortName: 'Kiss Woman Man Dark Skin Tone Medium Skin Tone',
-		codepoint: '1f469 1f3ff 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3fd'
+		codepoint: '1f469-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fd'
 	},
 	{
 		shortName: 'Kiss Woman Man Light Skin Tone',
-		codepoint: '1f469 1f3fb 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3fb'
+		codepoint: '1f469-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fb'
 	},
 	{
 		shortName: 'Kiss Woman Man Light Skin Tone Dark Skin Tone',
-		codepoint: '1f469 1f3fb 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3ff'
+		codepoint: '1f469-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3ff'
 	},
 	{
 		shortName: 'Kiss Woman Man Light Skin Tone Medium Dark Skin Tone',
-		codepoint: '1f469 1f3fb 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3fe'
+		codepoint: '1f469-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fe'
 	},
 	{
 		shortName: 'Kiss Woman Man Light Skin Tone Medium Light Skin Tone',
-		codepoint: '1f469 1f3fb 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3fc'
+		codepoint: '1f469-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fc'
 	},
 	{
 		shortName: 'Kiss Woman Man Light Skin Tone Medium Skin Tone',
-		codepoint: '1f469 1f3fb 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3fd'
+		codepoint: '1f469-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fd'
 	},
 	{
 		shortName: 'Kiss Woman Man Medium Dark Skin Tone',
-		codepoint: '1f469 1f3fe 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3fe'
+		codepoint: '1f469-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fe'
 	},
 	{
 		shortName: 'Kiss Woman Man Medium Dark Skin Tone Dark Skin Tone',
-		codepoint: '1f469 1f3fe 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3ff'
+		codepoint: '1f469-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3ff'
 	},
 	{
 		shortName: 'Kiss Woman Man Medium Dark Skin Tone Light Skin Tone',
-		codepoint: '1f469 1f3fe 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3fb'
+		codepoint: '1f469-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fb'
 	},
 	{
 		shortName: 'Kiss Woman Man Medium Dark Skin Tone Medium Light Skin Tone',
-		codepoint: '1f469 1f3fe 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3fc'
+		codepoint: '1f469-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fc'
 	},
 	{
 		shortName: 'Kiss Woman Man Medium Dark Skin Tone Medium Skin Tone',
-		codepoint: '1f469 1f3fe 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3fd'
+		codepoint: '1f469-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fd'
 	},
 	{
 		shortName: 'Kiss Woman Man Medium Light Skin Tone',
-		codepoint: '1f469 1f3fc 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3fc'
+		codepoint: '1f469-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fc'
 	},
 	{
 		shortName: 'Kiss Woman Man Medium Light Skin Tone Dark Skin Tone',
-		codepoint: '1f469 1f3fc 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3ff'
+		codepoint: '1f469-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3ff'
 	},
 	{
 		shortName: 'Kiss Woman Man Medium Light Skin Tone Light Skin Tone',
-		codepoint: '1f469 1f3fc 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3fb'
+		codepoint: '1f469-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fb'
 	},
 	{
 		shortName: 'Kiss Woman Man Medium Light Skin Tone Medium Dark Skin Tone',
-		codepoint: '1f469 1f3fc 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3fe'
+		codepoint: '1f469-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fe'
 	},
 	{
 		shortName: 'Kiss Woman Man Medium Light Skin Tone Medium Skin Tone',
-		codepoint: '1f469 1f3fc 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3fd'
+		codepoint: '1f469-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fd'
 	},
 	{
 		shortName: 'Kiss Woman Man Medium Skin Tone',
-		codepoint: '1f469 1f3fd 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3fd'
+		codepoint: '1f469-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fd'
 	},
 	{
 		shortName: 'Kiss Woman Man Medium Skin Tone Dark Skin Tone',
-		codepoint: '1f469 1f3fd 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3ff'
+		codepoint: '1f469-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3ff'
 	},
 	{
 		shortName: 'Kiss Woman Man Medium Skin Tone Light Skin Tone',
-		codepoint: '1f469 1f3fd 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3fb'
+		codepoint: '1f469-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fb'
 	},
 	{
 		shortName: 'Kiss Woman Man Medium Skin Tone Medium Dark Skin Tone',
-		codepoint: '1f469 1f3fd 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3fe'
+		codepoint: '1f469-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fe'
 	},
 	{
 		shortName: 'Kiss Woman Man Medium Skin Tone Medium Light Skin Tone',
-		codepoint: '1f469 1f3fd 200d 2764 fe0f 200d 1f48b 200d 1f468 1f3fc'
+		codepoint: '1f469-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fc'
 	},
 	{
 		shortName: 'Kiss Woman Woman',
-		codepoint: '1f469 200d 2764 fe0f 200d 1f48b 200d 1f469'
+		codepoint: '1f469-200d-2764-fe0f-200d-1f48b-200d-1f469'
 	},
 	{
 		shortName: 'Kiss Woman Woman Dark Skin Tone',
-		codepoint: '1f469 1f3ff 200d 2764 fe0f 200d 1f48b 200d 1f469 1f3ff'
+		codepoint: '1f469-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3ff'
 	},
 	{
 		shortName: 'Kiss Woman Woman Dark Skin Tone Light Skin Tone',
-		codepoint: '1f469 1f3ff 200d 2764 fe0f 200d 1f48b 200d 1f469 1f3fb'
+		codepoint: '1f469-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fb'
 	},
 	{
 		shortName: 'Kiss Woman Woman Dark Skin Tone Medium Dark Skin Tone',
-		codepoint: '1f469 1f3ff 200d 2764 fe0f 200d 1f48b 200d 1f469 1f3fe'
+		codepoint: '1f469-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fe'
 	},
 	{
 		shortName: 'Kiss Woman Woman Dark Skin Tone Medium Light Skin Tone',
-		codepoint: '1f469 1f3ff 200d 2764 fe0f 200d 1f48b 200d 1f469 1f3fc'
+		codepoint: '1f469-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fc'
 	},
 	{
 		shortName: 'Kiss Woman Woman Dark Skin Tone Medium Skin Tone',
-		codepoint: '1f469 1f3ff 200d 2764 fe0f 200d 1f48b 200d 1f469 1f3fd'
+		codepoint: '1f469-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fd'
 	},
 	{
 		shortName: 'Kiss Woman Woman Light Skin Tone',
-		codepoint: '1f469 1f3fb 200d 2764 fe0f 200d 1f48b 200d 1f469 1f3fb'
+		codepoint: '1f469-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fb'
 	},
 	{
 		shortName: 'Kiss Woman Woman Light Skin Tone Dark Skin Tone',
-		codepoint: '1f469 1f3fb 200d 2764 fe0f 200d 1f48b 200d 1f469 1f3ff'
+		codepoint: '1f469-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3ff'
 	},
 	{
 		shortName: 'Kiss Woman Woman Light Skin Tone Medium Dark Skin Tone',
-		codepoint: '1f469 1f3fb 200d 2764 fe0f 200d 1f48b 200d 1f469 1f3fe'
+		codepoint: '1f469-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fe'
 	},
 	{
 		shortName: 'Kiss Woman Woman Light Skin Tone Medium Light Skin Tone',
-		codepoint: '1f469 1f3fb 200d 2764 fe0f 200d 1f48b 200d 1f469 1f3fc'
+		codepoint: '1f469-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fc'
 	},
 	{
 		shortName: 'Kiss Woman Woman Light Skin Tone Medium Skin Tone',
-		codepoint: '1f469 1f3fb 200d 2764 fe0f 200d 1f48b 200d 1f469 1f3fd'
+		codepoint: '1f469-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fd'
 	},
 	{
 		shortName: 'Kiss Woman Woman Medium Dark Skin Tone',
-		codepoint: '1f469 1f3fe 200d 2764 fe0f 200d 1f48b 200d 1f469 1f3fe'
+		codepoint: '1f469-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fe'
 	},
 	{
 		shortName: 'Kiss Woman Woman Medium Dark Skin Tone Dark Skin Tone',
-		codepoint: '1f469 1f3fe 200d 2764 fe0f 200d 1f48b 200d 1f469 1f3ff'
+		codepoint: '1f469-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3ff'
 	},
 	{
 		shortName: 'Kiss Woman Woman Medium Dark Skin Tone Light Skin Tone',
-		codepoint: '1f469 1f3fe 200d 2764 fe0f 200d 1f48b 200d 1f469 1f3fb'
+		codepoint: '1f469-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fb'
 	},
 	{
 		shortName: 'Kiss Woman Woman Medium Dark Skin Tone Medium Light Skin Tone',
-		codepoint: '1f469 1f3fe 200d 2764 fe0f 200d 1f48b 200d 1f469 1f3fc'
+		codepoint: '1f469-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fc'
 	},
 	{
 		shortName: 'Kiss Woman Woman Medium Dark Skin Tone Medium Skin Tone',
-		codepoint: '1f469 1f3fe 200d 2764 fe0f 200d 1f48b 200d 1f469 1f3fd'
+		codepoint: '1f469-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fd'
 	},
 	{
 		shortName: 'Kiss Woman Woman Medium Light Skin Tone',
-		codepoint: '1f469 1f3fc 200d 2764 fe0f 200d 1f48b 200d 1f469 1f3fc'
+		codepoint: '1f469-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fc'
 	},
 	{
 		shortName: 'Kiss Woman Woman Medium Light Skin Tone Dark Skin Tone',
-		codepoint: '1f469 1f3fc 200d 2764 fe0f 200d 1f48b 200d 1f469 1f3ff'
+		codepoint: '1f469-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3ff'
 	},
 	{
 		shortName: 'Kiss Woman Woman Medium Light Skin Tone Light Skin Tone',
-		codepoint: '1f469 1f3fc 200d 2764 fe0f 200d 1f48b 200d 1f469 1f3fb'
+		codepoint: '1f469-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fb'
 	},
 	{
 		shortName: 'Kiss Woman Woman Medium Light Skin Tone Medium Dark Skin Tone',
-		codepoint: '1f469 1f3fc 200d 2764 fe0f 200d 1f48b 200d 1f469 1f3fe'
+		codepoint: '1f469-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fe'
 	},
 	{
 		shortName: 'Kiss Woman Woman Medium Light Skin Tone Medium Skin Tone',
-		codepoint: '1f469 1f3fc 200d 2764 fe0f 200d 1f48b 200d 1f469 1f3fd'
+		codepoint: '1f469-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fd'
 	},
 	{
 		shortName: 'Kiss Woman Woman Medium Skin Tone',
-		codepoint: '1f469 1f3fd 200d 2764 fe0f 200d 1f48b 200d 1f469 1f3fd'
+		codepoint: '1f469-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fd'
 	},
 	{
 		shortName: 'Kiss Woman Woman Medium Skin Tone Dark Skin Tone',
-		codepoint: '1f469 1f3fd 200d 2764 fe0f 200d 1f48b 200d 1f469 1f3ff'
+		codepoint: '1f469-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3ff'
 	},
 	{
 		shortName: 'Kiss Woman Woman Medium Skin Tone Light Skin Tone',
-		codepoint: '1f469 1f3fd 200d 2764 fe0f 200d 1f48b 200d 1f469 1f3fb'
+		codepoint: '1f469-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fb'
 	},
 	{
 		shortName: 'Kiss Woman Woman Medium Skin Tone Medium Dark Skin Tone',
-		codepoint: '1f469 1f3fd 200d 2764 fe0f 200d 1f48b 200d 1f469 1f3fe'
+		codepoint: '1f469-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fe'
 	},
 	{
 		shortName: 'Kiss Woman Woman Medium Skin Tone Medium Light Skin Tone',
-		codepoint: '1f469 1f3fd 200d 2764 fe0f 200d 1f48b 200d 1f469 1f3fc'
+		codepoint: '1f469-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fc'
 	},
 	{
 		shortName: 'Kissing Cat',
@@ -5317,23 +5321,23 @@ export default [
 	},
 	{
 		shortName: 'Left Facing Fist Dark Skin Tone',
-		codepoint: '1f91b 1f3ff'
+		codepoint: '1f91b-1f3ff'
 	},
 	{
 		shortName: 'Left Facing Fist Light Skin Tone',
-		codepoint: '1f91b 1f3fb'
+		codepoint: '1f91b-1f3fb'
 	},
 	{
 		shortName: 'Left Facing Fist Medium Dark Skin Tone',
-		codepoint: '1f91b 1f3fe'
+		codepoint: '1f91b-1f3fe'
 	},
 	{
 		shortName: 'Left Facing Fist Medium Light Skin Tone',
-		codepoint: '1f91b 1f3fc'
+		codepoint: '1f91b-1f3fc'
 	},
 	{
 		shortName: 'Left Facing Fist Medium Skin Tone',
-		codepoint: '1f91b 1f3fd'
+		codepoint: '1f91b-1f3fd'
 	},
 	{
 		shortName: 'Left Luggage',
@@ -5353,23 +5357,23 @@ export default [
 	},
 	{
 		shortName: 'Leg Dark Skin Tone',
-		codepoint: '1f9b5 1f3ff'
+		codepoint: '1f9b5-1f3ff'
 	},
 	{
 		shortName: 'Leg Light Skin Tone',
-		codepoint: '1f9b5 1f3fb'
+		codepoint: '1f9b5-1f3fb'
 	},
 	{
 		shortName: 'Leg Medium Dark Skin Tone',
-		codepoint: '1f9b5 1f3fe'
+		codepoint: '1f9b5-1f3fe'
 	},
 	{
 		shortName: 'Leg Medium Light Skin Tone',
-		codepoint: '1f9b5 1f3fc'
+		codepoint: '1f9b5-1f3fc'
 	},
 	{
 		shortName: 'Leg Medium Skin Tone',
-		codepoint: '1f9b5 1f3fd'
+		codepoint: '1f9b5-1f3fd'
 	},
 	{
 		shortName: 'Lemon',
@@ -5485,23 +5489,23 @@ export default [
 	},
 	{
 		shortName: 'Love You Gesture Dark Skin Tone',
-		codepoint: '1f91f 1f3ff'
+		codepoint: '1f91f-1f3ff'
 	},
 	{
 		shortName: 'Love You Gesture Light Skin Tone',
-		codepoint: '1f91f 1f3fb'
+		codepoint: '1f91f-1f3fb'
 	},
 	{
 		shortName: 'Love You Gesture Medium Dark Skin Tone',
-		codepoint: '1f91f 1f3fe'
+		codepoint: '1f91f-1f3fe'
 	},
 	{
 		shortName: 'Love You Gesture Medium Light Skin Tone',
-		codepoint: '1f91f 1f3fc'
+		codepoint: '1f91f-1f3fc'
 	},
 	{
 		shortName: 'Love You Gesture Medium Skin Tone',
-		codepoint: '1f91f 1f3fd'
+		codepoint: '1f91f-1f3fd'
 	},
 	{
 		shortName: 'Luggage',
@@ -5521,23 +5525,23 @@ export default [
 	},
 	{
 		shortName: 'Mage Dark Skin Tone',
-		codepoint: '1f9d9 1f3ff'
+		codepoint: '1f9d9-1f3ff'
 	},
 	{
 		shortName: 'Mage Light Skin Tone',
-		codepoint: '1f9d9 1f3fb'
+		codepoint: '1f9d9-1f3fb'
 	},
 	{
 		shortName: 'Mage Medium Dark Skin Tone',
-		codepoint: '1f9d9 1f3fe'
+		codepoint: '1f9d9-1f3fe'
 	},
 	{
 		shortName: 'Mage Medium Light Skin Tone',
-		codepoint: '1f9d9 1f3fc'
+		codepoint: '1f9d9-1f3fc'
 	},
 	{
 		shortName: 'Mage Medium Skin Tone',
-		codepoint: '1f9d9 1f3fd'
+		codepoint: '1f9d9-1f3fd'
 	},
 	{
 		shortName: 'Magic Wand',
@@ -5573,239 +5577,239 @@ export default [
 	},
 	{
 		shortName: 'Man Artist',
-		codepoint: '1f468 200d 1f3a8'
+		codepoint: '1f468-200d-1f3a8'
 	},
 	{
 		shortName: 'Man Artist Dark Skin Tone',
-		codepoint: '1f468 1f3ff 200d 1f3a8'
+		codepoint: '1f468-1f3ff-200d-1f3a8'
 	},
 	{
 		shortName: 'Man Artist Light Skin Tone',
-		codepoint: '1f468 1f3fb 200d 1f3a8'
+		codepoint: '1f468-1f3fb-200d-1f3a8'
 	},
 	{
 		shortName: 'Man Artist Medium Dark Skin Tone',
-		codepoint: '1f468 1f3fe 200d 1f3a8'
+		codepoint: '1f468-1f3fe-200d-1f3a8'
 	},
 	{
 		shortName: 'Man Artist Medium Light Skin Tone',
-		codepoint: '1f468 1f3fc 200d 1f3a8'
+		codepoint: '1f468-1f3fc-200d-1f3a8'
 	},
 	{
 		shortName: 'Man Artist Medium Skin Tone',
-		codepoint: '1f468 1f3fd 200d 1f3a8'
+		codepoint: '1f468-1f3fd-200d-1f3a8'
 	},
 	{
 		shortName: 'Man Astronaut',
-		codepoint: '1f468 200d 1f680'
+		codepoint: '1f468-200d-1f680'
 	},
 	{
 		shortName: 'Man Astronaut Dark Skin Tone',
-		codepoint: '1f468 1f3ff 200d 1f680'
+		codepoint: '1f468-1f3ff-200d-1f680'
 	},
 	{
 		shortName: 'Man Astronaut Light Skin Tone',
-		codepoint: '1f468 1f3fb 200d 1f680'
+		codepoint: '1f468-1f3fb-200d-1f680'
 	},
 	{
 		shortName: 'Man Astronaut Medium Dark Skin Tone',
-		codepoint: '1f468 1f3fe 200d 1f680'
+		codepoint: '1f468-1f3fe-200d-1f680'
 	},
 	{
 		shortName: 'Man Astronaut Medium Light Skin Tone',
-		codepoint: '1f468 1f3fc 200d 1f680'
+		codepoint: '1f468-1f3fc-200d-1f680'
 	},
 	{
 		shortName: 'Man Astronaut Medium Skin Tone',
-		codepoint: '1f468 1f3fd 200d 1f680'
+		codepoint: '1f468-1f3fd-200d-1f680'
 	},
 	{
 		shortName: 'Man Bald',
-		codepoint: '1f468 200d 1f9b2'
+		codepoint: '1f468-200d-1f9b2'
 	},
 	{
 		shortName: 'Man Beard',
-		codepoint: '1f9d4 200d 2642 fe0f'
+		codepoint: '1f9d4-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Biking',
-		codepoint: '1f6b4 200d 2642 fe0f'
+		codepoint: '1f6b4-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Biking Dark Skin Tone',
-		codepoint: '1f6b4 1f3ff 200d 2642 fe0f'
+		codepoint: '1f6b4-1f3ff-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Biking Light Skin Tone',
-		codepoint: '1f6b4 1f3fb 200d 2642 fe0f'
+		codepoint: '1f6b4-1f3fb-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Biking Medium Dark Skin Tone',
-		codepoint: '1f6b4 1f3fe 200d 2642 fe0f'
+		codepoint: '1f6b4-1f3fe-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Biking Medium Light Skin Tone',
-		codepoint: '1f6b4 1f3fc 200d 2642 fe0f'
+		codepoint: '1f6b4-1f3fc-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Biking Medium Skin Tone',
-		codepoint: '1f6b4 1f3fd 200d 2642 fe0f'
+		codepoint: '1f6b4-1f3fd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Blond Hair',
-		codepoint: '1f471 200d 2642 fe0f'
+		codepoint: '1f471-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Bouncing Ball',
-		codepoint: '26f9 fe0f 200d 2642 fe0f'
+		codepoint: '26f9-fe0f-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Bouncing Ball Dark Skin Tone',
-		codepoint: '26f9 1f3ff 200d 2642 fe0f'
+		codepoint: '26f9-1f3ff-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Bouncing Ball Light Skin Tone',
-		codepoint: '26f9 1f3fb 200d 2642 fe0f'
+		codepoint: '26f9-1f3fb-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Bouncing Ball Medium Dark Skin Tone',
-		codepoint: '26f9 1f3fe 200d 2642 fe0f'
+		codepoint: '26f9-1f3fe-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Bouncing Ball Medium Light Skin Tone',
-		codepoint: '26f9 1f3fc 200d 2642 fe0f'
+		codepoint: '26f9-1f3fc-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Bouncing Ball Medium Skin Tone',
-		codepoint: '26f9 1f3fd 200d 2642 fe0f'
+		codepoint: '26f9-1f3fd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Bowing',
-		codepoint: '1f647 200d 2642 fe0f'
+		codepoint: '1f647-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Bowing Dark Skin Tone',
-		codepoint: '1f647 1f3ff 200d 2642 fe0f'
+		codepoint: '1f647-1f3ff-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Bowing Light Skin Tone',
-		codepoint: '1f647 1f3fb 200d 2642 fe0f'
+		codepoint: '1f647-1f3fb-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Bowing Medium Dark Skin Tone',
-		codepoint: '1f647 1f3fe 200d 2642 fe0f'
+		codepoint: '1f647-1f3fe-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Bowing Medium Light Skin Tone',
-		codepoint: '1f647 1f3fc 200d 2642 fe0f'
+		codepoint: '1f647-1f3fc-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Bowing Medium Skin Tone',
-		codepoint: '1f647 1f3fd 200d 2642 fe0f'
+		codepoint: '1f647-1f3fd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Cartwheeling',
-		codepoint: '1f938 200d 2642 fe0f'
+		codepoint: '1f938-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Cartwheeling Dark Skin Tone',
-		codepoint: '1f938 1f3ff 200d 2642 fe0f'
+		codepoint: '1f938-1f3ff-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Cartwheeling Light Skin Tone',
-		codepoint: '1f938 1f3fb 200d 2642 fe0f'
+		codepoint: '1f938-1f3fb-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Cartwheeling Medium Dark Skin Tone',
-		codepoint: '1f938 1f3fe 200d 2642 fe0f'
+		codepoint: '1f938-1f3fe-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Cartwheeling Medium Light Skin Tone',
-		codepoint: '1f938 1f3fc 200d 2642 fe0f'
+		codepoint: '1f938-1f3fc-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Cartwheeling Medium Skin Tone',
-		codepoint: '1f938 1f3fd 200d 2642 fe0f'
+		codepoint: '1f938-1f3fd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Christmas',
-		codepoint: '1f468 200d 1f384'
+		codepoint: '1f468-200d-1f384'
 	},
 	{
 		shortName: 'Man Climbing',
-		codepoint: '1f9d7 200d 2642 fe0f'
+		codepoint: '1f9d7-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Climbing Dark Skin Tone',
-		codepoint: '1f9d7 1f3ff 200d 2642 fe0f'
+		codepoint: '1f9d7-1f3ff-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Climbing Light Skin Tone',
-		codepoint: '1f9d7 1f3fb 200d 2642 fe0f'
+		codepoint: '1f9d7-1f3fb-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Climbing Medium Dark Skin Tone',
-		codepoint: '1f9d7 1f3fe 200d 2642 fe0f'
+		codepoint: '1f9d7-1f3fe-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Climbing Medium Light Skin Tone',
-		codepoint: '1f9d7 1f3fc 200d 2642 fe0f'
+		codepoint: '1f9d7-1f3fc-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Climbing Medium Skin Tone',
-		codepoint: '1f9d7 1f3fd 200d 2642 fe0f'
+		codepoint: '1f9d7-1f3fd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Construction Worker',
-		codepoint: '1f477 200d 2642 fe0f'
+		codepoint: '1f477-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Construction Worker Dark Skin Tone',
-		codepoint: '1f477 1f3ff 200d 2642 fe0f'
+		codepoint: '1f477-1f3ff-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Construction Worker Light Skin Tone',
-		codepoint: '1f477 1f3fb 200d 2642 fe0f'
+		codepoint: '1f477-1f3fb-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Construction Worker Medium Dark Skin Tone',
-		codepoint: '1f477 1f3fe 200d 2642 fe0f'
+		codepoint: '1f477-1f3fe-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Construction Worker Medium Light Skin Tone',
-		codepoint: '1f477 1f3fc 200d 2642 fe0f'
+		codepoint: '1f477-1f3fc-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Construction Worker Medium Skin Tone',
-		codepoint: '1f477 1f3fd 200d 2642 fe0f'
+		codepoint: '1f477-1f3fd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Cook',
-		codepoint: '1f468 200d 1f373'
+		codepoint: '1f468-200d-1f373'
 	},
 	{
 		shortName: 'Man Cook Dark Skin Tone',
-		codepoint: '1f468 1f3ff 200d 1f373'
+		codepoint: '1f468-1f3ff-200d-1f373'
 	},
 	{
 		shortName: 'Man Cook Light Skin Tone',
-		codepoint: '1f468 1f3fb 200d 1f373'
+		codepoint: '1f468-1f3fb-200d-1f373'
 	},
 	{
 		shortName: 'Man Cook Medium Dark Skin Tone',
-		codepoint: '1f468 1f3fe 200d 1f373'
+		codepoint: '1f468-1f3fe-200d-1f373'
 	},
 	{
 		shortName: 'Man Cook Medium Light Skin Tone',
-		codepoint: '1f468 1f3fc 200d 1f373'
+		codepoint: '1f468-1f3fc-200d-1f373'
 	},
 	{
 		shortName: 'Man Cook Medium Skin Tone',
-		codepoint: '1f468 1f3fd 200d 1f373'
+		codepoint: '1f468-1f3fd-200d-1f373'
 	},
 	{
 		shortName: 'Man Curly Hair',
-		codepoint: '1f468 200d 1f9b1'
+		codepoint: '1f468-200d-1f9b1'
 	},
 	{
 		shortName: 'Man Dancing',
@@ -5813,1127 +5817,1127 @@ export default [
 	},
 	{
 		shortName: 'Man Dancing Dark Skin Tone',
-		codepoint: '1f57a 1f3ff'
+		codepoint: '1f57a-1f3ff'
 	},
 	{
 		shortName: 'Man Dancing Light Skin Tone',
-		codepoint: '1f57a 1f3fb'
+		codepoint: '1f57a-1f3fb'
 	},
 	{
 		shortName: 'Man Dancing Medium Dark Skin Tone',
-		codepoint: '1f57a 1f3fe'
+		codepoint: '1f57a-1f3fe'
 	},
 	{
 		shortName: 'Man Dancing Medium Light Skin Tone',
-		codepoint: '1f57a 1f3fc'
+		codepoint: '1f57a-1f3fc'
 	},
 	{
 		shortName: 'Man Dancing Medium Skin Tone',
-		codepoint: '1f57a 1f3fd'
+		codepoint: '1f57a-1f3fd'
 	},
 	{
 		shortName: 'Man Dark Skin Tone',
-		codepoint: '1f468 1f3ff'
+		codepoint: '1f468-1f3ff'
 	},
 	{
 		shortName: 'Man Dark Skin Tone Bald',
-		codepoint: '1f468 1f3ff 200d 1f9b2'
+		codepoint: '1f468-1f3ff-200d-1f9b2'
 	},
 	{
 		shortName: 'Man Dark Skin Tone Beard',
-		codepoint: '1f9d4 1f3ff 200d 2642 fe0f'
+		codepoint: '1f9d4-1f3ff-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Dark Skin Tone Blond Hair',
-		codepoint: '1f471 1f3ff 200d 2642 fe0f'
+		codepoint: '1f471-1f3ff-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Dark Skin Tone Christmas',
-		codepoint: '1f468 1f3ff 200d 1f384'
+		codepoint: '1f468-1f3ff-200d-1f384'
 	},
 	{
 		shortName: 'Man Dark Skin Tone Curly Hair',
-		codepoint: '1f468 1f3ff 200d 1f9b1'
+		codepoint: '1f468-1f3ff-200d-1f9b1'
 	},
 	{
 		shortName: 'Man Dark Skin Tone Red Hair',
-		codepoint: '1f468 1f3ff 200d 1f9b0'
+		codepoint: '1f468-1f3ff-200d-1f9b0'
 	},
 	{
 		shortName: 'Man Dark Skin Tone White Hair',
-		codepoint: '1f468 1f3ff 200d 1f9b3'
+		codepoint: '1f468-1f3ff-200d-1f9b3'
 	},
 	{
 		shortName: 'Man Detective',
-		codepoint: '1f575 fe0f 200d 2642 fe0f'
+		codepoint: '1f575-fe0f-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Detective Dark Skin Tone',
-		codepoint: '1f575 1f3ff 200d 2642 fe0f'
+		codepoint: '1f575-1f3ff-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Detective Light Skin Tone',
-		codepoint: '1f575 1f3fb 200d 2642 fe0f'
+		codepoint: '1f575-1f3fb-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Detective Medium Dark Skin Tone',
-		codepoint: '1f575 1f3fe 200d 2642 fe0f'
+		codepoint: '1f575-1f3fe-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Detective Medium Light Skin Tone',
-		codepoint: '1f575 1f3fc 200d 2642 fe0f'
+		codepoint: '1f575-1f3fc-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Detective Medium Skin Tone',
-		codepoint: '1f575 1f3fd 200d 2642 fe0f'
+		codepoint: '1f575-1f3fd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Elf',
-		codepoint: '1f9dd 200d 2642 fe0f'
+		codepoint: '1f9dd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Elf Dark Skin Tone',
-		codepoint: '1f9dd 1f3ff 200d 2642 fe0f'
+		codepoint: '1f9dd-1f3ff-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Elf Light Skin Tone',
-		codepoint: '1f9dd 1f3fb 200d 2642 fe0f'
+		codepoint: '1f9dd-1f3fb-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Elf Medium Dark Skin Tone',
-		codepoint: '1f9dd 1f3fe 200d 2642 fe0f'
+		codepoint: '1f9dd-1f3fe-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Elf Medium Light Skin Tone',
-		codepoint: '1f9dd 1f3fc 200d 2642 fe0f'
+		codepoint: '1f9dd-1f3fc-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Elf Medium Skin Tone',
-		codepoint: '1f9dd 1f3fd 200d 2642 fe0f'
+		codepoint: '1f9dd-1f3fd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Facepalming',
-		codepoint: '1f926 200d 2642 fe0f'
+		codepoint: '1f926-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Facepalming Dark Skin Tone',
-		codepoint: '1f926 1f3ff 200d 2642 fe0f'
+		codepoint: '1f926-1f3ff-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Facepalming Light Skin Tone',
-		codepoint: '1f926 1f3fb 200d 2642 fe0f'
+		codepoint: '1f926-1f3fb-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Facepalming Medium Dark Skin Tone',
-		codepoint: '1f926 1f3fe 200d 2642 fe0f'
+		codepoint: '1f926-1f3fe-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Facepalming Medium Light Skin Tone',
-		codepoint: '1f926 1f3fc 200d 2642 fe0f'
+		codepoint: '1f926-1f3fc-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Facepalming Medium Skin Tone',
-		codepoint: '1f926 1f3fd 200d 2642 fe0f'
+		codepoint: '1f926-1f3fd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Factory Worker',
-		codepoint: '1f468 200d 1f3ed'
+		codepoint: '1f468-200d-1f3ed'
 	},
 	{
 		shortName: 'Man Factory Worker Dark Skin Tone',
-		codepoint: '1f468 1f3ff 200d 1f3ed'
+		codepoint: '1f468-1f3ff-200d-1f3ed'
 	},
 	{
 		shortName: 'Man Factory Worker Light Skin Tone',
-		codepoint: '1f468 1f3fb 200d 1f3ed'
+		codepoint: '1f468-1f3fb-200d-1f3ed'
 	},
 	{
 		shortName: 'Man Factory Worker Medium Dark Skin Tone',
-		codepoint: '1f468 1f3fe 200d 1f3ed'
+		codepoint: '1f468-1f3fe-200d-1f3ed'
 	},
 	{
 		shortName: 'Man Factory Worker Medium Light Skin Tone',
-		codepoint: '1f468 1f3fc 200d 1f3ed'
+		codepoint: '1f468-1f3fc-200d-1f3ed'
 	},
 	{
 		shortName: 'Man Factory Worker Medium Skin Tone',
-		codepoint: '1f468 1f3fd 200d 1f3ed'
+		codepoint: '1f468-1f3fd-200d-1f3ed'
 	},
 	{
 		shortName: 'Man Fairy',
-		codepoint: '1f9da 200d 2642 fe0f'
+		codepoint: '1f9da-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Fairy Dark Skin Tone',
-		codepoint: '1f9da 1f3ff 200d 2642 fe0f'
+		codepoint: '1f9da-1f3ff-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Fairy Light Skin Tone',
-		codepoint: '1f9da 1f3fb 200d 2642 fe0f'
+		codepoint: '1f9da-1f3fb-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Fairy Medium Dark Skin Tone',
-		codepoint: '1f9da 1f3fe 200d 2642 fe0f'
+		codepoint: '1f9da-1f3fe-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Fairy Medium Light Skin Tone',
-		codepoint: '1f9da 1f3fc 200d 2642 fe0f'
+		codepoint: '1f9da-1f3fc-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Fairy Medium Skin Tone',
-		codepoint: '1f9da 1f3fd 200d 2642 fe0f'
+		codepoint: '1f9da-1f3fd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Farmer',
-		codepoint: '1f468 200d 1f33e'
+		codepoint: '1f468-200d-1f33e'
 	},
 	{
 		shortName: 'Man Farmer Dark Skin Tone',
-		codepoint: '1f468 1f3ff 200d 1f33e'
+		codepoint: '1f468-1f3ff-200d-1f33e'
 	},
 	{
 		shortName: 'Man Farmer Light Skin Tone',
-		codepoint: '1f468 1f3fb 200d 1f33e'
+		codepoint: '1f468-1f3fb-200d-1f33e'
 	},
 	{
 		shortName: 'Man Farmer Medium Dark Skin Tone',
-		codepoint: '1f468 1f3fe 200d 1f33e'
+		codepoint: '1f468-1f3fe-200d-1f33e'
 	},
 	{
 		shortName: 'Man Farmer Medium Light Skin Tone',
-		codepoint: '1f468 1f3fc 200d 1f33e'
+		codepoint: '1f468-1f3fc-200d-1f33e'
 	},
 	{
 		shortName: 'Man Farmer Medium Skin Tone',
-		codepoint: '1f468 1f3fd 200d 1f33e'
+		codepoint: '1f468-1f3fd-200d-1f33e'
 	},
 	{
 		shortName: 'Man Feeding Baby',
-		codepoint: '1f468 200d 1f37c'
+		codepoint: '1f468-200d-1f37c'
 	},
 	{
 		shortName: 'Man Feeding Baby Dark Skin Tone',
-		codepoint: '1f468 1f3ff 200d 1f37c'
+		codepoint: '1f468-1f3ff-200d-1f37c'
 	},
 	{
 		shortName: 'Man Feeding Baby Light Skin Tone',
-		codepoint: '1f468 1f3fb 200d 1f37c'
+		codepoint: '1f468-1f3fb-200d-1f37c'
 	},
 	{
 		shortName: 'Man Feeding Baby Medium Dark Skin Tone',
-		codepoint: '1f468 1f3fe 200d 1f37c'
+		codepoint: '1f468-1f3fe-200d-1f37c'
 	},
 	{
 		shortName: 'Man Feeding Baby Medium Light Skin Tone',
-		codepoint: '1f468 1f3fc 200d 1f37c'
+		codepoint: '1f468-1f3fc-200d-1f37c'
 	},
 	{
 		shortName: 'Man Feeding Baby Medium Skin Tone',
-		codepoint: '1f468 1f3fd 200d 1f37c'
+		codepoint: '1f468-1f3fd-200d-1f37c'
 	},
 	{
 		shortName: 'Man Firefighter',
-		codepoint: '1f468 200d 1f692'
+		codepoint: '1f468-200d-1f692'
 	},
 	{
 		shortName: 'Man Firefighter Dark Skin Tone',
-		codepoint: '1f468 1f3ff 200d 1f692'
+		codepoint: '1f468-1f3ff-200d-1f692'
 	},
 	{
 		shortName: 'Man Firefighter Light Skin Tone',
-		codepoint: '1f468 1f3fb 200d 1f692'
+		codepoint: '1f468-1f3fb-200d-1f692'
 	},
 	{
 		shortName: 'Man Firefighter Medium Dark Skin Tone',
-		codepoint: '1f468 1f3fe 200d 1f692'
+		codepoint: '1f468-1f3fe-200d-1f692'
 	},
 	{
 		shortName: 'Man Firefighter Medium Light Skin Tone',
-		codepoint: '1f468 1f3fc 200d 1f692'
+		codepoint: '1f468-1f3fc-200d-1f692'
 	},
 	{
 		shortName: 'Man Firefighter Medium Skin Tone',
-		codepoint: '1f468 1f3fd 200d 1f692'
+		codepoint: '1f468-1f3fd-200d-1f692'
 	},
 	{
 		shortName: 'Man Frowning',
-		codepoint: '1f64d 200d 2642 fe0f'
+		codepoint: '1f64d-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Frowning Dark Skin Tone',
-		codepoint: '1f64d 1f3ff 200d 2642 fe0f'
+		codepoint: '1f64d-1f3ff-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Frowning Light Skin Tone',
-		codepoint: '1f64d 1f3fb 200d 2642 fe0f'
+		codepoint: '1f64d-1f3fb-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Frowning Medium Dark Skin Tone',
-		codepoint: '1f64d 1f3fe 200d 2642 fe0f'
+		codepoint: '1f64d-1f3fe-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Frowning Medium Light Skin Tone',
-		codepoint: '1f64d 1f3fc 200d 2642 fe0f'
+		codepoint: '1f64d-1f3fc-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Frowning Medium Skin Tone',
-		codepoint: '1f64d 1f3fd 200d 2642 fe0f'
+		codepoint: '1f64d-1f3fd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Genie',
-		codepoint: '1f9de 200d 2642 fe0f'
+		codepoint: '1f9de-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Gesturing No',
-		codepoint: '1f645 200d 2642 fe0f'
+		codepoint: '1f645-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Gesturing No Dark Skin Tone',
-		codepoint: '1f645 1f3ff 200d 2642 fe0f'
+		codepoint: '1f645-1f3ff-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Gesturing No Light Skin Tone',
-		codepoint: '1f645 1f3fb 200d 2642 fe0f'
+		codepoint: '1f645-1f3fb-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Gesturing No Medium Dark Skin Tone',
-		codepoint: '1f645 1f3fe 200d 2642 fe0f'
+		codepoint: '1f645-1f3fe-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Gesturing No Medium Light Skin Tone',
-		codepoint: '1f645 1f3fc 200d 2642 fe0f'
+		codepoint: '1f645-1f3fc-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Gesturing No Medium Skin Tone',
-		codepoint: '1f645 1f3fd 200d 2642 fe0f'
+		codepoint: '1f645-1f3fd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Gesturing Ok',
-		codepoint: '1f646 200d 2642 fe0f'
+		codepoint: '1f646-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Gesturing Ok Dark Skin Tone',
-		codepoint: '1f646 1f3ff 200d 2642 fe0f'
+		codepoint: '1f646-1f3ff-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Gesturing Ok Light Skin Tone',
-		codepoint: '1f646 1f3fb 200d 2642 fe0f'
+		codepoint: '1f646-1f3fb-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Gesturing Ok Medium Dark Skin Tone',
-		codepoint: '1f646 1f3fe 200d 2642 fe0f'
+		codepoint: '1f646-1f3fe-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Gesturing Ok Medium Light Skin Tone',
-		codepoint: '1f646 1f3fc 200d 2642 fe0f'
+		codepoint: '1f646-1f3fc-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Gesturing Ok Medium Skin Tone',
-		codepoint: '1f646 1f3fd 200d 2642 fe0f'
+		codepoint: '1f646-1f3fd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Getting Haircut',
-		codepoint: '1f487 200d 2642 fe0f'
+		codepoint: '1f487-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Getting Haircut Dark Skin Tone',
-		codepoint: '1f487 1f3ff 200d 2642 fe0f'
+		codepoint: '1f487-1f3ff-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Getting Haircut Light Skin Tone',
-		codepoint: '1f487 1f3fb 200d 2642 fe0f'
+		codepoint: '1f487-1f3fb-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Getting Haircut Medium Dark Skin Tone',
-		codepoint: '1f487 1f3fe 200d 2642 fe0f'
+		codepoint: '1f487-1f3fe-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Getting Haircut Medium Light Skin Tone',
-		codepoint: '1f487 1f3fc 200d 2642 fe0f'
+		codepoint: '1f487-1f3fc-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Getting Haircut Medium Skin Tone',
-		codepoint: '1f487 1f3fd 200d 2642 fe0f'
+		codepoint: '1f487-1f3fd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Getting Massage',
-		codepoint: '1f486 200d 2642 fe0f'
+		codepoint: '1f486-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Getting Massage Dark Skin Tone',
-		codepoint: '1f486 1f3ff 200d 2642 fe0f'
+		codepoint: '1f486-1f3ff-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Getting Massage Light Skin Tone',
-		codepoint: '1f486 1f3fb 200d 2642 fe0f'
+		codepoint: '1f486-1f3fb-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Getting Massage Medium Dark Skin Tone',
-		codepoint: '1f486 1f3fe 200d 2642 fe0f'
+		codepoint: '1f486-1f3fe-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Getting Massage Medium Light Skin Tone',
-		codepoint: '1f486 1f3fc 200d 2642 fe0f'
+		codepoint: '1f486-1f3fc-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Getting Massage Medium Skin Tone',
-		codepoint: '1f486 1f3fd 200d 2642 fe0f'
+		codepoint: '1f486-1f3fd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Golfing',
-		codepoint: '1f3cc fe0f 200d 2642 fe0f'
+		codepoint: '1f3cc-fe0f-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Golfing Dark Skin Tone',
-		codepoint: '1f3cc 1f3ff 200d 2642 fe0f'
+		codepoint: '1f3cc-1f3ff-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Golfing Light Skin Tone',
-		codepoint: '1f3cc 1f3fb 200d 2642 fe0f'
+		codepoint: '1f3cc-1f3fb-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Golfing Medium Dark Skin Tone',
-		codepoint: '1f3cc 1f3fe 200d 2642 fe0f'
+		codepoint: '1f3cc-1f3fe-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Golfing Medium Light Skin Tone',
-		codepoint: '1f3cc 1f3fc 200d 2642 fe0f'
+		codepoint: '1f3cc-1f3fc-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Golfing Medium Skin Tone',
-		codepoint: '1f3cc 1f3fd 200d 2642 fe0f'
+		codepoint: '1f3cc-1f3fd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Guard',
-		codepoint: '1f482 200d 2642 fe0f'
+		codepoint: '1f482-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Guard Dark Skin Tone',
-		codepoint: '1f482 1f3ff 200d 2642 fe0f'
+		codepoint: '1f482-1f3ff-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Guard Light Skin Tone',
-		codepoint: '1f482 1f3fb 200d 2642 fe0f'
+		codepoint: '1f482-1f3fb-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Guard Medium Dark Skin Tone',
-		codepoint: '1f482 1f3fe 200d 2642 fe0f'
+		codepoint: '1f482-1f3fe-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Guard Medium Light Skin Tone',
-		codepoint: '1f482 1f3fc 200d 2642 fe0f'
+		codepoint: '1f482-1f3fc-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Guard Medium Skin Tone',
-		codepoint: '1f482 1f3fd 200d 2642 fe0f'
+		codepoint: '1f482-1f3fd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Health Worker',
-		codepoint: '1f468 200d 2695 fe0f'
+		codepoint: '1f468-200d-2695-fe0f'
 	},
 	{
 		shortName: 'Man Health Worker Dark Skin Tone',
-		codepoint: '1f468 1f3ff 200d 2695 fe0f'
+		codepoint: '1f468-1f3ff-200d-2695-fe0f'
 	},
 	{
 		shortName: 'Man Health Worker Light Skin Tone',
-		codepoint: '1f468 1f3fb 200d 2695 fe0f'
+		codepoint: '1f468-1f3fb-200d-2695-fe0f'
 	},
 	{
 		shortName: 'Man Health Worker Medium Dark Skin Tone',
-		codepoint: '1f468 1f3fe 200d 2695 fe0f'
+		codepoint: '1f468-1f3fe-200d-2695-fe0f'
 	},
 	{
 		shortName: 'Man Health Worker Medium Light Skin Tone',
-		codepoint: '1f468 1f3fc 200d 2695 fe0f'
+		codepoint: '1f468-1f3fc-200d-2695-fe0f'
 	},
 	{
 		shortName: 'Man Health Worker Medium Skin Tone',
-		codepoint: '1f468 1f3fd 200d 2695 fe0f'
+		codepoint: '1f468-1f3fd-200d-2695-fe0f'
 	},
 	{
 		shortName: 'Man In Business Suit Levitating Dark Skin Tone Female',
-		codepoint: '1f574 1f3ff 200d 2640 fe0f'
+		codepoint: '1f574-1f3ff-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Man In Business Suit Levitating Dark Skin Tone Male',
-		codepoint: '1f574 1f3ff 200d 2642 fe0f'
+		codepoint: '1f574-1f3ff-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man In Business Suit Levitating Female',
-		codepoint: '1f574 fe0f 200d 2640 fe0f'
+		codepoint: '1f574-fe0f-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Man In Business Suit Levitating Light Skin Tone Female',
-		codepoint: '1f574 1f3fb 200d 2640 fe0f'
+		codepoint: '1f574-1f3fb-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Man In Business Suit Levitating Light Skin Tone Male',
-		codepoint: '1f574 1f3fb 200d 2642 fe0f'
+		codepoint: '1f574-1f3fb-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man In Business Suit Levitating Male',
-		codepoint: '1f574 fe0f 200d 2642 fe0f'
+		codepoint: '1f574-fe0f-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man In Business Suit Levitating Medium Dark Skin Tone Female',
-		codepoint: '1f574 1f3fe 200d 2640 fe0f'
+		codepoint: '1f574-1f3fe-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Man In Business Suit Levitating Medium Dark Skin Tone Male',
-		codepoint: '1f574 1f3fe 200d 2642 fe0f'
+		codepoint: '1f574-1f3fe-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man In Business Suit Levitating Medium Light Skin Tone Female',
-		codepoint: '1f574 1f3fc 200d 2640 fe0f'
+		codepoint: '1f574-1f3fc-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Man In Business Suit Levitating Medium Light Skin Tone Male',
-		codepoint: '1f574 1f3fc 200d 2642 fe0f'
+		codepoint: '1f574-1f3fc-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man In Business Suit Levitating Medium Skin Tone Female',
-		codepoint: '1f574 1f3fd 200d 2640 fe0f'
+		codepoint: '1f574-1f3fd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Man In Business Suit Levitating Medium Skin Tone Male',
-		codepoint: '1f574 1f3fd 200d 2642 fe0f'
+		codepoint: '1f574-1f3fd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man In Lotus Position',
-		codepoint: '1f9d8 200d 2642 fe0f'
+		codepoint: '1f9d8-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man In Lotus Position Dark Skin Tone',
-		codepoint: '1f9d8 1f3ff 200d 2642 fe0f'
+		codepoint: '1f9d8-1f3ff-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man In Lotus Position Light Skin Tone',
-		codepoint: '1f9d8 1f3fb 200d 2642 fe0f'
+		codepoint: '1f9d8-1f3fb-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man In Lotus Position Medium Dark Skin Tone',
-		codepoint: '1f9d8 1f3fe 200d 2642 fe0f'
+		codepoint: '1f9d8-1f3fe-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man In Lotus Position Medium Light Skin Tone',
-		codepoint: '1f9d8 1f3fc 200d 2642 fe0f'
+		codepoint: '1f9d8-1f3fc-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man In Lotus Position Medium Skin Tone',
-		codepoint: '1f9d8 1f3fd 200d 2642 fe0f'
+		codepoint: '1f9d8-1f3fd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man In Manual Wheelchair',
-		codepoint: '1f468 200d 1f9bd'
+		codepoint: '1f468-200d-1f9bd'
 	},
 	{
 		shortName: 'Man In Manual Wheelchair Dark Skin Tone',
-		codepoint: '1f468 1f3ff 200d 1f9bd'
+		codepoint: '1f468-1f3ff-200d-1f9bd'
 	},
 	{
 		shortName: 'Man In Manual Wheelchair Light Skin Tone',
-		codepoint: '1f468 1f3fb 200d 1f9bd'
+		codepoint: '1f468-1f3fb-200d-1f9bd'
 	},
 	{
 		shortName: 'Man In Manual Wheelchair Medium Dark Skin Tone',
-		codepoint: '1f468 1f3fe 200d 1f9bd'
+		codepoint: '1f468-1f3fe-200d-1f9bd'
 	},
 	{
 		shortName: 'Man In Manual Wheelchair Medium Light Skin Tone',
-		codepoint: '1f468 1f3fc 200d 1f9bd'
+		codepoint: '1f468-1f3fc-200d-1f9bd'
 	},
 	{
 		shortName: 'Man In Manual Wheelchair Medium Skin Tone',
-		codepoint: '1f468 1f3fd 200d 1f9bd'
+		codepoint: '1f468-1f3fd-200d-1f9bd'
 	},
 	{
 		shortName: 'Man In Motorized Wheelchair',
-		codepoint: '1f468 200d 1f9bc'
+		codepoint: '1f468-200d-1f9bc'
 	},
 	{
 		shortName: 'Man In Motorized Wheelchair Dark Skin Tone',
-		codepoint: '1f468 1f3ff 200d 1f9bc'
+		codepoint: '1f468-1f3ff-200d-1f9bc'
 	},
 	{
 		shortName: 'Man In Motorized Wheelchair Light Skin Tone',
-		codepoint: '1f468 1f3fb 200d 1f9bc'
+		codepoint: '1f468-1f3fb-200d-1f9bc'
 	},
 	{
 		shortName: 'Man In Motorized Wheelchair Medium Dark Skin Tone',
-		codepoint: '1f468 1f3fe 200d 1f9bc'
+		codepoint: '1f468-1f3fe-200d-1f9bc'
 	},
 	{
 		shortName: 'Man In Motorized Wheelchair Medium Light Skin Tone',
-		codepoint: '1f468 1f3fc 200d 1f9bc'
+		codepoint: '1f468-1f3fc-200d-1f9bc'
 	},
 	{
 		shortName: 'Man In Motorized Wheelchair Medium Skin Tone',
-		codepoint: '1f468 1f3fd 200d 1f9bc'
+		codepoint: '1f468-1f3fd-200d-1f9bc'
 	},
 	{
 		shortName: 'Man In Steamy Room',
-		codepoint: '1f9d6 200d 2642 fe0f'
+		codepoint: '1f9d6-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man In Steamy Room Dark Skin Tone',
-		codepoint: '1f9d6 1f3ff 200d 2642 fe0f'
+		codepoint: '1f9d6-1f3ff-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man In Steamy Room Light Skin Tone',
-		codepoint: '1f9d6 1f3fb 200d 2642 fe0f'
+		codepoint: '1f9d6-1f3fb-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man In Steamy Room Medium Dark Skin Tone',
-		codepoint: '1f9d6 1f3fe 200d 2642 fe0f'
+		codepoint: '1f9d6-1f3fe-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man In Steamy Room Medium Light Skin Tone',
-		codepoint: '1f9d6 1f3fc 200d 2642 fe0f'
+		codepoint: '1f9d6-1f3fc-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man In Steamy Room Medium Skin Tone',
-		codepoint: '1f9d6 1f3fd 200d 2642 fe0f'
+		codepoint: '1f9d6-1f3fd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man In Tuxedo',
-		codepoint: '1f935 200d 2642 fe0f'
+		codepoint: '1f935-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man In Tuxedo Dark Skin Tone',
-		codepoint: '1f935 1f3ff 200d 2642 fe0f'
+		codepoint: '1f935-1f3ff-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man In Tuxedo Light Skin Tone',
-		codepoint: '1f935 1f3fb 200d 2642 fe0f'
+		codepoint: '1f935-1f3fb-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man In Tuxedo Medium Dark Skin Tone',
-		codepoint: '1f935 1f3fe 200d 2642 fe0f'
+		codepoint: '1f935-1f3fe-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man In Tuxedo Medium Light Skin Tone',
-		codepoint: '1f935 1f3fc 200d 2642 fe0f'
+		codepoint: '1f935-1f3fc-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man In Tuxedo Medium Skin Tone',
-		codepoint: '1f935 1f3fd 200d 2642 fe0f'
+		codepoint: '1f935-1f3fd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Judge',
-		codepoint: '1f468 200d 2696 fe0f'
+		codepoint: '1f468-200d-2696-fe0f'
 	},
 	{
 		shortName: 'Man Judge Dark Skin Tone',
-		codepoint: '1f468 1f3ff 200d 2696 fe0f'
+		codepoint: '1f468-1f3ff-200d-2696-fe0f'
 	},
 	{
 		shortName: 'Man Judge Light Skin Tone',
-		codepoint: '1f468 1f3fb 200d 2696 fe0f'
+		codepoint: '1f468-1f3fb-200d-2696-fe0f'
 	},
 	{
 		shortName: 'Man Judge Medium Dark Skin Tone',
-		codepoint: '1f468 1f3fe 200d 2696 fe0f'
+		codepoint: '1f468-1f3fe-200d-2696-fe0f'
 	},
 	{
 		shortName: 'Man Judge Medium Light Skin Tone',
-		codepoint: '1f468 1f3fc 200d 2696 fe0f'
+		codepoint: '1f468-1f3fc-200d-2696-fe0f'
 	},
 	{
 		shortName: 'Man Judge Medium Skin Tone',
-		codepoint: '1f468 1f3fd 200d 2696 fe0f'
+		codepoint: '1f468-1f3fd-200d-2696-fe0f'
 	},
 	{
 		shortName: 'Man Juggling',
-		codepoint: '1f939 200d 2642 fe0f'
+		codepoint: '1f939-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Juggling Dark Skin Tone',
-		codepoint: '1f939 1f3ff 200d 2642 fe0f'
+		codepoint: '1f939-1f3ff-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Juggling Light Skin Tone',
-		codepoint: '1f939 1f3fb 200d 2642 fe0f'
+		codepoint: '1f939-1f3fb-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Juggling Medium Dark Skin Tone',
-		codepoint: '1f939 1f3fe 200d 2642 fe0f'
+		codepoint: '1f939-1f3fe-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Juggling Medium Light Skin Tone',
-		codepoint: '1f939 1f3fc 200d 2642 fe0f'
+		codepoint: '1f939-1f3fc-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Juggling Medium Skin Tone',
-		codepoint: '1f939 1f3fd 200d 2642 fe0f'
+		codepoint: '1f939-1f3fd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Kneeling',
-		codepoint: '1f9ce 200d 2642 fe0f'
+		codepoint: '1f9ce-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Kneeling Dark Skin Tone',
-		codepoint: '1f9ce 1f3ff 200d 2642 fe0f'
+		codepoint: '1f9ce-1f3ff-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Kneeling Light Skin Tone',
-		codepoint: '1f9ce 1f3fb 200d 2642 fe0f'
+		codepoint: '1f9ce-1f3fb-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Kneeling Medium Dark Skin Tone',
-		codepoint: '1f9ce 1f3fe 200d 2642 fe0f'
+		codepoint: '1f9ce-1f3fe-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Kneeling Medium Light Skin Tone',
-		codepoint: '1f9ce 1f3fc 200d 2642 fe0f'
+		codepoint: '1f9ce-1f3fc-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Kneeling Medium Skin Tone',
-		codepoint: '1f9ce 1f3fd 200d 2642 fe0f'
+		codepoint: '1f9ce-1f3fd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Lifting Weights',
-		codepoint: '1f3cb fe0f 200d 2642 fe0f'
+		codepoint: '1f3cb-fe0f-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Lifting Weights Dark Skin Tone',
-		codepoint: '1f3cb 1f3ff 200d 2642 fe0f'
+		codepoint: '1f3cb-1f3ff-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Lifting Weights Light Skin Tone',
-		codepoint: '1f3cb 1f3fb 200d 2642 fe0f'
+		codepoint: '1f3cb-1f3fb-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Lifting Weights Medium Dark Skin Tone',
-		codepoint: '1f3cb 1f3fe 200d 2642 fe0f'
+		codepoint: '1f3cb-1f3fe-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Lifting Weights Medium Light Skin Tone',
-		codepoint: '1f3cb 1f3fc 200d 2642 fe0f'
+		codepoint: '1f3cb-1f3fc-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Lifting Weights Medium Skin Tone',
-		codepoint: '1f3cb 1f3fd 200d 2642 fe0f'
+		codepoint: '1f3cb-1f3fd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Light Skin Tone',
-		codepoint: '1f468 1f3fb'
+		codepoint: '1f468-1f3fb'
 	},
 	{
 		shortName: 'Man Light Skin Tone Bald',
-		codepoint: '1f468 1f3fb 200d 1f9b2'
+		codepoint: '1f468-1f3fb-200d-1f9b2'
 	},
 	{
 		shortName: 'Man Light Skin Tone Beard',
-		codepoint: '1f9d4 1f3fb 200d 2642 fe0f'
+		codepoint: '1f9d4-1f3fb-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Light Skin Tone Blond Hair',
-		codepoint: '1f471 1f3fb 200d 2642 fe0f'
+		codepoint: '1f471-1f3fb-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Light Skin Tone Christmas',
-		codepoint: '1f468 1f3fb 200d 1f384'
+		codepoint: '1f468-1f3fb-200d-1f384'
 	},
 	{
 		shortName: 'Man Light Skin Tone Curly Hair',
-		codepoint: '1f468 1f3fb 200d 1f9b1'
+		codepoint: '1f468-1f3fb-200d-1f9b1'
 	},
 	{
 		shortName: 'Man Light Skin Tone Red Hair',
-		codepoint: '1f468 1f3fb 200d 1f9b0'
+		codepoint: '1f468-1f3fb-200d-1f9b0'
 	},
 	{
 		shortName: 'Man Light Skin Tone White Hair',
-		codepoint: '1f468 1f3fb 200d 1f9b3'
+		codepoint: '1f468-1f3fb-200d-1f9b3'
 	},
 	{
 		shortName: 'Man Mage',
-		codepoint: '1f9d9 200d 2642 fe0f'
+		codepoint: '1f9d9-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Mage Dark Skin Tone',
-		codepoint: '1f9d9 1f3ff 200d 2642 fe0f'
+		codepoint: '1f9d9-1f3ff-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Mage Light Skin Tone',
-		codepoint: '1f9d9 1f3fb 200d 2642 fe0f'
+		codepoint: '1f9d9-1f3fb-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Mage Medium Dark Skin Tone',
-		codepoint: '1f9d9 1f3fe 200d 2642 fe0f'
+		codepoint: '1f9d9-1f3fe-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Mage Medium Light Skin Tone',
-		codepoint: '1f9d9 1f3fc 200d 2642 fe0f'
+		codepoint: '1f9d9-1f3fc-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Mage Medium Skin Tone',
-		codepoint: '1f9d9 1f3fd 200d 2642 fe0f'
+		codepoint: '1f9d9-1f3fd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Mechanic',
-		codepoint: '1f468 200d 1f527'
+		codepoint: '1f468-200d-1f527'
 	},
 	{
 		shortName: 'Man Mechanic Dark Skin Tone',
-		codepoint: '1f468 1f3ff 200d 1f527'
+		codepoint: '1f468-1f3ff-200d-1f527'
 	},
 	{
 		shortName: 'Man Mechanic Light Skin Tone',
-		codepoint: '1f468 1f3fb 200d 1f527'
+		codepoint: '1f468-1f3fb-200d-1f527'
 	},
 	{
 		shortName: 'Man Mechanic Medium Dark Skin Tone',
-		codepoint: '1f468 1f3fe 200d 1f527'
+		codepoint: '1f468-1f3fe-200d-1f527'
 	},
 	{
 		shortName: 'Man Mechanic Medium Light Skin Tone',
-		codepoint: '1f468 1f3fc 200d 1f527'
+		codepoint: '1f468-1f3fc-200d-1f527'
 	},
 	{
 		shortName: 'Man Mechanic Medium Skin Tone',
-		codepoint: '1f468 1f3fd 200d 1f527'
+		codepoint: '1f468-1f3fd-200d-1f527'
 	},
 	{
 		shortName: 'Man Medium Dark Skin Tone',
-		codepoint: '1f468 1f3fe'
+		codepoint: '1f468-1f3fe'
 	},
 	{
 		shortName: 'Man Medium Dark Skin Tone Bald',
-		codepoint: '1f468 1f3fe 200d 1f9b2'
+		codepoint: '1f468-1f3fe-200d-1f9b2'
 	},
 	{
 		shortName: 'Man Medium Dark Skin Tone Beard',
-		codepoint: '1f9d4 1f3fe 200d 2642 fe0f'
+		codepoint: '1f9d4-1f3fe-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Medium Dark Skin Tone Blond Hair',
-		codepoint: '1f471 1f3fe 200d 2642 fe0f'
+		codepoint: '1f471-1f3fe-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Medium Dark Skin Tone Christmas',
-		codepoint: '1f468 1f3fe 200d 1f384'
+		codepoint: '1f468-1f3fe-200d-1f384'
 	},
 	{
 		shortName: 'Man Medium Dark Skin Tone Curly Hair',
-		codepoint: '1f468 1f3fe 200d 1f9b1'
+		codepoint: '1f468-1f3fe-200d-1f9b1'
 	},
 	{
 		shortName: 'Man Medium Dark Skin Tone Red Hair',
-		codepoint: '1f468 1f3fe 200d 1f9b0'
+		codepoint: '1f468-1f3fe-200d-1f9b0'
 	},
 	{
 		shortName: 'Man Medium Dark Skin Tone White Hair',
-		codepoint: '1f468 1f3fe 200d 1f9b3'
+		codepoint: '1f468-1f3fe-200d-1f9b3'
 	},
 	{
 		shortName: 'Man Medium Light Skin Tone',
-		codepoint: '1f468 1f3fc'
+		codepoint: '1f468-1f3fc'
 	},
 	{
 		shortName: 'Man Medium Light Skin Tone Bald',
-		codepoint: '1f468 1f3fc 200d 1f9b2'
+		codepoint: '1f468-1f3fc-200d-1f9b2'
 	},
 	{
 		shortName: 'Man Medium Light Skin Tone Beard',
-		codepoint: '1f9d4 1f3fc 200d 2642 fe0f'
+		codepoint: '1f9d4-1f3fc-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Medium Light Skin Tone Blond Hair',
-		codepoint: '1f471 1f3fc 200d 2642 fe0f'
+		codepoint: '1f471-1f3fc-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Medium Light Skin Tone Christmas',
-		codepoint: '1f468 1f3fc 200d 1f384'
+		codepoint: '1f468-1f3fc-200d-1f384'
 	},
 	{
 		shortName: 'Man Medium Light Skin Tone Curly Hair',
-		codepoint: '1f468 1f3fc 200d 1f9b1'
+		codepoint: '1f468-1f3fc-200d-1f9b1'
 	},
 	{
 		shortName: 'Man Medium Light Skin Tone Red Hair',
-		codepoint: '1f468 1f3fc 200d 1f9b0'
+		codepoint: '1f468-1f3fc-200d-1f9b0'
 	},
 	{
 		shortName: 'Man Medium Light Skin Tone White Hair',
-		codepoint: '1f468 1f3fc 200d 1f9b3'
+		codepoint: '1f468-1f3fc-200d-1f9b3'
 	},
 	{
 		shortName: 'Man Medium Skin Tone',
-		codepoint: '1f468 1f3fd'
+		codepoint: '1f468-1f3fd'
 	},
 	{
 		shortName: 'Man Medium Skin Tone Bald',
-		codepoint: '1f468 1f3fd 200d 1f9b2'
+		codepoint: '1f468-1f3fd-200d-1f9b2'
 	},
 	{
 		shortName: 'Man Medium Skin Tone Beard',
-		codepoint: '1f9d4 1f3fd 200d 2642 fe0f'
+		codepoint: '1f9d4-1f3fd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Medium Skin Tone Blond Hair',
-		codepoint: '1f471 1f3fd 200d 2642 fe0f'
+		codepoint: '1f471-1f3fd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Medium Skin Tone Christmas',
-		codepoint: '1f468 1f3fd 200d 1f384'
+		codepoint: '1f468-1f3fd-200d-1f384'
 	},
 	{
 		shortName: 'Man Medium Skin Tone Curly Hair',
-		codepoint: '1f468 1f3fd 200d 1f9b1'
+		codepoint: '1f468-1f3fd-200d-1f9b1'
 	},
 	{
 		shortName: 'Man Medium Skin Tone Red Hair',
-		codepoint: '1f468 1f3fd 200d 1f9b0'
+		codepoint: '1f468-1f3fd-200d-1f9b0'
 	},
 	{
 		shortName: 'Man Medium Skin Tone White Hair',
-		codepoint: '1f468 1f3fd 200d 1f9b3'
+		codepoint: '1f468-1f3fd-200d-1f9b3'
 	},
 	{
 		shortName: 'Man Mountain Biking',
-		codepoint: '1f6b5 200d 2642 fe0f'
+		codepoint: '1f6b5-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Mountain Biking Dark Skin Tone',
-		codepoint: '1f6b5 1f3ff 200d 2642 fe0f'
+		codepoint: '1f6b5-1f3ff-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Mountain Biking Light Skin Tone',
-		codepoint: '1f6b5 1f3fb 200d 2642 fe0f'
+		codepoint: '1f6b5-1f3fb-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Mountain Biking Medium Dark Skin Tone',
-		codepoint: '1f6b5 1f3fe 200d 2642 fe0f'
+		codepoint: '1f6b5-1f3fe-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Mountain Biking Medium Light Skin Tone',
-		codepoint: '1f6b5 1f3fc 200d 2642 fe0f'
+		codepoint: '1f6b5-1f3fc-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Mountain Biking Medium Skin Tone',
-		codepoint: '1f6b5 1f3fd 200d 2642 fe0f'
+		codepoint: '1f6b5-1f3fd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Office Worker',
-		codepoint: '1f468 200d 1f4bc'
+		codepoint: '1f468-200d-1f4bc'
 	},
 	{
 		shortName: 'Man Office Worker Dark Skin Tone',
-		codepoint: '1f468 1f3ff 200d 1f4bc'
+		codepoint: '1f468-1f3ff-200d-1f4bc'
 	},
 	{
 		shortName: 'Man Office Worker Light Skin Tone',
-		codepoint: '1f468 1f3fb 200d 1f4bc'
+		codepoint: '1f468-1f3fb-200d-1f4bc'
 	},
 	{
 		shortName: 'Man Office Worker Medium Dark Skin Tone',
-		codepoint: '1f468 1f3fe 200d 1f4bc'
+		codepoint: '1f468-1f3fe-200d-1f4bc'
 	},
 	{
 		shortName: 'Man Office Worker Medium Light Skin Tone',
-		codepoint: '1f468 1f3fc 200d 1f4bc'
+		codepoint: '1f468-1f3fc-200d-1f4bc'
 	},
 	{
 		shortName: 'Man Office Worker Medium Skin Tone',
-		codepoint: '1f468 1f3fd 200d 1f4bc'
+		codepoint: '1f468-1f3fd-200d-1f4bc'
 	},
 	{
 		shortName: 'Man Pilot',
-		codepoint: '1f468 200d 2708 fe0f'
+		codepoint: '1f468-200d-2708-fe0f'
 	},
 	{
 		shortName: 'Man Pilot Dark Skin Tone',
-		codepoint: '1f468 1f3ff 200d 2708 fe0f'
+		codepoint: '1f468-1f3ff-200d-2708-fe0f'
 	},
 	{
 		shortName: 'Man Pilot Light Skin Tone',
-		codepoint: '1f468 1f3fb 200d 2708 fe0f'
+		codepoint: '1f468-1f3fb-200d-2708-fe0f'
 	},
 	{
 		shortName: 'Man Pilot Medium Dark Skin Tone',
-		codepoint: '1f468 1f3fe 200d 2708 fe0f'
+		codepoint: '1f468-1f3fe-200d-2708-fe0f'
 	},
 	{
 		shortName: 'Man Pilot Medium Light Skin Tone',
-		codepoint: '1f468 1f3fc 200d 2708 fe0f'
+		codepoint: '1f468-1f3fc-200d-2708-fe0f'
 	},
 	{
 		shortName: 'Man Pilot Medium Skin Tone',
-		codepoint: '1f468 1f3fd 200d 2708 fe0f'
+		codepoint: '1f468-1f3fd-200d-2708-fe0f'
 	},
 	{
 		shortName: 'Man Playing Handball',
-		codepoint: '1f93e 200d 2642 fe0f'
+		codepoint: '1f93e-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Playing Handball Dark Skin Tone',
-		codepoint: '1f93e 1f3ff 200d 2642 fe0f'
+		codepoint: '1f93e-1f3ff-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Playing Handball Light Skin Tone',
-		codepoint: '1f93e 1f3fb 200d 2642 fe0f'
+		codepoint: '1f93e-1f3fb-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Playing Handball Medium Dark Skin Tone',
-		codepoint: '1f93e 1f3fe 200d 2642 fe0f'
+		codepoint: '1f93e-1f3fe-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Playing Handball Medium Light Skin Tone',
-		codepoint: '1f93e 1f3fc 200d 2642 fe0f'
+		codepoint: '1f93e-1f3fc-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Playing Handball Medium Skin Tone',
-		codepoint: '1f93e 1f3fd 200d 2642 fe0f'
+		codepoint: '1f93e-1f3fd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Playing Water Polo',
-		codepoint: '1f93d 200d 2642 fe0f'
+		codepoint: '1f93d-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Playing Water Polo Dark Skin Tone',
-		codepoint: '1f93d 1f3ff 200d 2642 fe0f'
+		codepoint: '1f93d-1f3ff-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Playing Water Polo Light Skin Tone',
-		codepoint: '1f93d 1f3fb 200d 2642 fe0f'
+		codepoint: '1f93d-1f3fb-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Playing Water Polo Medium Dark Skin Tone',
-		codepoint: '1f93d 1f3fe 200d 2642 fe0f'
+		codepoint: '1f93d-1f3fe-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Playing Water Polo Medium Light Skin Tone',
-		codepoint: '1f93d 1f3fc 200d 2642 fe0f'
+		codepoint: '1f93d-1f3fc-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Playing Water Polo Medium Skin Tone',
-		codepoint: '1f93d 1f3fd 200d 2642 fe0f'
+		codepoint: '1f93d-1f3fd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Police Officer',
-		codepoint: '1f46e 200d 2642 fe0f'
+		codepoint: '1f46e-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Police Officer Dark Skin Tone',
-		codepoint: '1f46e 1f3ff 200d 2642 fe0f'
+		codepoint: '1f46e-1f3ff-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Police Officer Light Skin Tone',
-		codepoint: '1f46e 1f3fb 200d 2642 fe0f'
+		codepoint: '1f46e-1f3fb-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Police Officer Medium Dark Skin Tone',
-		codepoint: '1f46e 1f3fe 200d 2642 fe0f'
+		codepoint: '1f46e-1f3fe-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Police Officer Medium Light Skin Tone',
-		codepoint: '1f46e 1f3fc 200d 2642 fe0f'
+		codepoint: '1f46e-1f3fc-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Police Officer Medium Skin Tone',
-		codepoint: '1f46e 1f3fd 200d 2642 fe0f'
+		codepoint: '1f46e-1f3fd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Pouting',
-		codepoint: '1f64e 200d 2642 fe0f'
+		codepoint: '1f64e-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Pouting Dark Skin Tone',
-		codepoint: '1f64e 1f3ff 200d 2642 fe0f'
+		codepoint: '1f64e-1f3ff-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Pouting Light Skin Tone',
-		codepoint: '1f64e 1f3fb 200d 2642 fe0f'
+		codepoint: '1f64e-1f3fb-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Pouting Medium Dark Skin Tone',
-		codepoint: '1f64e 1f3fe 200d 2642 fe0f'
+		codepoint: '1f64e-1f3fe-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Pouting Medium Light Skin Tone',
-		codepoint: '1f64e 1f3fc 200d 2642 fe0f'
+		codepoint: '1f64e-1f3fc-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Pouting Medium Skin Tone',
-		codepoint: '1f64e 1f3fd 200d 2642 fe0f'
+		codepoint: '1f64e-1f3fd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Raising Hand',
-		codepoint: '1f64b 200d 2642 fe0f'
+		codepoint: '1f64b-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Raising Hand Dark Skin Tone',
-		codepoint: '1f64b 1f3ff 200d 2642 fe0f'
+		codepoint: '1f64b-1f3ff-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Raising Hand Light Skin Tone',
-		codepoint: '1f64b 1f3fb 200d 2642 fe0f'
+		codepoint: '1f64b-1f3fb-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Raising Hand Medium Dark Skin Tone',
-		codepoint: '1f64b 1f3fe 200d 2642 fe0f'
+		codepoint: '1f64b-1f3fe-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Raising Hand Medium Light Skin Tone',
-		codepoint: '1f64b 1f3fc 200d 2642 fe0f'
+		codepoint: '1f64b-1f3fc-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Raising Hand Medium Skin Tone',
-		codepoint: '1f64b 1f3fd 200d 2642 fe0f'
+		codepoint: '1f64b-1f3fd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Red Hair',
-		codepoint: '1f468 200d 1f9b0'
+		codepoint: '1f468-200d-1f9b0'
 	},
 	{
 		shortName: 'Man Rowing Boat',
-		codepoint: '1f6a3 200d 2642 fe0f'
+		codepoint: '1f6a3-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Rowing Boat Dark Skin Tone',
-		codepoint: '1f6a3 1f3ff 200d 2642 fe0f'
+		codepoint: '1f6a3-1f3ff-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Rowing Boat Light Skin Tone',
-		codepoint: '1f6a3 1f3fb 200d 2642 fe0f'
+		codepoint: '1f6a3-1f3fb-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Rowing Boat Medium Dark Skin Tone',
-		codepoint: '1f6a3 1f3fe 200d 2642 fe0f'
+		codepoint: '1f6a3-1f3fe-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Rowing Boat Medium Light Skin Tone',
-		codepoint: '1f6a3 1f3fc 200d 2642 fe0f'
+		codepoint: '1f6a3-1f3fc-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Rowing Boat Medium Skin Tone',
-		codepoint: '1f6a3 1f3fd 200d 2642 fe0f'
+		codepoint: '1f6a3-1f3fd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Running',
-		codepoint: '1f3c3 200d 2642 fe0f'
+		codepoint: '1f3c3-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Running Dark Skin Tone',
-		codepoint: '1f3c3 1f3ff 200d 2642 fe0f'
+		codepoint: '1f3c3-1f3ff-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Running Light Skin Tone',
-		codepoint: '1f3c3 1f3fb 200d 2642 fe0f'
+		codepoint: '1f3c3-1f3fb-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Running Medium Dark Skin Tone',
-		codepoint: '1f3c3 1f3fe 200d 2642 fe0f'
+		codepoint: '1f3c3-1f3fe-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Running Medium Light Skin Tone',
-		codepoint: '1f3c3 1f3fc 200d 2642 fe0f'
+		codepoint: '1f3c3-1f3fc-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Running Medium Skin Tone',
-		codepoint: '1f3c3 1f3fd 200d 2642 fe0f'
+		codepoint: '1f3c3-1f3fd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man S Shoe',
@@ -6941,419 +6945,419 @@ export default [
 	},
 	{
 		shortName: 'Man Scientist',
-		codepoint: '1f468 200d 1f52c'
+		codepoint: '1f468-200d-1f52c'
 	},
 	{
 		shortName: 'Man Scientist Dark Skin Tone',
-		codepoint: '1f468 1f3ff 200d 1f52c'
+		codepoint: '1f468-1f3ff-200d-1f52c'
 	},
 	{
 		shortName: 'Man Scientist Light Skin Tone',
-		codepoint: '1f468 1f3fb 200d 1f52c'
+		codepoint: '1f468-1f3fb-200d-1f52c'
 	},
 	{
 		shortName: 'Man Scientist Medium Dark Skin Tone',
-		codepoint: '1f468 1f3fe 200d 1f52c'
+		codepoint: '1f468-1f3fe-200d-1f52c'
 	},
 	{
 		shortName: 'Man Scientist Medium Light Skin Tone',
-		codepoint: '1f468 1f3fc 200d 1f52c'
+		codepoint: '1f468-1f3fc-200d-1f52c'
 	},
 	{
 		shortName: 'Man Scientist Medium Skin Tone',
-		codepoint: '1f468 1f3fd 200d 1f52c'
+		codepoint: '1f468-1f3fd-200d-1f52c'
 	},
 	{
 		shortName: 'Man Shrugging',
-		codepoint: '1f937 200d 2642 fe0f'
+		codepoint: '1f937-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Shrugging Dark Skin Tone',
-		codepoint: '1f937 1f3ff 200d 2642 fe0f'
+		codepoint: '1f937-1f3ff-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Shrugging Light Skin Tone',
-		codepoint: '1f937 1f3fb 200d 2642 fe0f'
+		codepoint: '1f937-1f3fb-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Shrugging Medium Dark Skin Tone',
-		codepoint: '1f937 1f3fe 200d 2642 fe0f'
+		codepoint: '1f937-1f3fe-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Shrugging Medium Light Skin Tone',
-		codepoint: '1f937 1f3fc 200d 2642 fe0f'
+		codepoint: '1f937-1f3fc-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Shrugging Medium Skin Tone',
-		codepoint: '1f937 1f3fd 200d 2642 fe0f'
+		codepoint: '1f937-1f3fd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Singer',
-		codepoint: '1f468 200d 1f3a4'
+		codepoint: '1f468-200d-1f3a4'
 	},
 	{
 		shortName: 'Man Singer Dark Skin Tone',
-		codepoint: '1f468 1f3ff 200d 1f3a4'
+		codepoint: '1f468-1f3ff-200d-1f3a4'
 	},
 	{
 		shortName: 'Man Singer Light Skin Tone',
-		codepoint: '1f468 1f3fb 200d 1f3a4'
+		codepoint: '1f468-1f3fb-200d-1f3a4'
 	},
 	{
 		shortName: 'Man Singer Medium Dark Skin Tone',
-		codepoint: '1f468 1f3fe 200d 1f3a4'
+		codepoint: '1f468-1f3fe-200d-1f3a4'
 	},
 	{
 		shortName: 'Man Singer Medium Light Skin Tone',
-		codepoint: '1f468 1f3fc 200d 1f3a4'
+		codepoint: '1f468-1f3fc-200d-1f3a4'
 	},
 	{
 		shortName: 'Man Singer Medium Skin Tone',
-		codepoint: '1f468 1f3fd 200d 1f3a4'
+		codepoint: '1f468-1f3fd-200d-1f3a4'
 	},
 	{
 		shortName: 'Man Standing',
-		codepoint: '1f9cd 200d 2642 fe0f'
+		codepoint: '1f9cd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Standing Dark Skin Tone',
-		codepoint: '1f9cd 1f3ff 200d 2642 fe0f'
+		codepoint: '1f9cd-1f3ff-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Standing Light Skin Tone',
-		codepoint: '1f9cd 1f3fb 200d 2642 fe0f'
+		codepoint: '1f9cd-1f3fb-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Standing Medium Dark Skin Tone',
-		codepoint: '1f9cd 1f3fe 200d 2642 fe0f'
+		codepoint: '1f9cd-1f3fe-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Standing Medium Light Skin Tone',
-		codepoint: '1f9cd 1f3fc 200d 2642 fe0f'
+		codepoint: '1f9cd-1f3fc-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Standing Medium Skin Tone',
-		codepoint: '1f9cd 1f3fd 200d 2642 fe0f'
+		codepoint: '1f9cd-1f3fd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Student',
-		codepoint: '1f468 200d 1f393'
+		codepoint: '1f468-200d-1f393'
 	},
 	{
 		shortName: 'Man Student Dark Skin Tone',
-		codepoint: '1f468 1f3ff 200d 1f393'
+		codepoint: '1f468-1f3ff-200d-1f393'
 	},
 	{
 		shortName: 'Man Student Light Skin Tone',
-		codepoint: '1f468 1f3fb 200d 1f393'
+		codepoint: '1f468-1f3fb-200d-1f393'
 	},
 	{
 		shortName: 'Man Student Medium Dark Skin Tone',
-		codepoint: '1f468 1f3fe 200d 1f393'
+		codepoint: '1f468-1f3fe-200d-1f393'
 	},
 	{
 		shortName: 'Man Student Medium Light Skin Tone',
-		codepoint: '1f468 1f3fc 200d 1f393'
+		codepoint: '1f468-1f3fc-200d-1f393'
 	},
 	{
 		shortName: 'Man Student Medium Skin Tone',
-		codepoint: '1f468 1f3fd 200d 1f393'
+		codepoint: '1f468-1f3fd-200d-1f393'
 	},
 	{
 		shortName: 'Man Superhero',
-		codepoint: '1f9b8 200d 2642 fe0f'
+		codepoint: '1f9b8-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Superhero Dark Skin Tone',
-		codepoint: '1f9b8 1f3ff 200d 2642 fe0f'
+		codepoint: '1f9b8-1f3ff-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Superhero Light Skin Tone',
-		codepoint: '1f9b8 1f3fb 200d 2642 fe0f'
+		codepoint: '1f9b8-1f3fb-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Superhero Medium Dark Skin Tone',
-		codepoint: '1f9b8 1f3fe 200d 2642 fe0f'
+		codepoint: '1f9b8-1f3fe-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Superhero Medium Light Skin Tone',
-		codepoint: '1f9b8 1f3fc 200d 2642 fe0f'
+		codepoint: '1f9b8-1f3fc-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Superhero Medium Skin Tone',
-		codepoint: '1f9b8 1f3fd 200d 2642 fe0f'
+		codepoint: '1f9b8-1f3fd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Supervillain',
-		codepoint: '1f9b9 200d 2642 fe0f'
+		codepoint: '1f9b9-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Supervillain Dark Skin Tone',
-		codepoint: '1f9b9 1f3ff 200d 2642 fe0f'
+		codepoint: '1f9b9-1f3ff-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Supervillain Light Skin Tone',
-		codepoint: '1f9b9 1f3fb 200d 2642 fe0f'
+		codepoint: '1f9b9-1f3fb-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Supervillain Medium Dark Skin Tone',
-		codepoint: '1f9b9 1f3fe 200d 2642 fe0f'
+		codepoint: '1f9b9-1f3fe-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Supervillain Medium Light Skin Tone',
-		codepoint: '1f9b9 1f3fc 200d 2642 fe0f'
+		codepoint: '1f9b9-1f3fc-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Supervillain Medium Skin Tone',
-		codepoint: '1f9b9 1f3fd 200d 2642 fe0f'
+		codepoint: '1f9b9-1f3fd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Surfing',
-		codepoint: '1f3c4 200d 2642 fe0f'
+		codepoint: '1f3c4-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Surfing Dark Skin Tone',
-		codepoint: '1f3c4 1f3ff 200d 2642 fe0f'
+		codepoint: '1f3c4-1f3ff-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Surfing Light Skin Tone',
-		codepoint: '1f3c4 1f3fb 200d 2642 fe0f'
+		codepoint: '1f3c4-1f3fb-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Surfing Medium Dark Skin Tone',
-		codepoint: '1f3c4 1f3fe 200d 2642 fe0f'
+		codepoint: '1f3c4-1f3fe-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Surfing Medium Light Skin Tone',
-		codepoint: '1f3c4 1f3fc 200d 2642 fe0f'
+		codepoint: '1f3c4-1f3fc-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Surfing Medium Skin Tone',
-		codepoint: '1f3c4 1f3fd 200d 2642 fe0f'
+		codepoint: '1f3c4-1f3fd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Swimming',
-		codepoint: '1f3ca 200d 2642 fe0f'
+		codepoint: '1f3ca-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Swimming Dark Skin Tone',
-		codepoint: '1f3ca 1f3ff 200d 2642 fe0f'
+		codepoint: '1f3ca-1f3ff-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Swimming Light Skin Tone',
-		codepoint: '1f3ca 1f3fb 200d 2642 fe0f'
+		codepoint: '1f3ca-1f3fb-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Swimming Medium Dark Skin Tone',
-		codepoint: '1f3ca 1f3fe 200d 2642 fe0f'
+		codepoint: '1f3ca-1f3fe-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Swimming Medium Light Skin Tone',
-		codepoint: '1f3ca 1f3fc 200d 2642 fe0f'
+		codepoint: '1f3ca-1f3fc-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Swimming Medium Skin Tone',
-		codepoint: '1f3ca 1f3fd 200d 2642 fe0f'
+		codepoint: '1f3ca-1f3fd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Teacher',
-		codepoint: '1f468 200d 1f3eb'
+		codepoint: '1f468-200d-1f3eb'
 	},
 	{
 		shortName: 'Man Teacher Dark Skin Tone',
-		codepoint: '1f468 1f3ff 200d 1f3eb'
+		codepoint: '1f468-1f3ff-200d-1f3eb'
 	},
 	{
 		shortName: 'Man Teacher Light Skin Tone',
-		codepoint: '1f468 1f3fb 200d 1f3eb'
+		codepoint: '1f468-1f3fb-200d-1f3eb'
 	},
 	{
 		shortName: 'Man Teacher Medium Dark Skin Tone',
-		codepoint: '1f468 1f3fe 200d 1f3eb'
+		codepoint: '1f468-1f3fe-200d-1f3eb'
 	},
 	{
 		shortName: 'Man Teacher Medium Light Skin Tone',
-		codepoint: '1f468 1f3fc 200d 1f3eb'
+		codepoint: '1f468-1f3fc-200d-1f3eb'
 	},
 	{
 		shortName: 'Man Teacher Medium Skin Tone',
-		codepoint: '1f468 1f3fd 200d 1f3eb'
+		codepoint: '1f468-1f3fd-200d-1f3eb'
 	},
 	{
 		shortName: 'Man Technologist',
-		codepoint: '1f468 200d 1f4bb'
+		codepoint: '1f468-200d-1f4bb'
 	},
 	{
 		shortName: 'Man Technologist Dark Skin Tone',
-		codepoint: '1f468 1f3ff 200d 1f4bb'
+		codepoint: '1f468-1f3ff-200d-1f4bb'
 	},
 	{
 		shortName: 'Man Technologist Light Skin Tone',
-		codepoint: '1f468 1f3fb 200d 1f4bb'
+		codepoint: '1f468-1f3fb-200d-1f4bb'
 	},
 	{
 		shortName: 'Man Technologist Medium Dark Skin Tone',
-		codepoint: '1f468 1f3fe 200d 1f4bb'
+		codepoint: '1f468-1f3fe-200d-1f4bb'
 	},
 	{
 		shortName: 'Man Technologist Medium Light Skin Tone',
-		codepoint: '1f468 1f3fc 200d 1f4bb'
+		codepoint: '1f468-1f3fc-200d-1f4bb'
 	},
 	{
 		shortName: 'Man Technologist Medium Skin Tone',
-		codepoint: '1f468 1f3fd 200d 1f4bb'
+		codepoint: '1f468-1f3fd-200d-1f4bb'
 	},
 	{
 		shortName: 'Man Tipping Hand',
-		codepoint: '1f481 200d 2642 fe0f'
+		codepoint: '1f481-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Tipping Hand Dark Skin Tone',
-		codepoint: '1f481 1f3ff 200d 2642 fe0f'
+		codepoint: '1f481-1f3ff-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Tipping Hand Light Skin Tone',
-		codepoint: '1f481 1f3fb 200d 2642 fe0f'
+		codepoint: '1f481-1f3fb-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Tipping Hand Medium Dark Skin Tone',
-		codepoint: '1f481 1f3fe 200d 2642 fe0f'
+		codepoint: '1f481-1f3fe-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Tipping Hand Medium Light Skin Tone',
-		codepoint: '1f481 1f3fc 200d 2642 fe0f'
+		codepoint: '1f481-1f3fc-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Tipping Hand Medium Skin Tone',
-		codepoint: '1f481 1f3fd 200d 2642 fe0f'
+		codepoint: '1f481-1f3fd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Vampire',
-		codepoint: '1f9db 200d 2642 fe0f'
+		codepoint: '1f9db-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Vampire Dark Skin Tone',
-		codepoint: '1f9db 1f3ff 200d 2642 fe0f'
+		codepoint: '1f9db-1f3ff-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Vampire Light Skin Tone',
-		codepoint: '1f9db 1f3fb 200d 2642 fe0f'
+		codepoint: '1f9db-1f3fb-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Vampire Medium Dark Skin Tone',
-		codepoint: '1f9db 1f3fe 200d 2642 fe0f'
+		codepoint: '1f9db-1f3fe-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Vampire Medium Light Skin Tone',
-		codepoint: '1f9db 1f3fc 200d 2642 fe0f'
+		codepoint: '1f9db-1f3fc-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Vampire Medium Skin Tone',
-		codepoint: '1f9db 1f3fd 200d 2642 fe0f'
+		codepoint: '1f9db-1f3fd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Walking',
-		codepoint: '1f6b6 200d 2642 fe0f'
+		codepoint: '1f6b6-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Walking Dark Skin Tone',
-		codepoint: '1f6b6 1f3ff 200d 2642 fe0f'
+		codepoint: '1f6b6-1f3ff-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Walking Light Skin Tone',
-		codepoint: '1f6b6 1f3fb 200d 2642 fe0f'
+		codepoint: '1f6b6-1f3fb-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Walking Medium Dark Skin Tone',
-		codepoint: '1f6b6 1f3fe 200d 2642 fe0f'
+		codepoint: '1f6b6-1f3fe-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Walking Medium Light Skin Tone',
-		codepoint: '1f6b6 1f3fc 200d 2642 fe0f'
+		codepoint: '1f6b6-1f3fc-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Walking Medium Skin Tone',
-		codepoint: '1f6b6 1f3fd 200d 2642 fe0f'
+		codepoint: '1f6b6-1f3fd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Wearing Turban',
-		codepoint: '1f473 200d 2642 fe0f'
+		codepoint: '1f473-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Wearing Turban Dark Skin Tone',
-		codepoint: '1f473 1f3ff 200d 2642 fe0f'
+		codepoint: '1f473-1f3ff-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Wearing Turban Light Skin Tone',
-		codepoint: '1f473 1f3fb 200d 2642 fe0f'
+		codepoint: '1f473-1f3fb-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Wearing Turban Medium Dark Skin Tone',
-		codepoint: '1f473 1f3fe 200d 2642 fe0f'
+		codepoint: '1f473-1f3fe-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Wearing Turban Medium Light Skin Tone',
-		codepoint: '1f473 1f3fc 200d 2642 fe0f'
+		codepoint: '1f473-1f3fc-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man Wearing Turban Medium Skin Tone',
-		codepoint: '1f473 1f3fd 200d 2642 fe0f'
+		codepoint: '1f473-1f3fd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man White Hair',
-		codepoint: '1f468 200d 1f9b3'
+		codepoint: '1f468-200d-1f9b3'
 	},
 	{
 		shortName: 'Man With Veil',
-		codepoint: '1f470 200d 2642 fe0f'
+		codepoint: '1f470-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man With Veil Dark Skin Tone',
-		codepoint: '1f470 1f3ff 200d 2642 fe0f'
+		codepoint: '1f470-1f3ff-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man With Veil Light Skin Tone',
-		codepoint: '1f470 1f3fb 200d 2642 fe0f'
+		codepoint: '1f470-1f3fb-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man With Veil Medium Dark Skin Tone',
-		codepoint: '1f470 1f3fe 200d 2642 fe0f'
+		codepoint: '1f470-1f3fe-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man With Veil Medium Light Skin Tone',
-		codepoint: '1f470 1f3fc 200d 2642 fe0f'
+		codepoint: '1f470-1f3fc-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man With Veil Medium Skin Tone',
-		codepoint: '1f470 1f3fd 200d 2642 fe0f'
+		codepoint: '1f470-1f3fd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Man With White Cane',
-		codepoint: '1f468 200d 1f9af'
+		codepoint: '1f468-200d-1f9af'
 	},
 	{
 		shortName: 'Man With White Cane Dark Skin Tone',
-		codepoint: '1f468 1f3ff 200d 1f9af'
+		codepoint: '1f468-1f3ff-200d-1f9af'
 	},
 	{
 		shortName: 'Man With White Cane Light Skin Tone',
-		codepoint: '1f468 1f3fb 200d 1f9af'
+		codepoint: '1f468-1f3fb-200d-1f9af'
 	},
 	{
 		shortName: 'Man With White Cane Medium Dark Skin Tone',
-		codepoint: '1f468 1f3fe 200d 1f9af'
+		codepoint: '1f468-1f3fe-200d-1f9af'
 	},
 	{
 		shortName: 'Man With White Cane Medium Light Skin Tone',
-		codepoint: '1f468 1f3fc 200d 1f9af'
+		codepoint: '1f468-1f3fc-200d-1f9af'
 	},
 	{
 		shortName: 'Man With White Cane Medium Skin Tone',
-		codepoint: '1f468 1f3fd 200d 1f9af'
+		codepoint: '1f468-1f3fd-200d-1f9af'
 	},
 	{
 		shortName: 'Man Zombie',
-		codepoint: '1f9df 200d 2642 fe0f'
+		codepoint: '1f9df-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Mango',
@@ -7389,27 +7393,27 @@ export default [
 	},
 	{
 		shortName: 'Mechanic',
-		codepoint: '1f9d1 200d 1f527'
+		codepoint: '1f9d1-200d-1f527'
 	},
 	{
 		shortName: 'Mechanic Dark Skin Tone',
-		codepoint: '1f9d1 1f3ff 200d 1f527'
+		codepoint: '1f9d1-1f3ff-200d-1f527'
 	},
 	{
 		shortName: 'Mechanic Light Skin Tone',
-		codepoint: '1f9d1 1f3fb 200d 1f527'
+		codepoint: '1f9d1-1f3fb-200d-1f527'
 	},
 	{
 		shortName: 'Mechanic Medium Dark Skin Tone',
-		codepoint: '1f9d1 1f3fe 200d 1f527'
+		codepoint: '1f9d1-1f3fe-200d-1f527'
 	},
 	{
 		shortName: 'Mechanic Medium Light Skin Tone',
-		codepoint: '1f9d1 1f3fc 200d 1f527'
+		codepoint: '1f9d1-1f3fc-200d-1f527'
 	},
 	{
 		shortName: 'Mechanic Medium Skin Tone',
-		codepoint: '1f9d1 1f3fd 200d 1f527'
+		codepoint: '1f9d1-1f3fd-200d-1f527'
 	},
 	{
 		shortName: 'Mechanical Arm',
@@ -7453,103 +7457,103 @@ export default [
 	},
 	{
 		shortName: 'Men Holding Hands Dark Skin Tone',
-		codepoint: '1f46c 1f3ff'
+		codepoint: '1f46c-1f3ff'
 	},
 	{
 		shortName: 'Men Holding Hands Dark Skin Tone Light Skin Tone',
-		codepoint: '1f468 1f3ff 200d 1f91d 200d 1f468 1f3fb'
+		codepoint: '1f468-1f3ff-200d-1f91d-200d-1f468-1f3fb'
 	},
 	{
 		shortName: 'Men Holding Hands Dark Skin Tone Medium Dark Skin Tone',
-		codepoint: '1f468 1f3ff 200d 1f91d 200d 1f468 1f3fe'
+		codepoint: '1f468-1f3ff-200d-1f91d-200d-1f468-1f3fe'
 	},
 	{
 		shortName: 'Men Holding Hands Dark Skin Tone Medium Light Skin Tone',
-		codepoint: '1f468 1f3ff 200d 1f91d 200d 1f468 1f3fc'
+		codepoint: '1f468-1f3ff-200d-1f91d-200d-1f468-1f3fc'
 	},
 	{
 		shortName: 'Men Holding Hands Dark Skin Tone Medium Skin Tone',
-		codepoint: '1f468 1f3ff 200d 1f91d 200d 1f468 1f3fd'
+		codepoint: '1f468-1f3ff-200d-1f91d-200d-1f468-1f3fd'
 	},
 	{
 		shortName: 'Men Holding Hands Light Skin Tone',
-		codepoint: '1f46c 1f3fb'
+		codepoint: '1f46c-1f3fb'
 	},
 	{
 		shortName: 'Men Holding Hands Light Skin Tone Dark Skin Tone',
-		codepoint: '1f468 1f3fb 200d 1f91d 200d 1f468 1f3ff'
+		codepoint: '1f468-1f3fb-200d-1f91d-200d-1f468-1f3ff'
 	},
 	{
 		shortName: 'Men Holding Hands Light Skin Tone Medium Dark Skin Tone',
-		codepoint: '1f468 1f3fb 200d 1f91d 200d 1f468 1f3fe'
+		codepoint: '1f468-1f3fb-200d-1f91d-200d-1f468-1f3fe'
 	},
 	{
 		shortName: 'Men Holding Hands Light Skin Tone Medium Light Skin Tone',
-		codepoint: '1f468 1f3fb 200d 1f91d 200d 1f468 1f3fc'
+		codepoint: '1f468-1f3fb-200d-1f91d-200d-1f468-1f3fc'
 	},
 	{
 		shortName: 'Men Holding Hands Light Skin Tone Medium Skin Tone',
-		codepoint: '1f468 1f3fb 200d 1f91d 200d 1f468 1f3fd'
+		codepoint: '1f468-1f3fb-200d-1f91d-200d-1f468-1f3fd'
 	},
 	{
 		shortName: 'Men Holding Hands Medium Dark Skin Tone',
-		codepoint: '1f46c 1f3fe'
+		codepoint: '1f46c-1f3fe'
 	},
 	{
 		shortName: 'Men Holding Hands Medium Dark Skin Tone Dark Skin Tone',
-		codepoint: '1f468 1f3fe 200d 1f91d 200d 1f468 1f3ff'
+		codepoint: '1f468-1f3fe-200d-1f91d-200d-1f468-1f3ff'
 	},
 	{
 		shortName: 'Men Holding Hands Medium Dark Skin Tone Light Skin Tone',
-		codepoint: '1f468 1f3fe 200d 1f91d 200d 1f468 1f3fb'
+		codepoint: '1f468-1f3fe-200d-1f91d-200d-1f468-1f3fb'
 	},
 	{
 		shortName: 'Men Holding Hands Medium Dark Skin Tone Medium Light Skin Tone',
-		codepoint: '1f468 1f3fe 200d 1f91d 200d 1f468 1f3fc'
+		codepoint: '1f468-1f3fe-200d-1f91d-200d-1f468-1f3fc'
 	},
 	{
 		shortName: 'Men Holding Hands Medium Dark Skin Tone Medium Skin Tone',
-		codepoint: '1f468 1f3fe 200d 1f91d 200d 1f468 1f3fd'
+		codepoint: '1f468-1f3fe-200d-1f91d-200d-1f468-1f3fd'
 	},
 	{
 		shortName: 'Men Holding Hands Medium Light Skin Tone',
-		codepoint: '1f46c 1f3fc'
+		codepoint: '1f46c-1f3fc'
 	},
 	{
 		shortName: 'Men Holding Hands Medium Light Skin Tone Dark Skin Tone',
-		codepoint: '1f468 1f3fc 200d 1f91d 200d 1f468 1f3ff'
+		codepoint: '1f468-1f3fc-200d-1f91d-200d-1f468-1f3ff'
 	},
 	{
 		shortName: 'Men Holding Hands Medium Light Skin Tone Light Skin Tone',
-		codepoint: '1f468 1f3fc 200d 1f91d 200d 1f468 1f3fb'
+		codepoint: '1f468-1f3fc-200d-1f91d-200d-1f468-1f3fb'
 	},
 	{
 		shortName: 'Men Holding Hands Medium Light Skin Tone Medium Dark Skin Tone',
-		codepoint: '1f468 1f3fc 200d 1f91d 200d 1f468 1f3fe'
+		codepoint: '1f468-1f3fc-200d-1f91d-200d-1f468-1f3fe'
 	},
 	{
 		shortName: 'Men Holding Hands Medium Light Skin Tone Medium Skin Tone',
-		codepoint: '1f468 1f3fc 200d 1f91d 200d 1f468 1f3fd'
+		codepoint: '1f468-1f3fc-200d-1f91d-200d-1f468-1f3fd'
 	},
 	{
 		shortName: 'Men Holding Hands Medium Skin Tone',
-		codepoint: '1f46c 1f3fd'
+		codepoint: '1f46c-1f3fd'
 	},
 	{
 		shortName: 'Men Holding Hands Medium Skin Tone Dark Skin Tone',
-		codepoint: '1f468 1f3fd 200d 1f91d 200d 1f468 1f3ff'
+		codepoint: '1f468-1f3fd-200d-1f91d-200d-1f468-1f3ff'
 	},
 	{
 		shortName: 'Men Holding Hands Medium Skin Tone Light Skin Tone',
-		codepoint: '1f468 1f3fd 200d 1f91d 200d 1f468 1f3fb'
+		codepoint: '1f468-1f3fd-200d-1f91d-200d-1f468-1f3fb'
 	},
 	{
 		shortName: 'Men Holding Hands Medium Skin Tone Medium Dark Skin Tone',
-		codepoint: '1f468 1f3fd 200d 1f91d 200d 1f468 1f3fe'
+		codepoint: '1f468-1f3fd-200d-1f91d-200d-1f468-1f3fe'
 	},
 	{
 		shortName: 'Men Holding Hands Medium Skin Tone Medium Light Skin Tone',
-		codepoint: '1f468 1f3fd 200d 1f91d 200d 1f468 1f3fc'
+		codepoint: '1f468-1f3fd-200d-1f91d-200d-1f468-1f3fc'
 	},
 	{
 		shortName: 'Men S Room',
@@ -7557,15 +7561,15 @@ export default [
 	},
 	{
 		shortName: 'Men With Bunny Ears',
-		codepoint: '1f46f 200d 2642 fe0f'
+		codepoint: '1f46f-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Men Wrestling',
-		codepoint: '1f93c 200d 2642 fe0f'
+		codepoint: '1f93c-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Mending Heart',
-		codepoint: '2764 fe0f 200d 1fa79'
+		codepoint: '2764-fe0f-200d-1fa79'
 	},
 	{
 		shortName: 'Menorah',
@@ -7573,51 +7577,51 @@ export default [
 	},
 	{
 		shortName: 'Mermaid',
-		codepoint: '1f9dc 200d 2640 fe0f'
+		codepoint: '1f9dc-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Mermaid Dark Skin Tone',
-		codepoint: '1f9dc 1f3ff 200d 2640 fe0f'
+		codepoint: '1f9dc-1f3ff-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Mermaid Light Skin Tone',
-		codepoint: '1f9dc 1f3fb 200d 2640 fe0f'
+		codepoint: '1f9dc-1f3fb-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Mermaid Medium Dark Skin Tone',
-		codepoint: '1f9dc 1f3fe 200d 2640 fe0f'
+		codepoint: '1f9dc-1f3fe-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Mermaid Medium Light Skin Tone',
-		codepoint: '1f9dc 1f3fc 200d 2640 fe0f'
+		codepoint: '1f9dc-1f3fc-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Mermaid Medium Skin Tone',
-		codepoint: '1f9dc 1f3fd 200d 2640 fe0f'
+		codepoint: '1f9dc-1f3fd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Merman',
-		codepoint: '1f9dc 200d 2642 fe0f'
+		codepoint: '1f9dc-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Merman Dark Skin Tone',
-		codepoint: '1f9dc 1f3ff 200d 2642 fe0f'
+		codepoint: '1f9dc-1f3ff-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Merman Light Skin Tone',
-		codepoint: '1f9dc 1f3fb 200d 2642 fe0f'
+		codepoint: '1f9dc-1f3fb-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Merman Medium Dark Skin Tone',
-		codepoint: '1f9dc 1f3fe 200d 2642 fe0f'
+		codepoint: '1f9dc-1f3fe-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Merman Medium Light Skin Tone',
-		codepoint: '1f9dc 1f3fc 200d 2642 fe0f'
+		codepoint: '1f9dc-1f3fc-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Merman Medium Skin Tone',
-		codepoint: '1f9dc 1f3fd 200d 2642 fe0f'
+		codepoint: '1f9dc-1f3fd-200d-2642-fe0f'
 	},
 	{
 		shortName: 'Merperson',
@@ -7625,23 +7629,23 @@ export default [
 	},
 	{
 		shortName: 'Merperson Dark Skin Tone',
-		codepoint: '1f9dc 1f3ff'
+		codepoint: '1f9dc-1f3ff'
 	},
 	{
 		shortName: 'Merperson Light Skin Tone',
-		codepoint: '1f9dc 1f3fb'
+		codepoint: '1f9dc-1f3fb'
 	},
 	{
 		shortName: 'Merperson Medium Dark Skin Tone',
-		codepoint: '1f9dc 1f3fe'
+		codepoint: '1f9dc-1f3fe'
 	},
 	{
 		shortName: 'Merperson Medium Light Skin Tone',
-		codepoint: '1f9dc 1f3fc'
+		codepoint: '1f9dc-1f3fc'
 	},
 	{
 		shortName: 'Merperson Medium Skin Tone',
-		codepoint: '1f9dc 1f3fd'
+		codepoint: '1f9dc-1f3fd'
 	},
 	{
 		shortName: 'Metro',
@@ -7665,23 +7669,23 @@ export default [
 	},
 	{
 		shortName: 'Middle Finger Dark Skin Tone',
-		codepoint: '1f595 1f3ff'
+		codepoint: '1f595-1f3ff'
 	},
 	{
 		shortName: 'Middle Finger Light Skin Tone',
-		codepoint: '1f595 1f3fb'
+		codepoint: '1f595-1f3fb'
 	},
 	{
 		shortName: 'Middle Finger Medium Dark Skin Tone',
-		codepoint: '1f595 1f3fe'
+		codepoint: '1f595-1f3fe'
 	},
 	{
 		shortName: 'Middle Finger Medium Light Skin Tone',
-		codepoint: '1f595 1f3fc'
+		codepoint: '1f595-1f3fc'
 	},
 	{
 		shortName: 'Middle Finger Medium Skin Tone',
-		codepoint: '1f595 1f3fd'
+		codepoint: '1f595-1f3fd'
 	},
 	{
 		shortName: 'Military Helmet',
@@ -7825,23 +7829,23 @@ export default [
 	},
 	{
 		shortName: 'Mrs Claus Dark Skin Tone',
-		codepoint: '1f936 1f3ff'
+		codepoint: '1f936-1f3ff'
 	},
 	{
 		shortName: 'Mrs Claus Light Skin Tone',
-		codepoint: '1f936 1f3fb'
+		codepoint: '1f936-1f3fb'
 	},
 	{
 		shortName: 'Mrs Claus Medium Dark Skin Tone',
-		codepoint: '1f936 1f3fe'
+		codepoint: '1f936-1f3fe'
 	},
 	{
 		shortName: 'Mrs Claus Medium Light Skin Tone',
-		codepoint: '1f936 1f3fc'
+		codepoint: '1f936-1f3fc'
 	},
 	{
 		shortName: 'Mrs Claus Medium Skin Tone',
-		codepoint: '1f936 1f3fd'
+		codepoint: '1f936-1f3fd'
 	},
 	{
 		shortName: 'Multiply',
@@ -7873,27 +7877,27 @@ export default [
 	},
 	{
 		shortName: 'Mx Claus',
-		codepoint: '1f9d1 200d 1f384'
+		codepoint: '1f9d1-200d-1f384'
 	},
 	{
 		shortName: 'Mx Claus Dark Skin Tone',
-		codepoint: '1f9d1 1f3ff 200d 1f384'
+		codepoint: '1f9d1-1f3ff-200d-1f384'
 	},
 	{
 		shortName: 'Mx Claus Light Skin Tone',
-		codepoint: '1f9d1 1f3fb 200d 1f384'
+		codepoint: '1f9d1-1f3fb-200d-1f384'
 	},
 	{
 		shortName: 'Mx Claus Medium Dark Skin Tone',
-		codepoint: '1f9d1 1f3fe 200d 1f384'
+		codepoint: '1f9d1-1f3fe-200d-1f384'
 	},
 	{
 		shortName: 'Mx Claus Medium Light Skin Tone',
-		codepoint: '1f9d1 1f3fc 200d 1f384'
+		codepoint: '1f9d1-1f3fc-200d-1f384'
 	},
 	{
 		shortName: 'Mx Claus Medium Skin Tone',
-		codepoint: '1f9d1 1f3fd 200d 1f384'
+		codepoint: '1f9d1-1f3fd-200d-1f384'
 	},
 	{
 		shortName: 'Nail Polish',
@@ -7901,23 +7905,23 @@ export default [
 	},
 	{
 		shortName: 'Nail Polish Dark Skin Tone',
-		codepoint: '1f485 1f3ff'
+		codepoint: '1f485-1f3ff'
 	},
 	{
 		shortName: 'Nail Polish Light Skin Tone',
-		codepoint: '1f485 1f3fb'
+		codepoint: '1f485-1f3fb'
 	},
 	{
 		shortName: 'Nail Polish Medium Dark Skin Tone',
-		codepoint: '1f485 1f3fe'
+		codepoint: '1f485-1f3fe'
 	},
 	{
 		shortName: 'Nail Polish Medium Light Skin Tone',
-		codepoint: '1f485 1f3fc'
+		codepoint: '1f485-1f3fc'
 	},
 	{
 		shortName: 'Nail Polish Medium Skin Tone',
-		codepoint: '1f485 1f3fd'
+		codepoint: '1f485-1f3fd'
 	},
 	{
 		shortName: 'Name Badge',
@@ -7993,23 +7997,23 @@ export default [
 	},
 	{
 		shortName: 'Ninja Dark Skin Tone',
-		codepoint: '1f977 1f3ff'
+		codepoint: '1f977-1f3ff'
 	},
 	{
 		shortName: 'Ninja Light Skin Tone',
-		codepoint: '1f977 1f3fb'
+		codepoint: '1f977-1f3fb'
 	},
 	{
 		shortName: 'Ninja Medium Dark Skin Tone',
-		codepoint: '1f977 1f3fe'
+		codepoint: '1f977-1f3fe'
 	},
 	{
 		shortName: 'Ninja Medium Light Skin Tone',
-		codepoint: '1f977 1f3fc'
+		codepoint: '1f977-1f3fc'
 	},
 	{
 		shortName: 'Ninja Medium Skin Tone',
-		codepoint: '1f977 1f3fd'
+		codepoint: '1f977-1f3fd'
 	},
 	{
 		shortName: 'No Bicycles',
@@ -8049,23 +8053,23 @@ export default [
 	},
 	{
 		shortName: 'Nose Dark Skin Tone',
-		codepoint: '1f443 1f3ff'
+		codepoint: '1f443-1f3ff'
 	},
 	{
 		shortName: 'Nose Light Skin Tone',
-		codepoint: '1f443 1f3fb'
+		codepoint: '1f443-1f3fb'
 	},
 	{
 		shortName: 'Nose Medium Dark Skin Tone',
-		codepoint: '1f443 1f3fe'
+		codepoint: '1f443-1f3fe'
 	},
 	{
 		shortName: 'Nose Medium Light Skin Tone',
-		codepoint: '1f443 1f3fc'
+		codepoint: '1f443-1f3fc'
 	},
 	{
 		shortName: 'Nose Medium Skin Tone',
-		codepoint: '1f443 1f3fd'
+		codepoint: '1f443-1f3fd'
 	},
 	{
 		shortName: 'Notebook',
@@ -8097,27 +8101,27 @@ export default [
 	},
 	{
 		shortName: 'Office Worker',
-		codepoint: '1f9d1 200d 1f4bc'
+		codepoint: '1f9d1-200d-1f4bc'
 	},
 	{
 		shortName: 'Office Worker Dark Skin Tone',
-		codepoint: '1f9d1 1f3ff 200d 1f4bc'
+		codepoint: '1f9d1-1f3ff-200d-1f4bc'
 	},
 	{
 		shortName: 'Office Worker Light Skin Tone',
-		codepoint: '1f9d1 1f3fb 200d 1f4bc'
+		codepoint: '1f9d1-1f3fb-200d-1f4bc'
 	},
 	{
 		shortName: 'Office Worker Medium Dark Skin Tone',
-		codepoint: '1f9d1 1f3fe 200d 1f4bc'
+		codepoint: '1f9d1-1f3fe-200d-1f4bc'
 	},
 	{
 		shortName: 'Office Worker Medium Light Skin Tone',
-		codepoint: '1f9d1 1f3fc 200d 1f4bc'
+		codepoint: '1f9d1-1f3fc-200d-1f4bc'
 	},
 	{
 		shortName: 'Office Worker Medium Skin Tone',
-		codepoint: '1f9d1 1f3fd 200d 1f4bc'
+		codepoint: '1f9d1-1f3fd-200d-1f4bc'
 	},
 	{
 		shortName: 'Ogre',
@@ -8137,23 +8141,23 @@ export default [
 	},
 	{
 		shortName: 'Ok Hand Dark Skin Tone',
-		codepoint: '1f44c 1f3ff'
+		codepoint: '1f44c-1f3ff'
 	},
 	{
 		shortName: 'Ok Hand Light Skin Tone',
-		codepoint: '1f44c 1f3fb'
+		codepoint: '1f44c-1f3fb'
 	},
 	{
 		shortName: 'Ok Hand Medium Dark Skin Tone',
-		codepoint: '1f44c 1f3fe'
+		codepoint: '1f44c-1f3fe'
 	},
 	{
 		shortName: 'Ok Hand Medium Light Skin Tone',
-		codepoint: '1f44c 1f3fc'
+		codepoint: '1f44c-1f3fc'
 	},
 	{
 		shortName: 'Ok Hand Medium Skin Tone',
-		codepoint: '1f44c 1f3fd'
+		codepoint: '1f44c-1f3fd'
 	},
 	{
 		shortName: 'Old Key',
@@ -8165,23 +8169,23 @@ export default [
 	},
 	{
 		shortName: 'Old Man Dark Skin Tone',
-		codepoint: '1f474 1f3ff'
+		codepoint: '1f474-1f3ff'
 	},
 	{
 		shortName: 'Old Man Light Skin Tone',
-		codepoint: '1f474 1f3fb'
+		codepoint: '1f474-1f3fb'
 	},
 	{
 		shortName: 'Old Man Medium Dark Skin Tone',
-		codepoint: '1f474 1f3fe'
+		codepoint: '1f474-1f3fe'
 	},
 	{
 		shortName: 'Old Man Medium Light Skin Tone',
-		codepoint: '1f474 1f3fc'
+		codepoint: '1f474-1f3fc'
 	},
 	{
 		shortName: 'Old Man Medium Skin Tone',
-		codepoint: '1f474 1f3fd'
+		codepoint: '1f474-1f3fd'
 	},
 	{
 		shortName: 'Old Woman',
@@ -8189,23 +8193,23 @@ export default [
 	},
 	{
 		shortName: 'Old Woman Dark Skin Tone',
-		codepoint: '1f475 1f3ff'
+		codepoint: '1f475-1f3ff'
 	},
 	{
 		shortName: 'Old Woman Light Skin Tone',
-		codepoint: '1f475 1f3fb'
+		codepoint: '1f475-1f3fb'
 	},
 	{
 		shortName: 'Old Woman Medium Dark Skin Tone',
-		codepoint: '1f475 1f3fe'
+		codepoint: '1f475-1f3fe'
 	},
 	{
 		shortName: 'Old Woman Medium Light Skin Tone',
-		codepoint: '1f475 1f3fc'
+		codepoint: '1f475-1f3fc'
 	},
 	{
 		shortName: 'Old Woman Medium Skin Tone',
-		codepoint: '1f475 1f3fd'
+		codepoint: '1f475-1f3fd'
 	},
 	{
 		shortName: 'Older Person',
@@ -8213,23 +8217,23 @@ export default [
 	},
 	{
 		shortName: 'Older Person Dark Skin Tone',
-		codepoint: '1f9d3 1f3ff'
+		codepoint: '1f9d3-1f3ff'
 	},
 	{
 		shortName: 'Older Person Light Skin Tone',
-		codepoint: '1f9d3 1f3fb'
+		codepoint: '1f9d3-1f3fb'
 	},
 	{
 		shortName: 'Older Person Medium Dark Skin Tone',
-		codepoint: '1f9d3 1f3fe'
+		codepoint: '1f9d3-1f3fe'
 	},
 	{
 		shortName: 'Older Person Medium Light Skin Tone',
-		codepoint: '1f9d3 1f3fc'
+		codepoint: '1f9d3-1f3fc'
 	},
 	{
 		shortName: 'Older Person Medium Skin Tone',
-		codepoint: '1f9d3 1f3fd'
+		codepoint: '1f9d3-1f3fd'
 	},
 	{
 		shortName: 'Olive',
@@ -8257,23 +8261,23 @@ export default [
 	},
 	{
 		shortName: 'Oncoming Fist Dark Skin Tone',
-		codepoint: '1f44a 1f3ff'
+		codepoint: '1f44a-1f3ff'
 	},
 	{
 		shortName: 'Oncoming Fist Light Skin Tone',
-		codepoint: '1f44a 1f3fb'
+		codepoint: '1f44a-1f3fb'
 	},
 	{
 		shortName: 'Oncoming Fist Medium Dark Skin Tone',
-		codepoint: '1f44a 1f3fe'
+		codepoint: '1f44a-1f3fe'
 	},
 	{
 		shortName: 'Oncoming Fist Medium Light Skin Tone',
-		codepoint: '1f44a 1f3fc'
+		codepoint: '1f44a-1f3fc'
 	},
 	{
 		shortName: 'Oncoming Fist Medium Skin Tone',
-		codepoint: '1f44a 1f3fd'
+		codepoint: '1f44a-1f3fd'
 	},
 	{
 		shortName: 'Oncoming Police Car',
@@ -8313,23 +8317,23 @@ export default [
 	},
 	{
 		shortName: 'Open Hands Dark Skin Tone',
-		codepoint: '1f450 1f3ff'
+		codepoint: '1f450-1f3ff'
 	},
 	{
 		shortName: 'Open Hands Light Skin Tone',
-		codepoint: '1f450 1f3fb'
+		codepoint: '1f450-1f3fb'
 	},
 	{
 		shortName: 'Open Hands Medium Dark Skin Tone',
-		codepoint: '1f450 1f3fe'
+		codepoint: '1f450-1f3fe'
 	},
 	{
 		shortName: 'Open Hands Medium Light Skin Tone',
-		codepoint: '1f450 1f3fc'
+		codepoint: '1f450-1f3fc'
 	},
 	{
 		shortName: 'Open Hands Medium Skin Tone',
-		codepoint: '1f450 1f3fd'
+		codepoint: '1f450-1f3fd'
 	},
 	{
 		shortName: 'Open Mailbox With Lowered Flag',
@@ -8425,23 +8429,23 @@ export default [
 	},
 	{
 		shortName: 'Palms Up Together Dark Skin Tone',
-		codepoint: '1f932 1f3ff'
+		codepoint: '1f932-1f3ff'
 	},
 	{
 		shortName: 'Palms Up Together Light Skin Tone',
-		codepoint: '1f932 1f3fb'
+		codepoint: '1f932-1f3fb'
 	},
 	{
 		shortName: 'Palms Up Together Medium Dark Skin Tone',
-		codepoint: '1f932 1f3fe'
+		codepoint: '1f932-1f3fe'
 	},
 	{
 		shortName: 'Palms Up Together Medium Light Skin Tone',
-		codepoint: '1f932 1f3fc'
+		codepoint: '1f932-1f3fc'
 	},
 	{
 		shortName: 'Palms Up Together Medium Skin Tone',
-		codepoint: '1f932 1f3fd'
+		codepoint: '1f932-1f3fd'
 	},
 	{
 		shortName: 'Pancakes',
@@ -8529,107 +8533,107 @@ export default [
 	},
 	{
 		shortName: 'People Holding Hands',
-		codepoint: '1f9d1 200d 1f91d 200d 1f9d1'
+		codepoint: '1f9d1-200d-1f91d-200d-1f9d1'
 	},
 	{
 		shortName: 'People Holding Hands Dark Skin Tone',
-		codepoint: '1f9d1 1f3ff 200d 1f91d 200d 1f9d1 1f3ff'
+		codepoint: '1f9d1-1f3ff-200d-1f91d-200d-1f9d1-1f3ff'
 	},
 	{
 		shortName: 'People Holding Hands Dark Skin Tone Light Skin Tone',
-		codepoint: '1f9d1 1f3ff 200d 1f91d 200d 1f9d1 1f3fb'
+		codepoint: '1f9d1-1f3ff-200d-1f91d-200d-1f9d1-1f3fb'
 	},
 	{
 		shortName: 'People Holding Hands Dark Skin Tone Medium Dark Skin Tone',
-		codepoint: '1f9d1 1f3ff 200d 1f91d 200d 1f9d1 1f3fe'
+		codepoint: '1f9d1-1f3ff-200d-1f91d-200d-1f9d1-1f3fe'
 	},
 	{
 		shortName: 'People Holding Hands Dark Skin Tone Medium Light Skin Tone',
-		codepoint: '1f9d1 1f3ff 200d 1f91d 200d 1f9d1 1f3fc'
+		codepoint: '1f9d1-1f3ff-200d-1f91d-200d-1f9d1-1f3fc'
 	},
 	{
 		shortName: 'People Holding Hands Dark Skin Tone Medium Skin Tone',
-		codepoint: '1f9d1 1f3ff 200d 1f91d 200d 1f9d1 1f3fd'
+		codepoint: '1f9d1-1f3ff-200d-1f91d-200d-1f9d1-1f3fd'
 	},
 	{
 		shortName: 'People Holding Hands Light Skin Tone',
-		codepoint: '1f9d1 1f3fb 200d 1f91d 200d 1f9d1 1f3fb'
+		codepoint: '1f9d1-1f3fb-200d-1f91d-200d-1f9d1-1f3fb'
 	},
 	{
 		shortName: 'People Holding Hands Light Skin Tone Dark Skin Tone',
-		codepoint: '1f9d1 1f3fb 200d 1f91d 200d 1f9d1 1f3ff'
+		codepoint: '1f9d1-1f3fb-200d-1f91d-200d-1f9d1-1f3ff'
 	},
 	{
 		shortName: 'People Holding Hands Light Skin Tone Medium Dark Skin Tone',
-		codepoint: '1f9d1 1f3fb 200d 1f91d 200d 1f9d1 1f3fe'
+		codepoint: '1f9d1-1f3fb-200d-1f91d-200d-1f9d1-1f3fe'
 	},
 	{
 		shortName: 'People Holding Hands Light Skin Tone Medium Light Skin Tone',
-		codepoint: '1f9d1 1f3fb 200d 1f91d 200d 1f9d1 1f3fc'
+		codepoint: '1f9d1-1f3fb-200d-1f91d-200d-1f9d1-1f3fc'
 	},
 	{
 		shortName: 'People Holding Hands Light Skin Tone Medium Skin Tone',
-		codepoint: '1f9d1 1f3fb 200d 1f91d 200d 1f9d1 1f3fd'
+		codepoint: '1f9d1-1f3fb-200d-1f91d-200d-1f9d1-1f3fd'
 	},
 	{
 		shortName: 'People Holding Hands Medium Dark Skin Tone',
-		codepoint: '1f9d1 1f3fe 200d 1f91d 200d 1f9d1 1f3fe'
+		codepoint: '1f9d1-1f3fe-200d-1f91d-200d-1f9d1-1f3fe'
 	},
 	{
 		shortName: 'People Holding Hands Medium Dark Skin Tone Dark Skin Tone',
-		codepoint: '1f9d1 1f3fe 200d 1f91d 200d 1f9d1 1f3ff'
+		codepoint: '1f9d1-1f3fe-200d-1f91d-200d-1f9d1-1f3ff'
 	},
 	{
 		shortName: 'People Holding Hands Medium Dark Skin Tone Light Skin Tone',
-		codepoint: '1f9d1 1f3fe 200d 1f91d 200d 1f9d1 1f3fb'
+		codepoint: '1f9d1-1f3fe-200d-1f91d-200d-1f9d1-1f3fb'
 	},
 	{
 		shortName: 'People Holding Hands Medium Dark Skin Tone Medium Light Skin Tone',
-		codepoint: '1f9d1 1f3fe 200d 1f91d 200d 1f9d1 1f3fc'
+		codepoint: '1f9d1-1f3fe-200d-1f91d-200d-1f9d1-1f3fc'
 	},
 	{
 		shortName: 'People Holding Hands Medium Dark Skin Tone Medium Skin Tone',
-		codepoint: '1f9d1 1f3fe 200d 1f91d 200d 1f9d1 1f3fd'
+		codepoint: '1f9d1-1f3fe-200d-1f91d-200d-1f9d1-1f3fd'
 	},
 	{
 		shortName: 'People Holding Hands Medium Light Skin Tone',
-		codepoint: '1f9d1 1f3fc 200d 1f91d 200d 1f9d1 1f3fc'
+		codepoint: '1f9d1-1f3fc-200d-1f91d-200d-1f9d1-1f3fc'
 	},
 	{
 		shortName: 'People Holding Hands Medium Light Skin Tone Dark Skin Tone',
-		codepoint: '1f9d1 1f3fc 200d 1f91d 200d 1f9d1 1f3ff'
+		codepoint: '1f9d1-1f3fc-200d-1f91d-200d-1f9d1-1f3ff'
 	},
 	{
 		shortName: 'People Holding Hands Medium Light Skin Tone Light Skin Tone',
-		codepoint: '1f9d1 1f3fc 200d 1f91d 200d 1f9d1 1f3fb'
+		codepoint: '1f9d1-1f3fc-200d-1f91d-200d-1f9d1-1f3fb'
 	},
 	{
 		shortName: 'People Holding Hands Medium Light Skin Tone Medium Dark Skin Tone',
-		codepoint: '1f9d1 1f3fc 200d 1f91d 200d 1f9d1 1f3fe'
+		codepoint: '1f9d1-1f3fc-200d-1f91d-200d-1f9d1-1f3fe'
 	},
 	{
 		shortName: 'People Holding Hands Medium Light Skin Tone Medium Skin Tone',
-		codepoint: '1f9d1 1f3fc 200d 1f91d 200d 1f9d1 1f3fd'
+		codepoint: '1f9d1-1f3fc-200d-1f91d-200d-1f9d1-1f3fd'
 	},
 	{
 		shortName: 'People Holding Hands Medium Skin Tone',
-		codepoint: '1f9d1 1f3fd 200d 1f91d 200d 1f9d1 1f3fd'
+		codepoint: '1f9d1-1f3fd-200d-1f91d-200d-1f9d1-1f3fd'
 	},
 	{
 		shortName: 'People Holding Hands Medium Skin Tone Dark Skin Tone',
-		codepoint: '1f9d1 1f3fd 200d 1f91d 200d 1f9d1 1f3ff'
+		codepoint: '1f9d1-1f3fd-200d-1f91d-200d-1f9d1-1f3ff'
 	},
 	{
 		shortName: 'People Holding Hands Medium Skin Tone Light Skin Tone',
-		codepoint: '1f9d1 1f3fd 200d 1f91d 200d 1f9d1 1f3fb'
+		codepoint: '1f9d1-1f3fd-200d-1f91d-200d-1f9d1-1f3fb'
 	},
 	{
 		shortName: 'People Holding Hands Medium Skin Tone Medium Dark Skin Tone',
-		codepoint: '1f9d1 1f3fd 200d 1f91d 200d 1f9d1 1f3fe'
+		codepoint: '1f9d1-1f3fd-200d-1f91d-200d-1f9d1-1f3fe'
 	},
 	{
 		shortName: 'People Holding Hands Medium Skin Tone Medium Light Skin Tone',
-		codepoint: '1f9d1 1f3fd 200d 1f91d 200d 1f9d1 1f3fc'
+		codepoint: '1f9d1-1f3fd-200d-1f91d-200d-1f9d1-1f3fc'
 	},
 	{
 		shortName: 'People Hugging',
@@ -8657,7 +8661,7 @@ export default [
 	},
 	{
 		shortName: 'Person Bald',
-		codepoint: '1f9d1 200d 1f9b2'
+		codepoint: '1f9d1-200d-1f9b2'
 	},
 	{
 		shortName: 'Person Beard',
@@ -8669,23 +8673,23 @@ export default [
 	},
 	{
 		shortName: 'Person Biking Dark Skin Tone',
-		codepoint: '1f6b4 1f3ff'
+		codepoint: '1f6b4-1f3ff'
 	},
 	{
 		shortName: 'Person Biking Light Skin Tone',
-		codepoint: '1f6b4 1f3fb'
+		codepoint: '1f6b4-1f3fb'
 	},
 	{
 		shortName: 'Person Biking Medium Dark Skin Tone',
-		codepoint: '1f6b4 1f3fe'
+		codepoint: '1f6b4-1f3fe'
 	},
 	{
 		shortName: 'Person Biking Medium Light Skin Tone',
-		codepoint: '1f6b4 1f3fc'
+		codepoint: '1f6b4-1f3fc'
 	},
 	{
 		shortName: 'Person Biking Medium Skin Tone',
-		codepoint: '1f6b4 1f3fd'
+		codepoint: '1f6b4-1f3fd'
 	},
 	{
 		shortName: 'Person Blond Hair',
@@ -8697,23 +8701,23 @@ export default [
 	},
 	{
 		shortName: 'Person Bouncing Ball Dark Skin Tone',
-		codepoint: '26f9 1f3ff'
+		codepoint: '26f9-1f3ff'
 	},
 	{
 		shortName: 'Person Bouncing Ball Light Skin Tone',
-		codepoint: '26f9 1f3fb'
+		codepoint: '26f9-1f3fb'
 	},
 	{
 		shortName: 'Person Bouncing Ball Medium Dark Skin Tone',
-		codepoint: '26f9 1f3fe'
+		codepoint: '26f9-1f3fe'
 	},
 	{
 		shortName: 'Person Bouncing Ball Medium Light Skin Tone',
-		codepoint: '26f9 1f3fc'
+		codepoint: '26f9-1f3fc'
 	},
 	{
 		shortName: 'Person Bouncing Ball Medium Skin Tone',
-		codepoint: '26f9 1f3fd'
+		codepoint: '26f9-1f3fd'
 	},
 	{
 		shortName: 'Person Bowing',
@@ -8721,23 +8725,23 @@ export default [
 	},
 	{
 		shortName: 'Person Bowing Dark Skin Tone',
-		codepoint: '1f647 1f3ff'
+		codepoint: '1f647-1f3ff'
 	},
 	{
 		shortName: 'Person Bowing Light Skin Tone',
-		codepoint: '1f647 1f3fb'
+		codepoint: '1f647-1f3fb'
 	},
 	{
 		shortName: 'Person Bowing Medium Dark Skin Tone',
-		codepoint: '1f647 1f3fe'
+		codepoint: '1f647-1f3fe'
 	},
 	{
 		shortName: 'Person Bowing Medium Light Skin Tone',
-		codepoint: '1f647 1f3fc'
+		codepoint: '1f647-1f3fc'
 	},
 	{
 		shortName: 'Person Bowing Medium Skin Tone',
-		codepoint: '1f647 1f3fd'
+		codepoint: '1f647-1f3fd'
 	},
 	{
 		shortName: 'Person Cartwheeling',
@@ -8745,23 +8749,23 @@ export default [
 	},
 	{
 		shortName: 'Person Cartwheeling Dark Skin Tone',
-		codepoint: '1f938 1f3ff'
+		codepoint: '1f938-1f3ff'
 	},
 	{
 		shortName: 'Person Cartwheeling Light Skin Tone',
-		codepoint: '1f938 1f3fb'
+		codepoint: '1f938-1f3fb'
 	},
 	{
 		shortName: 'Person Cartwheeling Medium Dark Skin Tone',
-		codepoint: '1f938 1f3fe'
+		codepoint: '1f938-1f3fe'
 	},
 	{
 		shortName: 'Person Cartwheeling Medium Light Skin Tone',
-		codepoint: '1f938 1f3fc'
+		codepoint: '1f938-1f3fc'
 	},
 	{
 		shortName: 'Person Cartwheeling Medium Skin Tone',
-		codepoint: '1f938 1f3fd'
+		codepoint: '1f938-1f3fd'
 	},
 	{
 		shortName: 'Person Climbing',
@@ -8769,55 +8773,55 @@ export default [
 	},
 	{
 		shortName: 'Person Climbing Dark Skin Tone',
-		codepoint: '1f9d7 1f3ff'
+		codepoint: '1f9d7-1f3ff'
 	},
 	{
 		shortName: 'Person Climbing Light Skin Tone',
-		codepoint: '1f9d7 1f3fb'
+		codepoint: '1f9d7-1f3fb'
 	},
 	{
 		shortName: 'Person Climbing Medium Dark Skin Tone',
-		codepoint: '1f9d7 1f3fe'
+		codepoint: '1f9d7-1f3fe'
 	},
 	{
 		shortName: 'Person Climbing Medium Light Skin Tone',
-		codepoint: '1f9d7 1f3fc'
+		codepoint: '1f9d7-1f3fc'
 	},
 	{
 		shortName: 'Person Climbing Medium Skin Tone',
-		codepoint: '1f9d7 1f3fd'
+		codepoint: '1f9d7-1f3fd'
 	},
 	{
 		shortName: 'Person Curly Hair',
-		codepoint: '1f9d1 200d 1f9b1'
+		codepoint: '1f9d1-200d-1f9b1'
 	},
 	{
 		shortName: 'Person Dark Skin Tone',
-		codepoint: '1f9d1 1f3ff'
+		codepoint: '1f9d1-1f3ff'
 	},
 	{
 		shortName: 'Person Dark Skin Tone Bald',
-		codepoint: '1f9d1 1f3ff 200d 1f9b2'
+		codepoint: '1f9d1-1f3ff-200d-1f9b2'
 	},
 	{
 		shortName: 'Person Dark Skin Tone Beard',
-		codepoint: '1f9d4 1f3ff'
+		codepoint: '1f9d4-1f3ff'
 	},
 	{
 		shortName: 'Person Dark Skin Tone Blond Hair',
-		codepoint: '1f471 1f3ff'
+		codepoint: '1f471-1f3ff'
 	},
 	{
 		shortName: 'Person Dark Skin Tone Curly Hair',
-		codepoint: '1f9d1 1f3ff 200d 1f9b1'
+		codepoint: '1f9d1-1f3ff-200d-1f9b1'
 	},
 	{
 		shortName: 'Person Dark Skin Tone Red Hair',
-		codepoint: '1f9d1 1f3ff 200d 1f9b0'
+		codepoint: '1f9d1-1f3ff-200d-1f9b0'
 	},
 	{
 		shortName: 'Person Dark Skin Tone White Hair',
-		codepoint: '1f9d1 1f3ff 200d 1f9b3'
+		codepoint: '1f9d1-1f3ff-200d-1f9b3'
 	},
 	{
 		shortName: 'Person Facepalming',
@@ -8825,47 +8829,47 @@ export default [
 	},
 	{
 		shortName: 'Person Facepalming Dark Skin Tone',
-		codepoint: '1f926 1f3ff'
+		codepoint: '1f926-1f3ff'
 	},
 	{
 		shortName: 'Person Facepalming Light Skin Tone',
-		codepoint: '1f926 1f3fb'
+		codepoint: '1f926-1f3fb'
 	},
 	{
 		shortName: 'Person Facepalming Medium Dark Skin Tone',
-		codepoint: '1f926 1f3fe'
+		codepoint: '1f926-1f3fe'
 	},
 	{
 		shortName: 'Person Facepalming Medium Light Skin Tone',
-		codepoint: '1f926 1f3fc'
+		codepoint: '1f926-1f3fc'
 	},
 	{
 		shortName: 'Person Facepalming Medium Skin Tone',
-		codepoint: '1f926 1f3fd'
+		codepoint: '1f926-1f3fd'
 	},
 	{
 		shortName: 'Person Feeding Baby',
-		codepoint: '1f9d1 200d 1f37c'
+		codepoint: '1f9d1-200d-1f37c'
 	},
 	{
 		shortName: 'Person Feeding Baby Dark Skin Tone',
-		codepoint: '1f9d1 1f3ff 200d 1f37c'
+		codepoint: '1f9d1-1f3ff-200d-1f37c'
 	},
 	{
 		shortName: 'Person Feeding Baby Light Skin Tone',
-		codepoint: '1f9d1 1f3fb 200d 1f37c'
+		codepoint: '1f9d1-1f3fb-200d-1f37c'
 	},
 	{
 		shortName: 'Person Feeding Baby Medium Dark Skin Tone',
-		codepoint: '1f9d1 1f3fe 200d 1f37c'
+		codepoint: '1f9d1-1f3fe-200d-1f37c'
 	},
 	{
 		shortName: 'Person Feeding Baby Medium Light Skin Tone',
-		codepoint: '1f9d1 1f3fc 200d 1f37c'
+		codepoint: '1f9d1-1f3fc-200d-1f37c'
 	},
 	{
 		shortName: 'Person Feeding Baby Medium Skin Tone',
-		codepoint: '1f9d1 1f3fd 200d 1f37c'
+		codepoint: '1f9d1-1f3fd-200d-1f37c'
 	},
 	{
 		shortName: 'Person Fencing',
@@ -8877,23 +8881,23 @@ export default [
 	},
 	{
 		shortName: 'Person Frowning Dark Skin Tone',
-		codepoint: '1f64d 1f3ff'
+		codepoint: '1f64d-1f3ff'
 	},
 	{
 		shortName: 'Person Frowning Light Skin Tone',
-		codepoint: '1f64d 1f3fb'
+		codepoint: '1f64d-1f3fb'
 	},
 	{
 		shortName: 'Person Frowning Medium Dark Skin Tone',
-		codepoint: '1f64d 1f3fe'
+		codepoint: '1f64d-1f3fe'
 	},
 	{
 		shortName: 'Person Frowning Medium Light Skin Tone',
-		codepoint: '1f64d 1f3fc'
+		codepoint: '1f64d-1f3fc'
 	},
 	{
 		shortName: 'Person Frowning Medium Skin Tone',
-		codepoint: '1f64d 1f3fd'
+		codepoint: '1f64d-1f3fd'
 	},
 	{
 		shortName: 'Person Gesturing No',
@@ -8901,23 +8905,23 @@ export default [
 	},
 	{
 		shortName: 'Person Gesturing No Dark Skin Tone',
-		codepoint: '1f645 1f3ff'
+		codepoint: '1f645-1f3ff'
 	},
 	{
 		shortName: 'Person Gesturing No Light Skin Tone',
-		codepoint: '1f645 1f3fb'
+		codepoint: '1f645-1f3fb'
 	},
 	{
 		shortName: 'Person Gesturing No Medium Dark Skin Tone',
-		codepoint: '1f645 1f3fe'
+		codepoint: '1f645-1f3fe'
 	},
 	{
 		shortName: 'Person Gesturing No Medium Light Skin Tone',
-		codepoint: '1f645 1f3fc'
+		codepoint: '1f645-1f3fc'
 	},
 	{
 		shortName: 'Person Gesturing No Medium Skin Tone',
-		codepoint: '1f645 1f3fd'
+		codepoint: '1f645-1f3fd'
 	},
 	{
 		shortName: 'Person Gesturing Ok',
@@ -8925,23 +8929,23 @@ export default [
 	},
 	{
 		shortName: 'Person Gesturing Ok Dark Skin Tone',
-		codepoint: '1f646 1f3ff'
+		codepoint: '1f646-1f3ff'
 	},
 	{
 		shortName: 'Person Gesturing Ok Light Skin Tone',
-		codepoint: '1f646 1f3fb'
+		codepoint: '1f646-1f3fb'
 	},
 	{
 		shortName: 'Person Gesturing Ok Medium Dark Skin Tone',
-		codepoint: '1f646 1f3fe'
+		codepoint: '1f646-1f3fe'
 	},
 	{
 		shortName: 'Person Gesturing Ok Medium Light Skin Tone',
-		codepoint: '1f646 1f3fc'
+		codepoint: '1f646-1f3fc'
 	},
 	{
 		shortName: 'Person Gesturing Ok Medium Skin Tone',
-		codepoint: '1f646 1f3fd'
+		codepoint: '1f646-1f3fd'
 	},
 	{
 		shortName: 'Person Getting Haircut',
@@ -8949,23 +8953,23 @@ export default [
 	},
 	{
 		shortName: 'Person Getting Haircut Dark Skin Tone',
-		codepoint: '1f487 1f3ff'
+		codepoint: '1f487-1f3ff'
 	},
 	{
 		shortName: 'Person Getting Haircut Light Skin Tone',
-		codepoint: '1f487 1f3fb'
+		codepoint: '1f487-1f3fb'
 	},
 	{
 		shortName: 'Person Getting Haircut Medium Dark Skin Tone',
-		codepoint: '1f487 1f3fe'
+		codepoint: '1f487-1f3fe'
 	},
 	{
 		shortName: 'Person Getting Haircut Medium Light Skin Tone',
-		codepoint: '1f487 1f3fc'
+		codepoint: '1f487-1f3fc'
 	},
 	{
 		shortName: 'Person Getting Haircut Medium Skin Tone',
-		codepoint: '1f487 1f3fd'
+		codepoint: '1f487-1f3fd'
 	},
 	{
 		shortName: 'Person Getting Massage',
@@ -8973,23 +8977,23 @@ export default [
 	},
 	{
 		shortName: 'Person Getting Massage Dark Skin Tone',
-		codepoint: '1f486 1f3ff'
+		codepoint: '1f486-1f3ff'
 	},
 	{
 		shortName: 'Person Getting Massage Light Skin Tone',
-		codepoint: '1f486 1f3fb'
+		codepoint: '1f486-1f3fb'
 	},
 	{
 		shortName: 'Person Getting Massage Medium Dark Skin Tone',
-		codepoint: '1f486 1f3fe'
+		codepoint: '1f486-1f3fe'
 	},
 	{
 		shortName: 'Person Getting Massage Medium Light Skin Tone',
-		codepoint: '1f486 1f3fc'
+		codepoint: '1f486-1f3fc'
 	},
 	{
 		shortName: 'Person Getting Massage Medium Skin Tone',
-		codepoint: '1f486 1f3fd'
+		codepoint: '1f486-1f3fd'
 	},
 	{
 		shortName: 'Person Golfing',
@@ -8997,23 +9001,23 @@ export default [
 	},
 	{
 		shortName: 'Person Golfing Dark Skin Tone',
-		codepoint: '1f3cc 1f3ff'
+		codepoint: '1f3cc-1f3ff'
 	},
 	{
 		shortName: 'Person Golfing Light Skin Tone',
-		codepoint: '1f3cc 1f3fb'
+		codepoint: '1f3cc-1f3fb'
 	},
 	{
 		shortName: 'Person Golfing Medium Dark Skin Tone',
-		codepoint: '1f3cc 1f3fe'
+		codepoint: '1f3cc-1f3fe'
 	},
 	{
 		shortName: 'Person Golfing Medium Light Skin Tone',
-		codepoint: '1f3cc 1f3fc'
+		codepoint: '1f3cc-1f3fc'
 	},
 	{
 		shortName: 'Person Golfing Medium Skin Tone',
-		codepoint: '1f3cc 1f3fd'
+		codepoint: '1f3cc-1f3fd'
 	},
 	{
 		shortName: 'Person In Bed',
@@ -9021,23 +9025,23 @@ export default [
 	},
 	{
 		shortName: 'Person In Bed Dark Skin Tone',
-		codepoint: '1f6cc 1f3ff'
+		codepoint: '1f6cc-1f3ff'
 	},
 	{
 		shortName: 'Person In Bed Light Skin Tone',
-		codepoint: '1f6cc 1f3fb'
+		codepoint: '1f6cc-1f3fb'
 	},
 	{
 		shortName: 'Person In Bed Medium Dark Skin Tone',
-		codepoint: '1f6cc 1f3fe'
+		codepoint: '1f6cc-1f3fe'
 	},
 	{
 		shortName: 'Person In Bed Medium Light Skin Tone',
-		codepoint: '1f6cc 1f3fc'
+		codepoint: '1f6cc-1f3fc'
 	},
 	{
 		shortName: 'Person In Bed Medium Skin Tone',
-		codepoint: '1f6cc 1f3fd'
+		codepoint: '1f6cc-1f3fd'
 	},
 	{
 		shortName: 'Person In Lotus Position',
@@ -9045,71 +9049,71 @@ export default [
 	},
 	{
 		shortName: 'Person In Lotus Position Dark Skin Tone',
-		codepoint: '1f9d8 1f3ff'
+		codepoint: '1f9d8-1f3ff'
 	},
 	{
 		shortName: 'Person In Lotus Position Light Skin Tone',
-		codepoint: '1f9d8 1f3fb'
+		codepoint: '1f9d8-1f3fb'
 	},
 	{
 		shortName: 'Person In Lotus Position Medium Dark Skin Tone',
-		codepoint: '1f9d8 1f3fe'
+		codepoint: '1f9d8-1f3fe'
 	},
 	{
 		shortName: 'Person In Lotus Position Medium Light Skin Tone',
-		codepoint: '1f9d8 1f3fc'
+		codepoint: '1f9d8-1f3fc'
 	},
 	{
 		shortName: 'Person In Lotus Position Medium Skin Tone',
-		codepoint: '1f9d8 1f3fd'
+		codepoint: '1f9d8-1f3fd'
 	},
 	{
 		shortName: 'Person In Manual Wheelchair',
-		codepoint: '1f9d1 200d 1f9bd'
+		codepoint: '1f9d1-200d-1f9bd'
 	},
 	{
 		shortName: 'Person In Manual Wheelchair Dark Skin Tone',
-		codepoint: '1f9d1 1f3ff 200d 1f9bd'
+		codepoint: '1f9d1-1f3ff-200d-1f9bd'
 	},
 	{
 		shortName: 'Person In Manual Wheelchair Light Skin Tone',
-		codepoint: '1f9d1 1f3fb 200d 1f9bd'
+		codepoint: '1f9d1-1f3fb-200d-1f9bd'
 	},
 	{
 		shortName: 'Person In Manual Wheelchair Medium Dark Skin Tone',
-		codepoint: '1f9d1 1f3fe 200d 1f9bd'
+		codepoint: '1f9d1-1f3fe-200d-1f9bd'
 	},
 	{
 		shortName: 'Person In Manual Wheelchair Medium Light Skin Tone',
-		codepoint: '1f9d1 1f3fc 200d 1f9bd'
+		codepoint: '1f9d1-1f3fc-200d-1f9bd'
 	},
 	{
 		shortName: 'Person In Manual Wheelchair Medium Skin Tone',
-		codepoint: '1f9d1 1f3fd 200d 1f9bd'
+		codepoint: '1f9d1-1f3fd-200d-1f9bd'
 	},
 	{
 		shortName: 'Person In Motorized Wheelchair',
-		codepoint: '1f9d1 200d 1f9bc'
+		codepoint: '1f9d1-200d-1f9bc'
 	},
 	{
 		shortName: 'Person In Motorized Wheelchair Dark Skin Tone',
-		codepoint: '1f9d1 1f3ff 200d 1f9bc'
+		codepoint: '1f9d1-1f3ff-200d-1f9bc'
 	},
 	{
 		shortName: 'Person In Motorized Wheelchair Light Skin Tone',
-		codepoint: '1f9d1 1f3fb 200d 1f9bc'
+		codepoint: '1f9d1-1f3fb-200d-1f9bc'
 	},
 	{
 		shortName: 'Person In Motorized Wheelchair Medium Dark Skin Tone',
-		codepoint: '1f9d1 1f3fe 200d 1f9bc'
+		codepoint: '1f9d1-1f3fe-200d-1f9bc'
 	},
 	{
 		shortName: 'Person In Motorized Wheelchair Medium Light Skin Tone',
-		codepoint: '1f9d1 1f3fc 200d 1f9bc'
+		codepoint: '1f9d1-1f3fc-200d-1f9bc'
 	},
 	{
 		shortName: 'Person In Motorized Wheelchair Medium Skin Tone',
-		codepoint: '1f9d1 1f3fd 200d 1f9bc'
+		codepoint: '1f9d1-1f3fd-200d-1f9bc'
 	},
 	{
 		shortName: 'Person In Steamy Room',
@@ -9117,23 +9121,23 @@ export default [
 	},
 	{
 		shortName: 'Person In Steamy Room Dark Skin Tone',
-		codepoint: '1f9d6 1f3ff'
+		codepoint: '1f9d6-1f3ff'
 	},
 	{
 		shortName: 'Person In Steamy Room Light Skin Tone',
-		codepoint: '1f9d6 1f3fb'
+		codepoint: '1f9d6-1f3fb'
 	},
 	{
 		shortName: 'Person In Steamy Room Medium Dark Skin Tone',
-		codepoint: '1f9d6 1f3fe'
+		codepoint: '1f9d6-1f3fe'
 	},
 	{
 		shortName: 'Person In Steamy Room Medium Light Skin Tone',
-		codepoint: '1f9d6 1f3fc'
+		codepoint: '1f9d6-1f3fc'
 	},
 	{
 		shortName: 'Person In Steamy Room Medium Skin Tone',
-		codepoint: '1f9d6 1f3fd'
+		codepoint: '1f9d6-1f3fd'
 	},
 	{
 		shortName: 'Person In Suit Levitating',
@@ -9141,23 +9145,23 @@ export default [
 	},
 	{
 		shortName: 'Person In Suit Levitating Dark Skin Tone',
-		codepoint: '1f574 1f3ff'
+		codepoint: '1f574-1f3ff'
 	},
 	{
 		shortName: 'Person In Suit Levitating Light Skin Tone',
-		codepoint: '1f574 1f3fb'
+		codepoint: '1f574-1f3fb'
 	},
 	{
 		shortName: 'Person In Suit Levitating Medium Dark Skin Tone',
-		codepoint: '1f574 1f3fe'
+		codepoint: '1f574-1f3fe'
 	},
 	{
 		shortName: 'Person In Suit Levitating Medium Light Skin Tone',
-		codepoint: '1f574 1f3fc'
+		codepoint: '1f574-1f3fc'
 	},
 	{
 		shortName: 'Person In Suit Levitating Medium Skin Tone',
-		codepoint: '1f574 1f3fd'
+		codepoint: '1f574-1f3fd'
 	},
 	{
 		shortName: 'Person In Tuxedo',
@@ -9165,23 +9169,23 @@ export default [
 	},
 	{
 		shortName: 'Person In Tuxedo Dark Skin Tone',
-		codepoint: '1f935 1f3ff'
+		codepoint: '1f935-1f3ff'
 	},
 	{
 		shortName: 'Person In Tuxedo Light Skin Tone',
-		codepoint: '1f935 1f3fb'
+		codepoint: '1f935-1f3fb'
 	},
 	{
 		shortName: 'Person In Tuxedo Medium Dark Skin Tone',
-		codepoint: '1f935 1f3fe'
+		codepoint: '1f935-1f3fe'
 	},
 	{
 		shortName: 'Person In Tuxedo Medium Light Skin Tone',
-		codepoint: '1f935 1f3fc'
+		codepoint: '1f935-1f3fc'
 	},
 	{
 		shortName: 'Person In Tuxedo Medium Skin Tone',
-		codepoint: '1f935 1f3fd'
+		codepoint: '1f935-1f3fd'
 	},
 	{
 		shortName: 'Person Juggling',
@@ -9189,23 +9193,23 @@ export default [
 	},
 	{
 		shortName: 'Person Juggling Dark Skin Tone',
-		codepoint: '1f939 1f3ff'
+		codepoint: '1f939-1f3ff'
 	},
 	{
 		shortName: 'Person Juggling Light Skin Tone',
-		codepoint: '1f939 1f3fb'
+		codepoint: '1f939-1f3fb'
 	},
 	{
 		shortName: 'Person Juggling Medium Dark Skin Tone',
-		codepoint: '1f939 1f3fe'
+		codepoint: '1f939-1f3fe'
 	},
 	{
 		shortName: 'Person Juggling Medium Light Skin Tone',
-		codepoint: '1f939 1f3fc'
+		codepoint: '1f939-1f3fc'
 	},
 	{
 		shortName: 'Person Juggling Medium Skin Tone',
-		codepoint: '1f939 1f3fd'
+		codepoint: '1f939-1f3fd'
 	},
 	{
 		shortName: 'Person Kneeling',
@@ -9213,23 +9217,23 @@ export default [
 	},
 	{
 		shortName: 'Person Kneeling Dark Skin Tone',
-		codepoint: '1f9ce 1f3ff'
+		codepoint: '1f9ce-1f3ff'
 	},
 	{
 		shortName: 'Person Kneeling Light Skin Tone',
-		codepoint: '1f9ce 1f3fb'
+		codepoint: '1f9ce-1f3fb'
 	},
 	{
 		shortName: 'Person Kneeling Medium Dark Skin Tone',
-		codepoint: '1f9ce 1f3fe'
+		codepoint: '1f9ce-1f3fe'
 	},
 	{
 		shortName: 'Person Kneeling Medium Light Skin Tone',
-		codepoint: '1f9ce 1f3fc'
+		codepoint: '1f9ce-1f3fc'
 	},
 	{
 		shortName: 'Person Kneeling Medium Skin Tone',
-		codepoint: '1f9ce 1f3fd'
+		codepoint: '1f9ce-1f3fd'
 	},
 	{
 		shortName: 'Person Lifting Weights',
@@ -9237,135 +9241,135 @@ export default [
 	},
 	{
 		shortName: 'Person Lifting Weights Dark Skin Tone',
-		codepoint: '1f3cb 1f3ff'
+		codepoint: '1f3cb-1f3ff'
 	},
 	{
 		shortName: 'Person Lifting Weights Light Skin Tone',
-		codepoint: '1f3cb 1f3fb'
+		codepoint: '1f3cb-1f3fb'
 	},
 	{
 		shortName: 'Person Lifting Weights Medium Dark Skin Tone',
-		codepoint: '1f3cb 1f3fe'
+		codepoint: '1f3cb-1f3fe'
 	},
 	{
 		shortName: 'Person Lifting Weights Medium Light Skin Tone',
-		codepoint: '1f3cb 1f3fc'
+		codepoint: '1f3cb-1f3fc'
 	},
 	{
 		shortName: 'Person Lifting Weights Medium Skin Tone',
-		codepoint: '1f3cb 1f3fd'
+		codepoint: '1f3cb-1f3fd'
 	},
 	{
 		shortName: 'Person Light Skin Tone',
-		codepoint: '1f9d1 1f3fb'
+		codepoint: '1f9d1-1f3fb'
 	},
 	{
 		shortName: 'Person Light Skin Tone Bald',
-		codepoint: '1f9d1 1f3fb 200d 1f9b2'
+		codepoint: '1f9d1-1f3fb-200d-1f9b2'
 	},
 	{
 		shortName: 'Person Light Skin Tone Beard',
-		codepoint: '1f9d4 1f3fb'
+		codepoint: '1f9d4-1f3fb'
 	},
 	{
 		shortName: 'Person Light Skin Tone Blond Hair',
-		codepoint: '1f471 1f3fb'
+		codepoint: '1f471-1f3fb'
 	},
 	{
 		shortName: 'Person Light Skin Tone Curly Hair',
-		codepoint: '1f9d1 1f3fb 200d 1f9b1'
+		codepoint: '1f9d1-1f3fb-200d-1f9b1'
 	},
 	{
 		shortName: 'Person Light Skin Tone Red Hair',
-		codepoint: '1f9d1 1f3fb 200d 1f9b0'
+		codepoint: '1f9d1-1f3fb-200d-1f9b0'
 	},
 	{
 		shortName: 'Person Light Skin Tone White Hair',
-		codepoint: '1f9d1 1f3fb 200d 1f9b3'
+		codepoint: '1f9d1-1f3fb-200d-1f9b3'
 	},
 	{
 		shortName: 'Person Medium Dark Skin Tone',
-		codepoint: '1f9d1 1f3fe'
+		codepoint: '1f9d1-1f3fe'
 	},
 	{
 		shortName: 'Person Medium Dark Skin Tone Bald',
-		codepoint: '1f9d1 1f3fe 200d 1f9b2'
+		codepoint: '1f9d1-1f3fe-200d-1f9b2'
 	},
 	{
 		shortName: 'Person Medium Dark Skin Tone Beard',
-		codepoint: '1f9d4 1f3fe'
+		codepoint: '1f9d4-1f3fe'
 	},
 	{
 		shortName: 'Person Medium Dark Skin Tone Blond Hair',
-		codepoint: '1f471 1f3fe'
+		codepoint: '1f471-1f3fe'
 	},
 	{
 		shortName: 'Person Medium Dark Skin Tone Curly Hair',
-		codepoint: '1f9d1 1f3fe 200d 1f9b1'
+		codepoint: '1f9d1-1f3fe-200d-1f9b1'
 	},
 	{
 		shortName: 'Person Medium Dark Skin Tone Red Hair',
-		codepoint: '1f9d1 1f3fe 200d 1f9b0'
+		codepoint: '1f9d1-1f3fe-200d-1f9b0'
 	},
 	{
 		shortName: 'Person Medium Dark Skin Tone White Hair',
-		codepoint: '1f9d1 1f3fe 200d 1f9b3'
+		codepoint: '1f9d1-1f3fe-200d-1f9b3'
 	},
 	{
 		shortName: 'Person Medium Light Skin Tone',
-		codepoint: '1f9d1 1f3fc'
+		codepoint: '1f9d1-1f3fc'
 	},
 	{
 		shortName: 'Person Medium Light Skin Tone Bald',
-		codepoint: '1f9d1 1f3fc 200d 1f9b2'
+		codepoint: '1f9d1-1f3fc-200d-1f9b2'
 	},
 	{
 		shortName: 'Person Medium Light Skin Tone Beard',
-		codepoint: '1f9d4 1f3fc'
+		codepoint: '1f9d4-1f3fc'
 	},
 	{
 		shortName: 'Person Medium Light Skin Tone Blond Hair',
-		codepoint: '1f471 1f3fc'
+		codepoint: '1f471-1f3fc'
 	},
 	{
 		shortName: 'Person Medium Light Skin Tone Curly Hair',
-		codepoint: '1f9d1 1f3fc 200d 1f9b1'
+		codepoint: '1f9d1-1f3fc-200d-1f9b1'
 	},
 	{
 		shortName: 'Person Medium Light Skin Tone Red Hair',
-		codepoint: '1f9d1 1f3fc 200d 1f9b0'
+		codepoint: '1f9d1-1f3fc-200d-1f9b0'
 	},
 	{
 		shortName: 'Person Medium Light Skin Tone White Hair',
-		codepoint: '1f9d1 1f3fc 200d 1f9b3'
+		codepoint: '1f9d1-1f3fc-200d-1f9b3'
 	},
 	{
 		shortName: 'Person Medium Skin Tone',
-		codepoint: '1f9d1 1f3fd'
+		codepoint: '1f9d1-1f3fd'
 	},
 	{
 		shortName: 'Person Medium Skin Tone Bald',
-		codepoint: '1f9d1 1f3fd 200d 1f9b2'
+		codepoint: '1f9d1-1f3fd-200d-1f9b2'
 	},
 	{
 		shortName: 'Person Medium Skin Tone Beard',
-		codepoint: '1f9d4 1f3fd'
+		codepoint: '1f9d4-1f3fd'
 	},
 	{
 		shortName: 'Person Medium Skin Tone Blond Hair',
-		codepoint: '1f471 1f3fd'
+		codepoint: '1f471-1f3fd'
 	},
 	{
 		shortName: 'Person Medium Skin Tone Curly Hair',
-		codepoint: '1f9d1 1f3fd 200d 1f9b1'
+		codepoint: '1f9d1-1f3fd-200d-1f9b1'
 	},
 	{
 		shortName: 'Person Medium Skin Tone Red Hair',
-		codepoint: '1f9d1 1f3fd 200d 1f9b0'
+		codepoint: '1f9d1-1f3fd-200d-1f9b0'
 	},
 	{
 		shortName: 'Person Medium Skin Tone White Hair',
-		codepoint: '1f9d1 1f3fd 200d 1f9b3'
+		codepoint: '1f9d1-1f3fd-200d-1f9b3'
 	},
 	{
 		shortName: 'Person Mountain Biking',
@@ -9373,23 +9377,23 @@ export default [
 	},
 	{
 		shortName: 'Person Mountain Biking Dark Skin Tone',
-		codepoint: '1f6b5 1f3ff'
+		codepoint: '1f6b5-1f3ff'
 	},
 	{
 		shortName: 'Person Mountain Biking Light Skin Tone',
-		codepoint: '1f6b5 1f3fb'
+		codepoint: '1f6b5-1f3fb'
 	},
 	{
 		shortName: 'Person Mountain Biking Medium Dark Skin Tone',
-		codepoint: '1f6b5 1f3fe'
+		codepoint: '1f6b5-1f3fe'
 	},
 	{
 		shortName: 'Person Mountain Biking Medium Light Skin Tone',
-		codepoint: '1f6b5 1f3fc'
+		codepoint: '1f6b5-1f3fc'
 	},
 	{
 		shortName: 'Person Mountain Biking Medium Skin Tone',
-		codepoint: '1f6b5 1f3fd'
+		codepoint: '1f6b5-1f3fd'
 	},
 	{
 		shortName: 'Person Playing Handball',
@@ -9397,23 +9401,23 @@ export default [
 	},
 	{
 		shortName: 'Person Playing Handball Dark Skin Tone',
-		codepoint: '1f93e 1f3ff'
+		codepoint: '1f93e-1f3ff'
 	},
 	{
 		shortName: 'Person Playing Handball Light Skin Tone',
-		codepoint: '1f93e 1f3fb'
+		codepoint: '1f93e-1f3fb'
 	},
 	{
 		shortName: 'Person Playing Handball Medium Dark Skin Tone',
-		codepoint: '1f93e 1f3fe'
+		codepoint: '1f93e-1f3fe'
 	},
 	{
 		shortName: 'Person Playing Handball Medium Light Skin Tone',
-		codepoint: '1f93e 1f3fc'
+		codepoint: '1f93e-1f3fc'
 	},
 	{
 		shortName: 'Person Playing Handball Medium Skin Tone',
-		codepoint: '1f93e 1f3fd'
+		codepoint: '1f93e-1f3fd'
 	},
 	{
 		shortName: 'Person Playing Water Polo',
@@ -9421,23 +9425,23 @@ export default [
 	},
 	{
 		shortName: 'Person Playing Water Polo Dark Skin Tone',
-		codepoint: '1f93d 1f3ff'
+		codepoint: '1f93d-1f3ff'
 	},
 	{
 		shortName: 'Person Playing Water Polo Light Skin Tone',
-		codepoint: '1f93d 1f3fb'
+		codepoint: '1f93d-1f3fb'
 	},
 	{
 		shortName: 'Person Playing Water Polo Medium Dark Skin Tone',
-		codepoint: '1f93d 1f3fe'
+		codepoint: '1f93d-1f3fe'
 	},
 	{
 		shortName: 'Person Playing Water Polo Medium Light Skin Tone',
-		codepoint: '1f93d 1f3fc'
+		codepoint: '1f93d-1f3fc'
 	},
 	{
 		shortName: 'Person Playing Water Polo Medium Skin Tone',
-		codepoint: '1f93d 1f3fd'
+		codepoint: '1f93d-1f3fd'
 	},
 	{
 		shortName: 'Person Pouting',
@@ -9445,23 +9449,23 @@ export default [
 	},
 	{
 		shortName: 'Person Pouting Dark Skin Tone',
-		codepoint: '1f64e 1f3ff'
+		codepoint: '1f64e-1f3ff'
 	},
 	{
 		shortName: 'Person Pouting Light Skin Tone',
-		codepoint: '1f64e 1f3fb'
+		codepoint: '1f64e-1f3fb'
 	},
 	{
 		shortName: 'Person Pouting Medium Dark Skin Tone',
-		codepoint: '1f64e 1f3fe'
+		codepoint: '1f64e-1f3fe'
 	},
 	{
 		shortName: 'Person Pouting Medium Light Skin Tone',
-		codepoint: '1f64e 1f3fc'
+		codepoint: '1f64e-1f3fc'
 	},
 	{
 		shortName: 'Person Pouting Medium Skin Tone',
-		codepoint: '1f64e 1f3fd'
+		codepoint: '1f64e-1f3fd'
 	},
 	{
 		shortName: 'Person Raising Hand',
@@ -9469,27 +9473,27 @@ export default [
 	},
 	{
 		shortName: 'Person Raising Hand Dark Skin Tone',
-		codepoint: '1f64b 1f3ff'
+		codepoint: '1f64b-1f3ff'
 	},
 	{
 		shortName: 'Person Raising Hand Light Skin Tone',
-		codepoint: '1f64b 1f3fb'
+		codepoint: '1f64b-1f3fb'
 	},
 	{
 		shortName: 'Person Raising Hand Medium Dark Skin Tone',
-		codepoint: '1f64b 1f3fe'
+		codepoint: '1f64b-1f3fe'
 	},
 	{
 		shortName: 'Person Raising Hand Medium Light Skin Tone',
-		codepoint: '1f64b 1f3fc'
+		codepoint: '1f64b-1f3fc'
 	},
 	{
 		shortName: 'Person Raising Hand Medium Skin Tone',
-		codepoint: '1f64b 1f3fd'
+		codepoint: '1f64b-1f3fd'
 	},
 	{
 		shortName: 'Person Red Hair',
-		codepoint: '1f9d1 200d 1f9b0'
+		codepoint: '1f9d1-200d-1f9b0'
 	},
 	{
 		shortName: 'Person Rowing Boat',
@@ -9497,23 +9501,23 @@ export default [
 	},
 	{
 		shortName: 'Person Rowing Boat Dark Skin Tone',
-		codepoint: '1f6a3 1f3ff'
+		codepoint: '1f6a3-1f3ff'
 	},
 	{
 		shortName: 'Person Rowing Boat Light Skin Tone',
-		codepoint: '1f6a3 1f3fb'
+		codepoint: '1f6a3-1f3fb'
 	},
 	{
 		shortName: 'Person Rowing Boat Medium Dark Skin Tone',
-		codepoint: '1f6a3 1f3fe'
+		codepoint: '1f6a3-1f3fe'
 	},
 	{
 		shortName: 'Person Rowing Boat Medium Light Skin Tone',
-		codepoint: '1f6a3 1f3fc'
+		codepoint: '1f6a3-1f3fc'
 	},
 	{
 		shortName: 'Person Rowing Boat Medium Skin Tone',
-		codepoint: '1f6a3 1f3fd'
+		codepoint: '1f6a3-1f3fd'
 	},
 	{
 		shortName: 'Person Running',
@@ -9521,23 +9525,23 @@ export default [
 	},
 	{
 		shortName: 'Person Running Dark Skin Tone',
-		codepoint: '1f3c3 1f3ff'
+		codepoint: '1f3c3-1f3ff'
 	},
 	{
 		shortName: 'Person Running Light Skin Tone',
-		codepoint: '1f3c3 1f3fb'
+		codepoint: '1f3c3-1f3fb'
 	},
 	{
 		shortName: 'Person Running Medium Dark Skin Tone',
-		codepoint: '1f3c3 1f3fe'
+		codepoint: '1f3c3-1f3fe'
 	},
 	{
 		shortName: 'Person Running Medium Light Skin Tone',
-		codepoint: '1f3c3 1f3fc'
+		codepoint: '1f3c3-1f3fc'
 	},
 	{
 		shortName: 'Person Running Medium Skin Tone',
-		codepoint: '1f3c3 1f3fd'
+		codepoint: '1f3c3-1f3fd'
 	},
 	{
 		shortName: 'Person Shrugging',
@@ -9545,23 +9549,23 @@ export default [
 	},
 	{
 		shortName: 'Person Shrugging Dark Skin Tone',
-		codepoint: '1f937 1f3ff'
+		codepoint: '1f937-1f3ff'
 	},
 	{
 		shortName: 'Person Shrugging Light Skin Tone',
-		codepoint: '1f937 1f3fb'
+		codepoint: '1f937-1f3fb'
 	},
 	{
 		shortName: 'Person Shrugging Medium Dark Skin Tone',
-		codepoint: '1f937 1f3fe'
+		codepoint: '1f937-1f3fe'
 	},
 	{
 		shortName: 'Person Shrugging Medium Light Skin Tone',
-		codepoint: '1f937 1f3fc'
+		codepoint: '1f937-1f3fc'
 	},
 	{
 		shortName: 'Person Shrugging Medium Skin Tone',
-		codepoint: '1f937 1f3fd'
+		codepoint: '1f937-1f3fd'
 	},
 	{
 		shortName: 'Person Standing',
@@ -9569,23 +9573,23 @@ export default [
 	},
 	{
 		shortName: 'Person Standing Dark Skin Tone',
-		codepoint: '1f9cd 1f3ff'
+		codepoint: '1f9cd-1f3ff'
 	},
 	{
 		shortName: 'Person Standing Light Skin Tone',
-		codepoint: '1f9cd 1f3fb'
+		codepoint: '1f9cd-1f3fb'
 	},
 	{
 		shortName: 'Person Standing Medium Dark Skin Tone',
-		codepoint: '1f9cd 1f3fe'
+		codepoint: '1f9cd-1f3fe'
 	},
 	{
 		shortName: 'Person Standing Medium Light Skin Tone',
-		codepoint: '1f9cd 1f3fc'
+		codepoint: '1f9cd-1f3fc'
 	},
 	{
 		shortName: 'Person Standing Medium Skin Tone',
-		codepoint: '1f9cd 1f3fd'
+		codepoint: '1f9cd-1f3fd'
 	},
 	{
 		shortName: 'Person Surfing',
@@ -9593,23 +9597,23 @@ export default [
 	},
 	{
 		shortName: 'Person Surfing Dark Skin Tone',
-		codepoint: '1f3c4 1f3ff'
+		codepoint: '1f3c4-1f3ff'
 	},
 	{
 		shortName: 'Person Surfing Light Skin Tone',
-		codepoint: '1f3c4 1f3fb'
+		codepoint: '1f3c4-1f3fb'
 	},
 	{
 		shortName: 'Person Surfing Medium Dark Skin Tone',
-		codepoint: '1f3c4 1f3fe'
+		codepoint: '1f3c4-1f3fe'
 	},
 	{
 		shortName: 'Person Surfing Medium Light Skin Tone',
-		codepoint: '1f3c4 1f3fc'
+		codepoint: '1f3c4-1f3fc'
 	},
 	{
 		shortName: 'Person Surfing Medium Skin Tone',
-		codepoint: '1f3c4 1f3fd'
+		codepoint: '1f3c4-1f3fd'
 	},
 	{
 		shortName: 'Person Swimming',
@@ -9617,23 +9621,23 @@ export default [
 	},
 	{
 		shortName: 'Person Swimming Dark Skin Tone',
-		codepoint: '1f3ca 1f3ff'
+		codepoint: '1f3ca-1f3ff'
 	},
 	{
 		shortName: 'Person Swimming Light Skin Tone',
-		codepoint: '1f3ca 1f3fb'
+		codepoint: '1f3ca-1f3fb'
 	},
 	{
 		shortName: 'Person Swimming Medium Dark Skin Tone',
-		codepoint: '1f3ca 1f3fe'
+		codepoint: '1f3ca-1f3fe'
 	},
 	{
 		shortName: 'Person Swimming Medium Light Skin Tone',
-		codepoint: '1f3ca 1f3fc'
+		codepoint: '1f3ca-1f3fc'
 	},
 	{
 		shortName: 'Person Swimming Medium Skin Tone',
-		codepoint: '1f3ca 1f3fd'
+		codepoint: '1f3ca-1f3fd'
 	},
 	{
 		shortName: 'Person Taking Bath',
@@ -9641,23 +9645,23 @@ export default [
 	},
 	{
 		shortName: 'Person Taking Bath Dark Skin Tone',
-		codepoint: '1f6c0 1f3ff'
+		codepoint: '1f6c0-1f3ff'
 	},
 	{
 		shortName: 'Person Taking Bath Light Skin Tone',
-		codepoint: '1f6c0 1f3fb'
+		codepoint: '1f6c0-1f3fb'
 	},
 	{
 		shortName: 'Person Taking Bath Medium Dark Skin Tone',
-		codepoint: '1f6c0 1f3fe'
+		codepoint: '1f6c0-1f3fe'
 	},
 	{
 		shortName: 'Person Taking Bath Medium Light Skin Tone',
-		codepoint: '1f6c0 1f3fc'
+		codepoint: '1f6c0-1f3fc'
 	},
 	{
 		shortName: 'Person Taking Bath Medium Skin Tone',
-		codepoint: '1f6c0 1f3fd'
+		codepoint: '1f6c0-1f3fd'
 	},
 	{
 		shortName: 'Person Tipping Hand',
@@ -9665,23 +9669,23 @@ export default [
 	},
 	{
 		shortName: 'Person Tipping Hand Dark Skin Tone',
-		codepoint: '1f481 1f3ff'
+		codepoint: '1f481-1f3ff'
 	},
 	{
 		shortName: 'Person Tipping Hand Light Skin Tone',
-		codepoint: '1f481 1f3fb'
+		codepoint: '1f481-1f3fb'
 	},
 	{
 		shortName: 'Person Tipping Hand Medium Dark Skin Tone',
-		codepoint: '1f481 1f3fe'
+		codepoint: '1f481-1f3fe'
 	},
 	{
 		shortName: 'Person Tipping Hand Medium Light Skin Tone',
-		codepoint: '1f481 1f3fc'
+		codepoint: '1f481-1f3fc'
 	},
 	{
 		shortName: 'Person Tipping Hand Medium Skin Tone',
-		codepoint: '1f481 1f3fd'
+		codepoint: '1f481-1f3fd'
 	},
 	{
 		shortName: 'Person Walking',
@@ -9689,23 +9693,23 @@ export default [
 	},
 	{
 		shortName: 'Person Walking Dark Skin Tone',
-		codepoint: '1f6b6 1f3ff'
+		codepoint: '1f6b6-1f3ff'
 	},
 	{
 		shortName: 'Person Walking Light Skin Tone',
-		codepoint: '1f6b6 1f3fb'
+		codepoint: '1f6b6-1f3fb'
 	},
 	{
 		shortName: 'Person Walking Medium Dark Skin Tone',
-		codepoint: '1f6b6 1f3fe'
+		codepoint: '1f6b6-1f3fe'
 	},
 	{
 		shortName: 'Person Walking Medium Light Skin Tone',
-		codepoint: '1f6b6 1f3fc'
+		codepoint: '1f6b6-1f3fc'
 	},
 	{
 		shortName: 'Person Walking Medium Skin Tone',
-		codepoint: '1f6b6 1f3fd'
+		codepoint: '1f6b6-1f3fd'
 	},
 	{
 		shortName: 'Person Wearing Turban',
@@ -9713,27 +9717,27 @@ export default [
 	},
 	{
 		shortName: 'Person Wearing Turban Dark Skin Tone',
-		codepoint: '1f473 1f3ff'
+		codepoint: '1f473-1f3ff'
 	},
 	{
 		shortName: 'Person Wearing Turban Light Skin Tone',
-		codepoint: '1f473 1f3fb'
+		codepoint: '1f473-1f3fb'
 	},
 	{
 		shortName: 'Person Wearing Turban Medium Dark Skin Tone',
-		codepoint: '1f473 1f3fe'
+		codepoint: '1f473-1f3fe'
 	},
 	{
 		shortName: 'Person Wearing Turban Medium Light Skin Tone',
-		codepoint: '1f473 1f3fc'
+		codepoint: '1f473-1f3fc'
 	},
 	{
 		shortName: 'Person Wearing Turban Medium Skin Tone',
-		codepoint: '1f473 1f3fd'
+		codepoint: '1f473-1f3fd'
 	},
 	{
 		shortName: 'Person White Hair',
-		codepoint: '1f9d1 200d 1f9b3'
+		codepoint: '1f9d1-200d-1f9b3'
 	},
 	{
 		shortName: 'Person With Skullcap',
@@ -9741,23 +9745,23 @@ export default [
 	},
 	{
 		shortName: 'Person With Skullcap Dark Skin Tone',
-		codepoint: '1f472 1f3ff'
+		codepoint: '1f472-1f3ff'
 	},
 	{
 		shortName: 'Person With Skullcap Light Skin Tone',
-		codepoint: '1f472 1f3fb'
+		codepoint: '1f472-1f3fb'
 	},
 	{
 		shortName: 'Person With Skullcap Medium Dark Skin Tone',
-		codepoint: '1f472 1f3fe'
+		codepoint: '1f472-1f3fe'
 	},
 	{
 		shortName: 'Person With Skullcap Medium Light Skin Tone',
-		codepoint: '1f472 1f3fc'
+		codepoint: '1f472-1f3fc'
 	},
 	{
 		shortName: 'Person With Skullcap Medium Skin Tone',
-		codepoint: '1f472 1f3fd'
+		codepoint: '1f472-1f3fd'
 	},
 	{
 		shortName: 'Person With Veil',
@@ -9765,47 +9769,47 @@ export default [
 	},
 	{
 		shortName: 'Person With Veil Dark Skin Tone',
-		codepoint: '1f470 1f3ff'
+		codepoint: '1f470-1f3ff'
 	},
 	{
 		shortName: 'Person With Veil Light Skin Tone',
-		codepoint: '1f470 1f3fb'
+		codepoint: '1f470-1f3fb'
 	},
 	{
 		shortName: 'Person With Veil Medium Dark Skin Tone',
-		codepoint: '1f470 1f3fe'
+		codepoint: '1f470-1f3fe'
 	},
 	{
 		shortName: 'Person With Veil Medium Light Skin Tone',
-		codepoint: '1f470 1f3fc'
+		codepoint: '1f470-1f3fc'
 	},
 	{
 		shortName: 'Person With Veil Medium Skin Tone',
-		codepoint: '1f470 1f3fd'
+		codepoint: '1f470-1f3fd'
 	},
 	{
 		shortName: 'Person With White Cane',
-		codepoint: '1f9d1 200d 1f9af'
+		codepoint: '1f9d1-200d-1f9af'
 	},
 	{
 		shortName: 'Person With White Cane Dark Skin Tone',
-		codepoint: '1f9d1 1f3ff 200d 1f9af'
+		codepoint: '1f9d1-1f3ff-200d-1f9af'
 	},
 	{
 		shortName: 'Person With White Cane Light Skin Tone',
-		codepoint: '1f9d1 1f3fb 200d 1f9af'
+		codepoint: '1f9d1-1f3fb-200d-1f9af'
 	},
 	{
 		shortName: 'Person With White Cane Medium Dark Skin Tone',
-		codepoint: '1f9d1 1f3fe 200d 1f9af'
+		codepoint: '1f9d1-1f3fe-200d-1f9af'
 	},
 	{
 		shortName: 'Person With White Cane Medium Light Skin Tone',
-		codepoint: '1f9d1 1f3fc 200d 1f9af'
+		codepoint: '1f9d1-1f3fc-200d-1f9af'
 	},
 	{
 		shortName: 'Person With White Cane Medium Skin Tone',
-		codepoint: '1f9d1 1f3fd 200d 1f9af'
+		codepoint: '1f9d1-1f3fd-200d-1f9af'
 	},
 	{
 		shortName: 'Petri Dish',
@@ -9849,27 +9853,27 @@ export default [
 	},
 	{
 		shortName: 'Pilot',
-		codepoint: '1f9d1 200d 2708 fe0f'
+		codepoint: '1f9d1-200d-2708-fe0f'
 	},
 	{
 		shortName: 'Pilot Dark Skin Tone',
-		codepoint: '1f9d1 1f3ff 200d 2708 fe0f'
+		codepoint: '1f9d1-1f3ff-200d-2708-fe0f'
 	},
 	{
 		shortName: 'Pilot Light Skin Tone',
-		codepoint: '1f9d1 1f3fb 200d 2708 fe0f'
+		codepoint: '1f9d1-1f3fb-200d-2708-fe0f'
 	},
 	{
 		shortName: 'Pilot Medium Dark Skin Tone',
-		codepoint: '1f9d1 1f3fe 200d 2708 fe0f'
+		codepoint: '1f9d1-1f3fe-200d-2708-fe0f'
 	},
 	{
 		shortName: 'Pilot Medium Light Skin Tone',
-		codepoint: '1f9d1 1f3fc 200d 2708 fe0f'
+		codepoint: '1f9d1-1f3fc-200d-2708-fe0f'
 	},
 	{
 		shortName: 'Pilot Medium Skin Tone',
-		codepoint: '1f9d1 1f3fd 200d 2708 fe0f'
+		codepoint: '1f9d1-1f3fd-200d-2708-fe0f'
 	},
 	{
 		shortName: 'Pinched Fingers',
@@ -9877,23 +9881,23 @@ export default [
 	},
 	{
 		shortName: 'Pinched Fingers Dark Skin Tone',
-		codepoint: '1f90c 1f3ff'
+		codepoint: '1f90c-1f3ff'
 	},
 	{
 		shortName: 'Pinched Fingers Light Skin Tone',
-		codepoint: '1f90c 1f3fb'
+		codepoint: '1f90c-1f3fb'
 	},
 	{
 		shortName: 'Pinched Fingers Medium Dark Skin Tone',
-		codepoint: '1f90c 1f3fe'
+		codepoint: '1f90c-1f3fe'
 	},
 	{
 		shortName: 'Pinched Fingers Medium Light Skin Tone',
-		codepoint: '1f90c 1f3fc'
+		codepoint: '1f90c-1f3fc'
 	},
 	{
 		shortName: 'Pinched Fingers Medium Skin Tone',
-		codepoint: '1f90c 1f3fd'
+		codepoint: '1f90c-1f3fd'
 	},
 	{
 		shortName: 'Pinching Hand',
@@ -9901,23 +9905,23 @@ export default [
 	},
 	{
 		shortName: 'Pinching Hand Dark Skin Tone',
-		codepoint: '1f90f 1f3ff'
+		codepoint: '1f90f-1f3ff'
 	},
 	{
 		shortName: 'Pinching Hand Light Skin Tone',
-		codepoint: '1f90f 1f3fb'
+		codepoint: '1f90f-1f3fb'
 	},
 	{
 		shortName: 'Pinching Hand Medium Dark Skin Tone',
-		codepoint: '1f90f 1f3fe'
+		codepoint: '1f90f-1f3fe'
 	},
 	{
 		shortName: 'Pinching Hand Medium Light Skin Tone',
-		codepoint: '1f90f 1f3fc'
+		codepoint: '1f90f-1f3fc'
 	},
 	{
 		shortName: 'Pinching Hand Medium Skin Tone',
-		codepoint: '1f90f 1f3fd'
+		codepoint: '1f90f-1f3fd'
 	},
 	{
 		shortName: 'Pine Decoration',
@@ -9933,7 +9937,7 @@ export default [
 	},
 	{
 		shortName: 'Pirate Flag',
-		codepoint: '1f3f4 200d 2620 fe0f'
+		codepoint: '1f3f4-200d-2620-fe0f'
 	},
 	{
 		shortName: 'Pisces',
@@ -9973,7 +9977,7 @@ export default [
 	},
 	{
 		shortName: 'Polar Bear',
-		codepoint: '1f43b 200d 2744 fe0f'
+		codepoint: '1f43b-200d-2744-fe0f'
 	},
 	{
 		shortName: 'Police Car',
@@ -9989,23 +9993,23 @@ export default [
 	},
 	{
 		shortName: 'Police Officer Dark Skin Tone',
-		codepoint: '1f46e 1f3ff'
+		codepoint: '1f46e-1f3ff'
 	},
 	{
 		shortName: 'Police Officer Light Skin Tone',
-		codepoint: '1f46e 1f3fb'
+		codepoint: '1f46e-1f3fb'
 	},
 	{
 		shortName: 'Police Officer Medium Dark Skin Tone',
-		codepoint: '1f46e 1f3fe'
+		codepoint: '1f46e-1f3fe'
 	},
 	{
 		shortName: 'Police Officer Medium Light Skin Tone',
-		codepoint: '1f46e 1f3fc'
+		codepoint: '1f46e-1f3fc'
 	},
 	{
 		shortName: 'Police Officer Medium Skin Tone',
-		codepoint: '1f46e 1f3fd'
+		codepoint: '1f46e-1f3fd'
 	},
 	{
 		shortName: 'Poodle',
@@ -10073,23 +10077,23 @@ export default [
 	},
 	{
 		shortName: 'Pregnant Woman Dark Skin Tone',
-		codepoint: '1f930 1f3ff'
+		codepoint: '1f930-1f3ff'
 	},
 	{
 		shortName: 'Pregnant Woman Light Skin Tone',
-		codepoint: '1f930 1f3fb'
+		codepoint: '1f930-1f3fb'
 	},
 	{
 		shortName: 'Pregnant Woman Medium Dark Skin Tone',
-		codepoint: '1f930 1f3fe'
+		codepoint: '1f930-1f3fe'
 	},
 	{
 		shortName: 'Pregnant Woman Medium Light Skin Tone',
-		codepoint: '1f930 1f3fc'
+		codepoint: '1f930-1f3fc'
 	},
 	{
 		shortName: 'Pregnant Woman Medium Skin Tone',
-		codepoint: '1f930 1f3fd'
+		codepoint: '1f930-1f3fd'
 	},
 	{
 		shortName: 'Pretzel',
@@ -10101,23 +10105,23 @@ export default [
 	},
 	{
 		shortName: 'Prince Dark Skin Tone',
-		codepoint: '1f934 1f3ff'
+		codepoint: '1f934-1f3ff'
 	},
 	{
 		shortName: 'Prince Light Skin Tone',
-		codepoint: '1f934 1f3fb'
+		codepoint: '1f934-1f3fb'
 	},
 	{
 		shortName: 'Prince Medium Dark Skin Tone',
-		codepoint: '1f934 1f3fe'
+		codepoint: '1f934-1f3fe'
 	},
 	{
 		shortName: 'Prince Medium Light Skin Tone',
-		codepoint: '1f934 1f3fc'
+		codepoint: '1f934-1f3fc'
 	},
 	{
 		shortName: 'Prince Medium Skin Tone',
-		codepoint: '1f934 1f3fd'
+		codepoint: '1f934-1f3fd'
 	},
 	{
 		shortName: 'Princess',
@@ -10125,23 +10129,23 @@ export default [
 	},
 	{
 		shortName: 'Princess Dark Skin Tone',
-		codepoint: '1f478 1f3ff'
+		codepoint: '1f478-1f3ff'
 	},
 	{
 		shortName: 'Princess Light Skin Tone',
-		codepoint: '1f478 1f3fb'
+		codepoint: '1f478-1f3fb'
 	},
 	{
 		shortName: 'Princess Medium Dark Skin Tone',
-		codepoint: '1f478 1f3fe'
+		codepoint: '1f478-1f3fe'
 	},
 	{
 		shortName: 'Princess Medium Light Skin Tone',
-		codepoint: '1f478 1f3fc'
+		codepoint: '1f478-1f3fc'
 	},
 	{
 		shortName: 'Princess Medium Skin Tone',
-		codepoint: '1f478 1f3fd'
+		codepoint: '1f478-1f3fd'
 	},
 	{
 		shortName: 'Printer',
@@ -10217,7 +10221,7 @@ export default [
 	},
 	{
 		shortName: 'Rainbow Flag',
-		codepoint: '1f3f3 fe0f 200d 1f308'
+		codepoint: '1f3f3-fe0f-200d-1f308'
 	},
 	{
 		shortName: 'Raised Back Of Hand',
@@ -10225,23 +10229,23 @@ export default [
 	},
 	{
 		shortName: 'Raised Back Of Hand Dark Skin Tone',
-		codepoint: '1f91a 1f3ff'
+		codepoint: '1f91a-1f3ff'
 	},
 	{
 		shortName: 'Raised Back Of Hand Light Skin Tone',
-		codepoint: '1f91a 1f3fb'
+		codepoint: '1f91a-1f3fb'
 	},
 	{
 		shortName: 'Raised Back Of Hand Medium Dark Skin Tone',
-		codepoint: '1f91a 1f3fe'
+		codepoint: '1f91a-1f3fe'
 	},
 	{
 		shortName: 'Raised Back Of Hand Medium Light Skin Tone',
-		codepoint: '1f91a 1f3fc'
+		codepoint: '1f91a-1f3fc'
 	},
 	{
 		shortName: 'Raised Back Of Hand Medium Skin Tone',
-		codepoint: '1f91a 1f3fd'
+		codepoint: '1f91a-1f3fd'
 	},
 	{
 		shortName: 'Raised Fist',
@@ -10249,23 +10253,23 @@ export default [
 	},
 	{
 		shortName: 'Raised Fist Dark Skin Tone',
-		codepoint: '270a 1f3ff'
+		codepoint: '270a-1f3ff'
 	},
 	{
 		shortName: 'Raised Fist Light Skin Tone',
-		codepoint: '270a 1f3fb'
+		codepoint: '270a-1f3fb'
 	},
 	{
 		shortName: 'Raised Fist Medium Dark Skin Tone',
-		codepoint: '270a 1f3fe'
+		codepoint: '270a-1f3fe'
 	},
 	{
 		shortName: 'Raised Fist Medium Light Skin Tone',
-		codepoint: '270a 1f3fc'
+		codepoint: '270a-1f3fc'
 	},
 	{
 		shortName: 'Raised Fist Medium Skin Tone',
-		codepoint: '270a 1f3fd'
+		codepoint: '270a-1f3fd'
 	},
 	{
 		shortName: 'Raised Hand',
@@ -10273,23 +10277,23 @@ export default [
 	},
 	{
 		shortName: 'Raised Hand Dark Skin Tone',
-		codepoint: '270b 1f3ff'
+		codepoint: '270b-1f3ff'
 	},
 	{
 		shortName: 'Raised Hand Light Skin Tone',
-		codepoint: '270b 1f3fb'
+		codepoint: '270b-1f3fb'
 	},
 	{
 		shortName: 'Raised Hand Medium Dark Skin Tone',
-		codepoint: '270b 1f3fe'
+		codepoint: '270b-1f3fe'
 	},
 	{
 		shortName: 'Raised Hand Medium Light Skin Tone',
-		codepoint: '270b 1f3fc'
+		codepoint: '270b-1f3fc'
 	},
 	{
 		shortName: 'Raised Hand Medium Skin Tone',
-		codepoint: '270b 1f3fd'
+		codepoint: '270b-1f3fd'
 	},
 	{
 		shortName: 'Raising Hands',
@@ -10297,23 +10301,23 @@ export default [
 	},
 	{
 		shortName: 'Raising Hands Dark Skin Tone',
-		codepoint: '1f64c 1f3ff'
+		codepoint: '1f64c-1f3ff'
 	},
 	{
 		shortName: 'Raising Hands Light Skin Tone',
-		codepoint: '1f64c 1f3fb'
+		codepoint: '1f64c-1f3fb'
 	},
 	{
 		shortName: 'Raising Hands Medium Dark Skin Tone',
-		codepoint: '1f64c 1f3fe'
+		codepoint: '1f64c-1f3fe'
 	},
 	{
 		shortName: 'Raising Hands Medium Light Skin Tone',
-		codepoint: '1f64c 1f3fc'
+		codepoint: '1f64c-1f3fc'
 	},
 	{
 		shortName: 'Raising Hands Medium Skin Tone',
-		codepoint: '1f64c 1f3fd'
+		codepoint: '1f64c-1f3fd'
 	},
 	{
 		shortName: 'Ram',
@@ -10565,23 +10569,23 @@ export default [
 	},
 	{
 		shortName: 'Right Facing Fist Dark Skin Tone',
-		codepoint: '1f91c 1f3ff'
+		codepoint: '1f91c-1f3ff'
 	},
 	{
 		shortName: 'Right Facing Fist Light Skin Tone',
-		codepoint: '1f91c 1f3fb'
+		codepoint: '1f91c-1f3fb'
 	},
 	{
 		shortName: 'Right Facing Fist Medium Dark Skin Tone',
-		codepoint: '1f91c 1f3fe'
+		codepoint: '1f91c-1f3fe'
 	},
 	{
 		shortName: 'Right Facing Fist Medium Light Skin Tone',
-		codepoint: '1f91c 1f3fc'
+		codepoint: '1f91c-1f3fc'
 	},
 	{
 		shortName: 'Right Facing Fist Medium Skin Tone',
-		codepoint: '1f91c 1f3fd'
+		codepoint: '1f91c-1f3fd'
 	},
 	{
 		shortName: 'Ring',
@@ -10693,23 +10697,23 @@ export default [
 	},
 	{
 		shortName: 'Santa Claus Dark Skin Tone',
-		codepoint: '1f385 1f3ff'
+		codepoint: '1f385-1f3ff'
 	},
 	{
 		shortName: 'Santa Claus Light Skin Tone',
-		codepoint: '1f385 1f3fb'
+		codepoint: '1f385-1f3fb'
 	},
 	{
 		shortName: 'Santa Claus Medium Dark Skin Tone',
-		codepoint: '1f385 1f3fe'
+		codepoint: '1f385-1f3fe'
 	},
 	{
 		shortName: 'Santa Claus Medium Light Skin Tone',
-		codepoint: '1f385 1f3fc'
+		codepoint: '1f385-1f3fc'
 	},
 	{
 		shortName: 'Santa Claus Medium Skin Tone',
-		codepoint: '1f385 1f3fd'
+		codepoint: '1f385-1f3fd'
 	},
 	{
 		shortName: 'Sari',
@@ -10741,27 +10745,27 @@ export default [
 	},
 	{
 		shortName: 'Scientist',
-		codepoint: '1f9d1 200d 1f52c'
+		codepoint: '1f9d1-200d-1f52c'
 	},
 	{
 		shortName: 'Scientist Dark Skin Tone',
-		codepoint: '1f9d1 1f3ff 200d 1f52c'
+		codepoint: '1f9d1-1f3ff-200d-1f52c'
 	},
 	{
 		shortName: 'Scientist Light Skin Tone',
-		codepoint: '1f9d1 1f3fb 200d 1f52c'
+		codepoint: '1f9d1-1f3fb-200d-1f52c'
 	},
 	{
 		shortName: 'Scientist Medium Dark Skin Tone',
-		codepoint: '1f9d1 1f3fe 200d 1f52c'
+		codepoint: '1f9d1-1f3fe-200d-1f52c'
 	},
 	{
 		shortName: 'Scientist Medium Light Skin Tone',
-		codepoint: '1f9d1 1f3fc 200d 1f52c'
+		codepoint: '1f9d1-1f3fc-200d-1f52c'
 	},
 	{
 		shortName: 'Scientist Medium Skin Tone',
-		codepoint: '1f9d1 1f3fd 200d 1f52c'
+		codepoint: '1f9d1-1f3fd-200d-1f52c'
 	},
 	{
 		shortName: 'Scissors',
@@ -10805,27 +10809,27 @@ export default [
 	},
 	{
 		shortName: 'Selfie Dark Skin Tone',
-		codepoint: '1f933 1f3ff'
+		codepoint: '1f933-1f3ff'
 	},
 	{
 		shortName: 'Selfie Light Skin Tone',
-		codepoint: '1f933 1f3fb'
+		codepoint: '1f933-1f3fb'
 	},
 	{
 		shortName: 'Selfie Medium Dark Skin Tone',
-		codepoint: '1f933 1f3fe'
+		codepoint: '1f933-1f3fe'
 	},
 	{
 		shortName: 'Selfie Medium Light Skin Tone',
-		codepoint: '1f933 1f3fc'
+		codepoint: '1f933-1f3fc'
 	},
 	{
 		shortName: 'Selfie Medium Skin Tone',
-		codepoint: '1f933 1f3fd'
+		codepoint: '1f933-1f3fd'
 	},
 	{
 		shortName: 'Service Dog',
-		codepoint: '1f415 200d 1f9ba'
+		codepoint: '1f415-200d-1f9ba'
 	},
 	{
 		shortName: 'Seven O Clock',
@@ -10917,47 +10921,47 @@ export default [
 	},
 	{
 		shortName: 'Sign Of The Horns Dark Skin Tone',
-		codepoint: '1f918 1f3ff'
+		codepoint: '1f918-1f3ff'
 	},
 	{
 		shortName: 'Sign Of The Horns Light Skin Tone',
-		codepoint: '1f918 1f3fb'
+		codepoint: '1f918-1f3fb'
 	},
 	{
 		shortName: 'Sign Of The Horns Medium Dark Skin Tone',
-		codepoint: '1f918 1f3fe'
+		codepoint: '1f918-1f3fe'
 	},
 	{
 		shortName: 'Sign Of The Horns Medium Light Skin Tone',
-		codepoint: '1f918 1f3fc'
+		codepoint: '1f918-1f3fc'
 	},
 	{
 		shortName: 'Sign Of The Horns Medium Skin Tone',
-		codepoint: '1f918 1f3fd'
+		codepoint: '1f918-1f3fd'
 	},
 	{
 		shortName: 'Singer',
-		codepoint: '1f9d1 200d 1f3a4'
+		codepoint: '1f9d1-200d-1f3a4'
 	},
 	{
 		shortName: 'Singer Dark Skin Tone',
-		codepoint: '1f9d1 1f3ff 200d 1f3a4'
+		codepoint: '1f9d1-1f3ff-200d-1f3a4'
 	},
 	{
 		shortName: 'Singer Light Skin Tone',
-		codepoint: '1f9d1 1f3fb 200d 1f3a4'
+		codepoint: '1f9d1-1f3fb-200d-1f3a4'
 	},
 	{
 		shortName: 'Singer Medium Dark Skin Tone',
-		codepoint: '1f9d1 1f3fe 200d 1f3a4'
+		codepoint: '1f9d1-1f3fe-200d-1f3a4'
 	},
 	{
 		shortName: 'Singer Medium Light Skin Tone',
-		codepoint: '1f9d1 1f3fc 200d 1f3a4'
+		codepoint: '1f9d1-1f3fc-200d-1f3a4'
 	},
 	{
 		shortName: 'Singer Medium Skin Tone',
-		codepoint: '1f9d1 1f3fd 200d 1f3a4'
+		codepoint: '1f9d1-1f3fd-200d-1f3a4'
 	},
 	{
 		shortName: 'Six O Clock',
@@ -10977,23 +10981,23 @@ export default [
 	},
 	{
 		shortName: 'Skier Dark Skin Tone',
-		codepoint: '26f7 1f3ff'
+		codepoint: '26f7-1f3ff'
 	},
 	{
 		shortName: 'Skier Light Skin Tone',
-		codepoint: '26f7 1f3fb'
+		codepoint: '26f7-1f3fb'
 	},
 	{
 		shortName: 'Skier Medium Dark Skin Tone',
-		codepoint: '26f7 1f3fe'
+		codepoint: '26f7-1f3fe'
 	},
 	{
 		shortName: 'Skier Medium Light Skin Tone',
-		codepoint: '26f7 1f3fc'
+		codepoint: '26f7-1f3fc'
 	},
 	{
 		shortName: 'Skier Medium Skin Tone',
-		codepoint: '26f7 1f3fd'
+		codepoint: '26f7-1f3fd'
 	},
 	{
 		shortName: 'Skis',
@@ -11113,23 +11117,23 @@ export default [
 	},
 	{
 		shortName: 'Snowboarder Dark Skin Tone',
-		codepoint: '1f3c2 1f3ff'
+		codepoint: '1f3c2-1f3ff'
 	},
 	{
 		shortName: 'Snowboarder Light Skin Tone',
-		codepoint: '1f3c2 1f3fb'
+		codepoint: '1f3c2-1f3fb'
 	},
 	{
 		shortName: 'Snowboarder Medium Dark Skin Tone',
-		codepoint: '1f3c2 1f3fe'
+		codepoint: '1f3c2-1f3fe'
 	},
 	{
 		shortName: 'Snowboarder Medium Light Skin Tone',
-		codepoint: '1f3c2 1f3fc'
+		codepoint: '1f3c2-1f3fc'
 	},
 	{
 		shortName: 'Snowboarder Medium Skin Tone',
-		codepoint: '1f3c2 1f3fd'
+		codepoint: '1f3c2-1f3fd'
 	},
 	{
 		shortName: 'Snowflake',
@@ -11329,27 +11333,27 @@ export default [
 	},
 	{
 		shortName: 'Student',
-		codepoint: '1f9d1 200d 1f393'
+		codepoint: '1f9d1-200d-1f393'
 	},
 	{
 		shortName: 'Student Dark Skin Tone',
-		codepoint: '1f9d1 1f3ff 200d 1f393'
+		codepoint: '1f9d1-1f3ff-200d-1f393'
 	},
 	{
 		shortName: 'Student Light Skin Tone',
-		codepoint: '1f9d1 1f3fb 200d 1f393'
+		codepoint: '1f9d1-1f3fb-200d-1f393'
 	},
 	{
 		shortName: 'Student Medium Dark Skin Tone',
-		codepoint: '1f9d1 1f3fe 200d 1f393'
+		codepoint: '1f9d1-1f3fe-200d-1f393'
 	},
 	{
 		shortName: 'Student Medium Light Skin Tone',
-		codepoint: '1f9d1 1f3fc 200d 1f393'
+		codepoint: '1f9d1-1f3fc-200d-1f393'
 	},
 	{
 		shortName: 'Student Medium Skin Tone',
-		codepoint: '1f9d1 1f3fd 200d 1f393'
+		codepoint: '1f9d1-1f3fd-200d-1f393'
 	},
 	{
 		shortName: 'Studio Microphone',
@@ -11409,23 +11413,23 @@ export default [
 	},
 	{
 		shortName: 'Superhero Dark Skin Tone',
-		codepoint: '1f9b8 1f3ff'
+		codepoint: '1f9b8-1f3ff'
 	},
 	{
 		shortName: 'Superhero Light Skin Tone',
-		codepoint: '1f9b8 1f3fb'
+		codepoint: '1f9b8-1f3fb'
 	},
 	{
 		shortName: 'Superhero Medium Dark Skin Tone',
-		codepoint: '1f9b8 1f3fe'
+		codepoint: '1f9b8-1f3fe'
 	},
 	{
 		shortName: 'Superhero Medium Light Skin Tone',
-		codepoint: '1f9b8 1f3fc'
+		codepoint: '1f9b8-1f3fc'
 	},
 	{
 		shortName: 'Superhero Medium Skin Tone',
-		codepoint: '1f9b8 1f3fd'
+		codepoint: '1f9b8-1f3fd'
 	},
 	{
 		shortName: 'Supervillain',
@@ -11433,23 +11437,23 @@ export default [
 	},
 	{
 		shortName: 'Supervillain Dark Skin Tone',
-		codepoint: '1f9b9 1f3ff'
+		codepoint: '1f9b9-1f3ff'
 	},
 	{
 		shortName: 'Supervillain Light Skin Tone',
-		codepoint: '1f9b9 1f3fb'
+		codepoint: '1f9b9-1f3fb'
 	},
 	{
 		shortName: 'Supervillain Medium Dark Skin Tone',
-		codepoint: '1f9b9 1f3fe'
+		codepoint: '1f9b9-1f3fe'
 	},
 	{
 		shortName: 'Supervillain Medium Light Skin Tone',
-		codepoint: '1f9b9 1f3fc'
+		codepoint: '1f9b9-1f3fc'
 	},
 	{
 		shortName: 'Supervillain Medium Skin Tone',
-		codepoint: '1f9b9 1f3fd'
+		codepoint: '1f9b9-1f3fd'
 	},
 	{
 		shortName: 'Sushi',
@@ -11513,27 +11517,27 @@ export default [
 	},
 	{
 		shortName: 'Teacher',
-		codepoint: '1f9d1 200d 1f3eb'
+		codepoint: '1f9d1-200d-1f3eb'
 	},
 	{
 		shortName: 'Teacher Dark Skin Tone',
-		codepoint: '1f9d1 1f3ff 200d 1f3eb'
+		codepoint: '1f9d1-1f3ff-200d-1f3eb'
 	},
 	{
 		shortName: 'Teacher Light Skin Tone',
-		codepoint: '1f9d1 1f3fb 200d 1f3eb'
+		codepoint: '1f9d1-1f3fb-200d-1f3eb'
 	},
 	{
 		shortName: 'Teacher Medium Dark Skin Tone',
-		codepoint: '1f9d1 1f3fe 200d 1f3eb'
+		codepoint: '1f9d1-1f3fe-200d-1f3eb'
 	},
 	{
 		shortName: 'Teacher Medium Light Skin Tone',
-		codepoint: '1f9d1 1f3fc 200d 1f3eb'
+		codepoint: '1f9d1-1f3fc-200d-1f3eb'
 	},
 	{
 		shortName: 'Teacher Medium Skin Tone',
-		codepoint: '1f9d1 1f3fd 200d 1f3eb'
+		codepoint: '1f9d1-1f3fd-200d-1f3eb'
 	},
 	{
 		shortName: 'Teacup Without Handle',
@@ -11549,27 +11553,27 @@ export default [
 	},
 	{
 		shortName: 'Technologist',
-		codepoint: '1f9d1 200d 1f4bb'
+		codepoint: '1f9d1-200d-1f4bb'
 	},
 	{
 		shortName: 'Technologist Dark Skin Tone',
-		codepoint: '1f9d1 1f3ff 200d 1f4bb'
+		codepoint: '1f9d1-1f3ff-200d-1f4bb'
 	},
 	{
 		shortName: 'Technologist Light Skin Tone',
-		codepoint: '1f9d1 1f3fb 200d 1f4bb'
+		codepoint: '1f9d1-1f3fb-200d-1f4bb'
 	},
 	{
 		shortName: 'Technologist Medium Dark Skin Tone',
-		codepoint: '1f9d1 1f3fe 200d 1f4bb'
+		codepoint: '1f9d1-1f3fe-200d-1f4bb'
 	},
 	{
 		shortName: 'Technologist Medium Light Skin Tone',
-		codepoint: '1f9d1 1f3fc 200d 1f4bb'
+		codepoint: '1f9d1-1f3fc-200d-1f4bb'
 	},
 	{
 		shortName: 'Technologist Medium Skin Tone',
-		codepoint: '1f9d1 1f3fd 200d 1f4bb'
+		codepoint: '1f9d1-1f3fd-200d-1f4bb'
 	},
 	{
 		shortName: 'Teddy Bear',
@@ -11645,23 +11649,23 @@ export default [
 	},
 	{
 		shortName: 'Thumbs Down Dark Skin Tone',
-		codepoint: '1f44e 1f3ff'
+		codepoint: '1f44e-1f3ff'
 	},
 	{
 		shortName: 'Thumbs Down Light Skin Tone',
-		codepoint: '1f44e 1f3fb'
+		codepoint: '1f44e-1f3fb'
 	},
 	{
 		shortName: 'Thumbs Down Medium Dark Skin Tone',
-		codepoint: '1f44e 1f3fe'
+		codepoint: '1f44e-1f3fe'
 	},
 	{
 		shortName: 'Thumbs Down Medium Light Skin Tone',
-		codepoint: '1f44e 1f3fc'
+		codepoint: '1f44e-1f3fc'
 	},
 	{
 		shortName: 'Thumbs Down Medium Skin Tone',
-		codepoint: '1f44e 1f3fd'
+		codepoint: '1f44e-1f3fd'
 	},
 	{
 		shortName: 'Thumbs Up',
@@ -11669,23 +11673,23 @@ export default [
 	},
 	{
 		shortName: 'Thumbs Up Dark Skin Tone',
-		codepoint: '1f44d 1f3ff'
+		codepoint: '1f44d-1f3ff'
 	},
 	{
 		shortName: 'Thumbs Up Light Skin Tone',
-		codepoint: '1f44d 1f3fb'
+		codepoint: '1f44d-1f3fb'
 	},
 	{
 		shortName: 'Thumbs Up Medium Dark Skin Tone',
-		codepoint: '1f44d 1f3fe'
+		codepoint: '1f44d-1f3fe'
 	},
 	{
 		shortName: 'Thumbs Up Medium Light Skin Tone',
-		codepoint: '1f44d 1f3fc'
+		codepoint: '1f44d-1f3fc'
 	},
 	{
 		shortName: 'Thumbs Up Medium Skin Tone',
-		codepoint: '1f44d 1f3fd'
+		codepoint: '1f44d-1f3fd'
 	},
 	{
 		shortName: 'Ticket',
@@ -11773,7 +11777,7 @@ export default [
 	},
 	{
 		shortName: 'Transgender Flag',
-		codepoint: '1f3f3 fe0f 200d 26a7 fe0f'
+		codepoint: '1f3f3-fe0f-200d-26a7-fe0f'
 	},
 	{
 		shortName: 'Transgender Symbol',
@@ -11909,23 +11913,23 @@ export default [
 	},
 	{
 		shortName: 'Vampire Dark Skin Tone',
-		codepoint: '1f9db 1f3ff'
+		codepoint: '1f9db-1f3ff'
 	},
 	{
 		shortName: 'Vampire Light Skin Tone',
-		codepoint: '1f9db 1f3fb'
+		codepoint: '1f9db-1f3fb'
 	},
 	{
 		shortName: 'Vampire Medium Dark Skin Tone',
-		codepoint: '1f9db 1f3fe'
+		codepoint: '1f9db-1f3fe'
 	},
 	{
 		shortName: 'Vampire Medium Light Skin Tone',
-		codepoint: '1f9db 1f3fc'
+		codepoint: '1f9db-1f3fc'
 	},
 	{
 		shortName: 'Vampire Medium Skin Tone',
-		codepoint: '1f9db 1f3fd'
+		codepoint: '1f9db-1f3fd'
 	},
 	{
 		shortName: 'Vertical Traffic Light',
@@ -11941,23 +11945,23 @@ export default [
 	},
 	{
 		shortName: 'Victory Hand Dark Skin Tone',
-		codepoint: '270c 1f3ff'
+		codepoint: '270c-1f3ff'
 	},
 	{
 		shortName: 'Victory Hand Light Skin Tone',
-		codepoint: '270c 1f3fb'
+		codepoint: '270c-1f3fb'
 	},
 	{
 		shortName: 'Victory Hand Medium Dark Skin Tone',
-		codepoint: '270c 1f3fe'
+		codepoint: '270c-1f3fe'
 	},
 	{
 		shortName: 'Victory Hand Medium Light Skin Tone',
-		codepoint: '270c 1f3fc'
+		codepoint: '270c-1f3fc'
 	},
 	{
 		shortName: 'Victory Hand Medium Skin Tone',
-		codepoint: '270c 1f3fd'
+		codepoint: '270c-1f3fd'
 	},
 	{
 		shortName: 'Video Camera',
@@ -11997,23 +12001,23 @@ export default [
 	},
 	{
 		shortName: 'Vulcan Salute Dark Skin Tone',
-		codepoint: '1f596 1f3ff'
+		codepoint: '1f596-1f3ff'
 	},
 	{
 		shortName: 'Vulcan Salute Light Skin Tone',
-		codepoint: '1f596 1f3fb'
+		codepoint: '1f596-1f3fb'
 	},
 	{
 		shortName: 'Vulcan Salute Medium Dark Skin Tone',
-		codepoint: '1f596 1f3fe'
+		codepoint: '1f596-1f3fe'
 	},
 	{
 		shortName: 'Vulcan Salute Medium Light Skin Tone',
-		codepoint: '1f596 1f3fc'
+		codepoint: '1f596-1f3fc'
 	},
 	{
 		shortName: 'Vulcan Salute Medium Skin Tone',
-		codepoint: '1f596 1f3fd'
+		codepoint: '1f596-1f3fd'
 	},
 	{
 		shortName: 'Waffle',
@@ -12065,23 +12069,23 @@ export default [
 	},
 	{
 		shortName: 'Waving Hand Dark Skin Tone',
-		codepoint: '1f44b 1f3ff'
+		codepoint: '1f44b-1f3ff'
 	},
 	{
 		shortName: 'Waving Hand Light Skin Tone',
-		codepoint: '1f44b 1f3fb'
+		codepoint: '1f44b-1f3fb'
 	},
 	{
 		shortName: 'Waving Hand Medium Dark Skin Tone',
-		codepoint: '1f44b 1f3fe'
+		codepoint: '1f44b-1f3fe'
 	},
 	{
 		shortName: 'Waving Hand Medium Light Skin Tone',
-		codepoint: '1f44b 1f3fc'
+		codepoint: '1f44b-1f3fc'
 	},
 	{
 		shortName: 'Waving Hand Medium Skin Tone',
-		codepoint: '1f44b 1f3fd'
+		codepoint: '1f44b-1f3fd'
 	},
 	{
 		shortName: 'Wavy Dash',
@@ -12213,339 +12217,339 @@ export default [
 	},
 	{
 		shortName: 'Woman And Man Holding Hands Dark Skin Tone',
-		codepoint: '1f46b 1f3ff'
+		codepoint: '1f46b-1f3ff'
 	},
 	{
 		shortName: 'Woman And Man Holding Hands Dark Skin Tone Light Skin Tone',
-		codepoint: '1f469 1f3ff 200d 1f91d 200d 1f468 1f3fb'
+		codepoint: '1f469-1f3ff-200d-1f91d-200d-1f468-1f3fb'
 	},
 	{
 		shortName: 'Woman And Man Holding Hands Dark Skin Tone Medium Dark Skin Tone',
-		codepoint: '1f469 1f3ff 200d 1f91d 200d 1f468 1f3fe'
+		codepoint: '1f469-1f3ff-200d-1f91d-200d-1f468-1f3fe'
 	},
 	{
 		shortName: 'Woman And Man Holding Hands Dark Skin Tone Medium Light Skin Tone',
-		codepoint: '1f469 1f3ff 200d 1f91d 200d 1f468 1f3fc'
+		codepoint: '1f469-1f3ff-200d-1f91d-200d-1f468-1f3fc'
 	},
 	{
 		shortName: 'Woman And Man Holding Hands Dark Skin Tone Medium Skin Tone',
-		codepoint: '1f469 1f3ff 200d 1f91d 200d 1f468 1f3fd'
+		codepoint: '1f469-1f3ff-200d-1f91d-200d-1f468-1f3fd'
 	},
 	{
 		shortName: 'Woman And Man Holding Hands Light Skin Tone',
-		codepoint: '1f46b 1f3fb'
+		codepoint: '1f46b-1f3fb'
 	},
 	{
 		shortName: 'Woman And Man Holding Hands Light Skin Tone Dark Skin Tone',
-		codepoint: '1f469 1f3fb 200d 1f91d 200d 1f468 1f3ff'
+		codepoint: '1f469-1f3fb-200d-1f91d-200d-1f468-1f3ff'
 	},
 	{
 		shortName: 'Woman And Man Holding Hands Light Skin Tone Medium Dark Skin Tone',
-		codepoint: '1f469 1f3fb 200d 1f91d 200d 1f468 1f3fe'
+		codepoint: '1f469-1f3fb-200d-1f91d-200d-1f468-1f3fe'
 	},
 	{
 		shortName: 'Woman And Man Holding Hands Light Skin Tone Medium Light Skin Tone',
-		codepoint: '1f469 1f3fb 200d 1f91d 200d 1f468 1f3fc'
+		codepoint: '1f469-1f3fb-200d-1f91d-200d-1f468-1f3fc'
 	},
 	{
 		shortName: 'Woman And Man Holding Hands Light Skin Tone Medium Skin Tone',
-		codepoint: '1f469 1f3fb 200d 1f91d 200d 1f468 1f3fd'
+		codepoint: '1f469-1f3fb-200d-1f91d-200d-1f468-1f3fd'
 	},
 	{
 		shortName: 'Woman And Man Holding Hands Medium Dark Skin Tone',
-		codepoint: '1f46b 1f3fe'
+		codepoint: '1f46b-1f3fe'
 	},
 	{
 		shortName: 'Woman And Man Holding Hands Medium Dark Skin Tone Dark Skin Tone',
-		codepoint: '1f469 1f3fe 200d 1f91d 200d 1f468 1f3ff'
+		codepoint: '1f469-1f3fe-200d-1f91d-200d-1f468-1f3ff'
 	},
 	{
 		shortName: 'Woman And Man Holding Hands Medium Dark Skin Tone Light Skin Tone',
-		codepoint: '1f469 1f3fe 200d 1f91d 200d 1f468 1f3fb'
+		codepoint: '1f469-1f3fe-200d-1f91d-200d-1f468-1f3fb'
 	},
 	{
 		shortName: 'Woman And Man Holding Hands Medium Dark Skin Tone Medium Light Skin Tone',
-		codepoint: '1f469 1f3fe 200d 1f91d 200d 1f468 1f3fc'
+		codepoint: '1f469-1f3fe-200d-1f91d-200d-1f468-1f3fc'
 	},
 	{
 		shortName: 'Woman And Man Holding Hands Medium Dark Skin Tone Medium Skin Tone',
-		codepoint: '1f469 1f3fe 200d 1f91d 200d 1f468 1f3fd'
+		codepoint: '1f469-1f3fe-200d-1f91d-200d-1f468-1f3fd'
 	},
 	{
 		shortName: 'Woman And Man Holding Hands Medium Light Skin Tone',
-		codepoint: '1f46b 1f3fc'
+		codepoint: '1f46b-1f3fc'
 	},
 	{
 		shortName: 'Woman And Man Holding Hands Medium Light Skin Tone Dark Skin Tone',
-		codepoint: '1f469 1f3fc 200d 1f91d 200d 1f468 1f3ff'
+		codepoint: '1f469-1f3fc-200d-1f91d-200d-1f468-1f3ff'
 	},
 	{
 		shortName: 'Woman And Man Holding Hands Medium Light Skin Tone Light Skin Tone',
-		codepoint: '1f469 1f3fc 200d 1f91d 200d 1f468 1f3fb'
+		codepoint: '1f469-1f3fc-200d-1f91d-200d-1f468-1f3fb'
 	},
 	{
 		shortName: 'Woman And Man Holding Hands Medium Light Skin Tone Medium Dark Skin Tone',
-		codepoint: '1f469 1f3fc 200d 1f91d 200d 1f468 1f3fe'
+		codepoint: '1f469-1f3fc-200d-1f91d-200d-1f468-1f3fe'
 	},
 	{
 		shortName: 'Woman And Man Holding Hands Medium Light Skin Tone Medium Skin Tone',
-		codepoint: '1f469 1f3fc 200d 1f91d 200d 1f468 1f3fd'
+		codepoint: '1f469-1f3fc-200d-1f91d-200d-1f468-1f3fd'
 	},
 	{
 		shortName: 'Woman And Man Holding Hands Medium Skin Tone',
-		codepoint: '1f46b 1f3fd'
+		codepoint: '1f46b-1f3fd'
 	},
 	{
 		shortName: 'Woman And Man Holding Hands Medium Skin Tone Dark Skin Tone',
-		codepoint: '1f469 1f3fd 200d 1f91d 200d 1f468 1f3ff'
+		codepoint: '1f469-1f3fd-200d-1f91d-200d-1f468-1f3ff'
 	},
 	{
 		shortName: 'Woman And Man Holding Hands Medium Skin Tone Light Skin Tone',
-		codepoint: '1f469 1f3fd 200d 1f91d 200d 1f468 1f3fb'
+		codepoint: '1f469-1f3fd-200d-1f91d-200d-1f468-1f3fb'
 	},
 	{
 		shortName: 'Woman And Man Holding Hands Medium Skin Tone Medium Dark Skin Tone',
-		codepoint: '1f469 1f3fd 200d 1f91d 200d 1f468 1f3fe'
+		codepoint: '1f469-1f3fd-200d-1f91d-200d-1f468-1f3fe'
 	},
 	{
 		shortName: 'Woman And Man Holding Hands Medium Skin Tone Medium Light Skin Tone',
-		codepoint: '1f469 1f3fd 200d 1f91d 200d 1f468 1f3fc'
+		codepoint: '1f469-1f3fd-200d-1f91d-200d-1f468-1f3fc'
 	},
 	{
 		shortName: 'Woman Artist',
-		codepoint: '1f469 200d 1f3a8'
+		codepoint: '1f469-200d-1f3a8'
 	},
 	{
 		shortName: 'Woman Artist Dark Skin Tone',
-		codepoint: '1f469 1f3ff 200d 1f3a8'
+		codepoint: '1f469-1f3ff-200d-1f3a8'
 	},
 	{
 		shortName: 'Woman Artist Light Skin Tone',
-		codepoint: '1f469 1f3fb 200d 1f3a8'
+		codepoint: '1f469-1f3fb-200d-1f3a8'
 	},
 	{
 		shortName: 'Woman Artist Medium Dark Skin Tone',
-		codepoint: '1f469 1f3fe 200d 1f3a8'
+		codepoint: '1f469-1f3fe-200d-1f3a8'
 	},
 	{
 		shortName: 'Woman Artist Medium Light Skin Tone',
-		codepoint: '1f469 1f3fc 200d 1f3a8'
+		codepoint: '1f469-1f3fc-200d-1f3a8'
 	},
 	{
 		shortName: 'Woman Artist Medium Skin Tone',
-		codepoint: '1f469 1f3fd 200d 1f3a8'
+		codepoint: '1f469-1f3fd-200d-1f3a8'
 	},
 	{
 		shortName: 'Woman Astronaut',
-		codepoint: '1f469 200d 1f680'
+		codepoint: '1f469-200d-1f680'
 	},
 	{
 		shortName: 'Woman Astronaut Dark Skin Tone',
-		codepoint: '1f469 1f3ff 200d 1f680'
+		codepoint: '1f469-1f3ff-200d-1f680'
 	},
 	{
 		shortName: 'Woman Astronaut Light Skin Tone',
-		codepoint: '1f469 1f3fb 200d 1f680'
+		codepoint: '1f469-1f3fb-200d-1f680'
 	},
 	{
 		shortName: 'Woman Astronaut Medium Dark Skin Tone',
-		codepoint: '1f469 1f3fe 200d 1f680'
+		codepoint: '1f469-1f3fe-200d-1f680'
 	},
 	{
 		shortName: 'Woman Astronaut Medium Light Skin Tone',
-		codepoint: '1f469 1f3fc 200d 1f680'
+		codepoint: '1f469-1f3fc-200d-1f680'
 	},
 	{
 		shortName: 'Woman Astronaut Medium Skin Tone',
-		codepoint: '1f469 1f3fd 200d 1f680'
+		codepoint: '1f469-1f3fd-200d-1f680'
 	},
 	{
 		shortName: 'Woman Bald',
-		codepoint: '1f469 200d 1f9b2'
+		codepoint: '1f469-200d-1f9b2'
 	},
 	{
 		shortName: 'Woman Beard',
-		codepoint: '1f9d4 200d 2640 fe0f'
+		codepoint: '1f9d4-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Biking',
-		codepoint: '1f6b4 200d 2640 fe0f'
+		codepoint: '1f6b4-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Biking Dark Skin Tone',
-		codepoint: '1f6b4 1f3ff 200d 2640 fe0f'
+		codepoint: '1f6b4-1f3ff-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Biking Light Skin Tone',
-		codepoint: '1f6b4 1f3fb 200d 2640 fe0f'
+		codepoint: '1f6b4-1f3fb-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Biking Medium Dark Skin Tone',
-		codepoint: '1f6b4 1f3fe 200d 2640 fe0f'
+		codepoint: '1f6b4-1f3fe-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Biking Medium Light Skin Tone',
-		codepoint: '1f6b4 1f3fc 200d 2640 fe0f'
+		codepoint: '1f6b4-1f3fc-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Biking Medium Skin Tone',
-		codepoint: '1f6b4 1f3fd 200d 2640 fe0f'
+		codepoint: '1f6b4-1f3fd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Blond Hair',
-		codepoint: '1f471 200d 2640 fe0f'
+		codepoint: '1f471-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Bouncing Ball',
-		codepoint: '26f9 fe0f 200d 2640 fe0f'
+		codepoint: '26f9-fe0f-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Bouncing Ball Dark Skin Tone',
-		codepoint: '26f9 1f3ff 200d 2640 fe0f'
+		codepoint: '26f9-1f3ff-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Bouncing Ball Light Skin Tone',
-		codepoint: '26f9 1f3fb 200d 2640 fe0f'
+		codepoint: '26f9-1f3fb-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Bouncing Ball Medium Dark Skin Tone',
-		codepoint: '26f9 1f3fe 200d 2640 fe0f'
+		codepoint: '26f9-1f3fe-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Bouncing Ball Medium Light Skin Tone',
-		codepoint: '26f9 1f3fc 200d 2640 fe0f'
+		codepoint: '26f9-1f3fc-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Bouncing Ball Medium Skin Tone',
-		codepoint: '26f9 1f3fd 200d 2640 fe0f'
+		codepoint: '26f9-1f3fd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Bowing',
-		codepoint: '1f647 200d 2640 fe0f'
+		codepoint: '1f647-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Bowing Dark Skin Tone',
-		codepoint: '1f647 1f3ff 200d 2640 fe0f'
+		codepoint: '1f647-1f3ff-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Bowing Light Skin Tone',
-		codepoint: '1f647 1f3fb 200d 2640 fe0f'
+		codepoint: '1f647-1f3fb-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Bowing Medium Dark Skin Tone',
-		codepoint: '1f647 1f3fe 200d 2640 fe0f'
+		codepoint: '1f647-1f3fe-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Bowing Medium Light Skin Tone',
-		codepoint: '1f647 1f3fc 200d 2640 fe0f'
+		codepoint: '1f647-1f3fc-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Bowing Medium Skin Tone',
-		codepoint: '1f647 1f3fd 200d 2640 fe0f'
+		codepoint: '1f647-1f3fd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Cartwheeling',
-		codepoint: '1f938 200d 2640 fe0f'
+		codepoint: '1f938-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Cartwheeling Dark Skin Tone',
-		codepoint: '1f938 1f3ff 200d 2640 fe0f'
+		codepoint: '1f938-1f3ff-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Cartwheeling Light Skin Tone',
-		codepoint: '1f938 1f3fb 200d 2640 fe0f'
+		codepoint: '1f938-1f3fb-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Cartwheeling Medium Dark Skin Tone',
-		codepoint: '1f938 1f3fe 200d 2640 fe0f'
+		codepoint: '1f938-1f3fe-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Cartwheeling Medium Light Skin Tone',
-		codepoint: '1f938 1f3fc 200d 2640 fe0f'
+		codepoint: '1f938-1f3fc-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Cartwheeling Medium Skin Tone',
-		codepoint: '1f938 1f3fd 200d 2640 fe0f'
+		codepoint: '1f938-1f3fd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Christmas',
-		codepoint: '1f469 200d 1f384'
+		codepoint: '1f469-200d-1f384'
 	},
 	{
 		shortName: 'Woman Climbing',
-		codepoint: '1f9d7 200d 2640 fe0f'
+		codepoint: '1f9d7-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Climbing Dark Skin Tone',
-		codepoint: '1f9d7 1f3ff 200d 2640 fe0f'
+		codepoint: '1f9d7-1f3ff-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Climbing Light Skin Tone',
-		codepoint: '1f9d7 1f3fb 200d 2640 fe0f'
+		codepoint: '1f9d7-1f3fb-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Climbing Medium Dark Skin Tone',
-		codepoint: '1f9d7 1f3fe 200d 2640 fe0f'
+		codepoint: '1f9d7-1f3fe-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Climbing Medium Light Skin Tone',
-		codepoint: '1f9d7 1f3fc 200d 2640 fe0f'
+		codepoint: '1f9d7-1f3fc-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Climbing Medium Skin Tone',
-		codepoint: '1f9d7 1f3fd 200d 2640 fe0f'
+		codepoint: '1f9d7-1f3fd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Construction Worker',
-		codepoint: '1f477 200d 2640 fe0f'
+		codepoint: '1f477-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Construction Worker Dark Skin Tone',
-		codepoint: '1f477 1f3ff 200d 2640 fe0f'
+		codepoint: '1f477-1f3ff-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Construction Worker Light Skin Tone',
-		codepoint: '1f477 1f3fb 200d 2640 fe0f'
+		codepoint: '1f477-1f3fb-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Construction Worker Medium Dark Skin Tone',
-		codepoint: '1f477 1f3fe 200d 2640 fe0f'
+		codepoint: '1f477-1f3fe-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Construction Worker Medium Light Skin Tone',
-		codepoint: '1f477 1f3fc 200d 2640 fe0f'
+		codepoint: '1f477-1f3fc-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Construction Worker Medium Skin Tone',
-		codepoint: '1f477 1f3fd 200d 2640 fe0f'
+		codepoint: '1f477-1f3fd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Cook',
-		codepoint: '1f469 200d 1f373'
+		codepoint: '1f469-200d-1f373'
 	},
 	{
 		shortName: 'Woman Cook Dark Skin Tone',
-		codepoint: '1f469 1f3ff 200d 1f373'
+		codepoint: '1f469-1f3ff-200d-1f373'
 	},
 	{
 		shortName: 'Woman Cook Light Skin Tone',
-		codepoint: '1f469 1f3fb 200d 1f373'
+		codepoint: '1f469-1f3fb-200d-1f373'
 	},
 	{
 		shortName: 'Woman Cook Medium Dark Skin Tone',
-		codepoint: '1f469 1f3fe 200d 1f373'
+		codepoint: '1f469-1f3fe-200d-1f373'
 	},
 	{
 		shortName: 'Woman Cook Medium Light Skin Tone',
-		codepoint: '1f469 1f3fc 200d 1f373'
+		codepoint: '1f469-1f3fc-200d-1f373'
 	},
 	{
 		shortName: 'Woman Cook Medium Skin Tone',
-		codepoint: '1f469 1f3fd 200d 1f373'
+		codepoint: '1f469-1f3fd-200d-1f373'
 	},
 	{
 		shortName: 'Woman Curly Hair',
-		codepoint: '1f469 200d 1f9b1'
+		codepoint: '1f469-200d-1f9b1'
 	},
 	{
 		shortName: 'Woman Dancing',
@@ -12553,1079 +12557,1079 @@ export default [
 	},
 	{
 		shortName: 'Woman Dancing Dark Skin Tone',
-		codepoint: '1f483 1f3ff'
+		codepoint: '1f483-1f3ff'
 	},
 	{
 		shortName: 'Woman Dancing Light Skin Tone',
-		codepoint: '1f483 1f3fb'
+		codepoint: '1f483-1f3fb'
 	},
 	{
 		shortName: 'Woman Dancing Medium Dark Skin Tone',
-		codepoint: '1f483 1f3fe'
+		codepoint: '1f483-1f3fe'
 	},
 	{
 		shortName: 'Woman Dancing Medium Light Skin Tone',
-		codepoint: '1f483 1f3fc'
+		codepoint: '1f483-1f3fc'
 	},
 	{
 		shortName: 'Woman Dancing Medium Skin Tone',
-		codepoint: '1f483 1f3fd'
+		codepoint: '1f483-1f3fd'
 	},
 	{
 		shortName: 'Woman Dark Skin Tone',
-		codepoint: '1f469 1f3ff'
+		codepoint: '1f469-1f3ff'
 	},
 	{
 		shortName: 'Woman Dark Skin Tone Bald',
-		codepoint: '1f469 1f3ff 200d 1f9b2'
+		codepoint: '1f469-1f3ff-200d-1f9b2'
 	},
 	{
 		shortName: 'Woman Dark Skin Tone Beard',
-		codepoint: '1f9d4 1f3ff 200d 2640 fe0f'
+		codepoint: '1f9d4-1f3ff-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Dark Skin Tone Blond Hair',
-		codepoint: '1f471 1f3ff 200d 2640 fe0f'
+		codepoint: '1f471-1f3ff-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Dark Skin Tone Christmas',
-		codepoint: '1f469 1f3ff 200d 1f384'
+		codepoint: '1f469-1f3ff-200d-1f384'
 	},
 	{
 		shortName: 'Woman Dark Skin Tone Curly Hair',
-		codepoint: '1f469 1f3ff 200d 1f9b1'
+		codepoint: '1f469-1f3ff-200d-1f9b1'
 	},
 	{
 		shortName: 'Woman Dark Skin Tone Red Hair',
-		codepoint: '1f469 1f3ff 200d 1f9b0'
+		codepoint: '1f469-1f3ff-200d-1f9b0'
 	},
 	{
 		shortName: 'Woman Dark Skin Tone White Hair',
-		codepoint: '1f469 1f3ff 200d 1f9b3'
+		codepoint: '1f469-1f3ff-200d-1f9b3'
 	},
 	{
 		shortName: 'Woman Detective',
-		codepoint: '1f575 fe0f 200d 2640 fe0f'
+		codepoint: '1f575-fe0f-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Detective Dark Skin Tone',
-		codepoint: '1f575 1f3ff 200d 2640 fe0f'
+		codepoint: '1f575-1f3ff-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Detective Light Skin Tone',
-		codepoint: '1f575 1f3fb 200d 2640 fe0f'
+		codepoint: '1f575-1f3fb-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Detective Medium Dark Skin Tone',
-		codepoint: '1f575 1f3fe 200d 2640 fe0f'
+		codepoint: '1f575-1f3fe-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Detective Medium Light Skin Tone',
-		codepoint: '1f575 1f3fc 200d 2640 fe0f'
+		codepoint: '1f575-1f3fc-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Detective Medium Skin Tone',
-		codepoint: '1f575 1f3fd 200d 2640 fe0f'
+		codepoint: '1f575-1f3fd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Elf',
-		codepoint: '1f9dd 200d 2640 fe0f'
+		codepoint: '1f9dd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Elf Dark Skin Tone',
-		codepoint: '1f9dd 1f3ff 200d 2640 fe0f'
+		codepoint: '1f9dd-1f3ff-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Elf Light Skin Tone',
-		codepoint: '1f9dd 1f3fb 200d 2640 fe0f'
+		codepoint: '1f9dd-1f3fb-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Elf Medium Dark Skin Tone',
-		codepoint: '1f9dd 1f3fe 200d 2640 fe0f'
+		codepoint: '1f9dd-1f3fe-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Elf Medium Light Skin Tone',
-		codepoint: '1f9dd 1f3fc 200d 2640 fe0f'
+		codepoint: '1f9dd-1f3fc-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Elf Medium Skin Tone',
-		codepoint: '1f9dd 1f3fd 200d 2640 fe0f'
+		codepoint: '1f9dd-1f3fd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Facepalming',
-		codepoint: '1f926 200d 2640 fe0f'
+		codepoint: '1f926-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Facepalming Dark Skin Tone',
-		codepoint: '1f926 1f3ff 200d 2640 fe0f'
+		codepoint: '1f926-1f3ff-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Facepalming Light Skin Tone',
-		codepoint: '1f926 1f3fb 200d 2640 fe0f'
+		codepoint: '1f926-1f3fb-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Facepalming Medium Dark Skin Tone',
-		codepoint: '1f926 1f3fe 200d 2640 fe0f'
+		codepoint: '1f926-1f3fe-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Facepalming Medium Light Skin Tone',
-		codepoint: '1f926 1f3fc 200d 2640 fe0f'
+		codepoint: '1f926-1f3fc-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Facepalming Medium Skin Tone',
-		codepoint: '1f926 1f3fd 200d 2640 fe0f'
+		codepoint: '1f926-1f3fd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Factory Worker',
-		codepoint: '1f469 200d 1f3ed'
+		codepoint: '1f469-200d-1f3ed'
 	},
 	{
 		shortName: 'Woman Factory Worker Dark Skin Tone',
-		codepoint: '1f469 1f3ff 200d 1f3ed'
+		codepoint: '1f469-1f3ff-200d-1f3ed'
 	},
 	{
 		shortName: 'Woman Factory Worker Light Skin Tone',
-		codepoint: '1f469 1f3fb 200d 1f3ed'
+		codepoint: '1f469-1f3fb-200d-1f3ed'
 	},
 	{
 		shortName: 'Woman Factory Worker Medium Dark Skin Tone',
-		codepoint: '1f469 1f3fe 200d 1f3ed'
+		codepoint: '1f469-1f3fe-200d-1f3ed'
 	},
 	{
 		shortName: 'Woman Factory Worker Medium Light Skin Tone',
-		codepoint: '1f469 1f3fc 200d 1f3ed'
+		codepoint: '1f469-1f3fc-200d-1f3ed'
 	},
 	{
 		shortName: 'Woman Factory Worker Medium Skin Tone',
-		codepoint: '1f469 1f3fd 200d 1f3ed'
+		codepoint: '1f469-1f3fd-200d-1f3ed'
 	},
 	{
 		shortName: 'Woman Fairy',
-		codepoint: '1f9da 200d 2640 fe0f'
+		codepoint: '1f9da-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Fairy Dark Skin Tone',
-		codepoint: '1f9da 1f3ff 200d 2640 fe0f'
+		codepoint: '1f9da-1f3ff-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Fairy Light Skin Tone',
-		codepoint: '1f9da 1f3fb 200d 2640 fe0f'
+		codepoint: '1f9da-1f3fb-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Fairy Medium Dark Skin Tone',
-		codepoint: '1f9da 1f3fe 200d 2640 fe0f'
+		codepoint: '1f9da-1f3fe-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Fairy Medium Light Skin Tone',
-		codepoint: '1f9da 1f3fc 200d 2640 fe0f'
+		codepoint: '1f9da-1f3fc-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Fairy Medium Skin Tone',
-		codepoint: '1f9da 1f3fd 200d 2640 fe0f'
+		codepoint: '1f9da-1f3fd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Farmer',
-		codepoint: '1f469 200d 1f33e'
+		codepoint: '1f469-200d-1f33e'
 	},
 	{
 		shortName: 'Woman Farmer Dark Skin Tone',
-		codepoint: '1f469 1f3ff 200d 1f33e'
+		codepoint: '1f469-1f3ff-200d-1f33e'
 	},
 	{
 		shortName: 'Woman Farmer Light Skin Tone',
-		codepoint: '1f469 1f3fb 200d 1f33e'
+		codepoint: '1f469-1f3fb-200d-1f33e'
 	},
 	{
 		shortName: 'Woman Farmer Medium Dark Skin Tone',
-		codepoint: '1f469 1f3fe 200d 1f33e'
+		codepoint: '1f469-1f3fe-200d-1f33e'
 	},
 	{
 		shortName: 'Woman Farmer Medium Light Skin Tone',
-		codepoint: '1f469 1f3fc 200d 1f33e'
+		codepoint: '1f469-1f3fc-200d-1f33e'
 	},
 	{
 		shortName: 'Woman Farmer Medium Skin Tone',
-		codepoint: '1f469 1f3fd 200d 1f33e'
+		codepoint: '1f469-1f3fd-200d-1f33e'
 	},
 	{
 		shortName: 'Woman Feeding Baby',
-		codepoint: '1f469 200d 1f37c'
+		codepoint: '1f469-200d-1f37c'
 	},
 	{
 		shortName: 'Woman Feeding Baby Dark Skin Tone',
-		codepoint: '1f469 1f3ff 200d 1f37c'
+		codepoint: '1f469-1f3ff-200d-1f37c'
 	},
 	{
 		shortName: 'Woman Feeding Baby Light Skin Tone',
-		codepoint: '1f469 1f3fb 200d 1f37c'
+		codepoint: '1f469-1f3fb-200d-1f37c'
 	},
 	{
 		shortName: 'Woman Feeding Baby Medium Dark Skin Tone',
-		codepoint: '1f469 1f3fe 200d 1f37c'
+		codepoint: '1f469-1f3fe-200d-1f37c'
 	},
 	{
 		shortName: 'Woman Feeding Baby Medium Light Skin Tone',
-		codepoint: '1f469 1f3fc 200d 1f37c'
+		codepoint: '1f469-1f3fc-200d-1f37c'
 	},
 	{
 		shortName: 'Woman Feeding Baby Medium Skin Tone',
-		codepoint: '1f469 1f3fd 200d 1f37c'
+		codepoint: '1f469-1f3fd-200d-1f37c'
 	},
 	{
 		shortName: 'Woman Firefighter',
-		codepoint: '1f469 200d 1f692'
+		codepoint: '1f469-200d-1f692'
 	},
 	{
 		shortName: 'Woman Firefighter Dark Skin Tone',
-		codepoint: '1f469 1f3ff 200d 1f692'
+		codepoint: '1f469-1f3ff-200d-1f692'
 	},
 	{
 		shortName: 'Woman Firefighter Light Skin Tone',
-		codepoint: '1f469 1f3fb 200d 1f692'
+		codepoint: '1f469-1f3fb-200d-1f692'
 	},
 	{
 		shortName: 'Woman Firefighter Medium Dark Skin Tone',
-		codepoint: '1f469 1f3fe 200d 1f692'
+		codepoint: '1f469-1f3fe-200d-1f692'
 	},
 	{
 		shortName: 'Woman Firefighter Medium Light Skin Tone',
-		codepoint: '1f469 1f3fc 200d 1f692'
+		codepoint: '1f469-1f3fc-200d-1f692'
 	},
 	{
 		shortName: 'Woman Firefighter Medium Skin Tone',
-		codepoint: '1f469 1f3fd 200d 1f692'
+		codepoint: '1f469-1f3fd-200d-1f692'
 	},
 	{
 		shortName: 'Woman Frowning',
-		codepoint: '1f64d 200d 2640 fe0f'
+		codepoint: '1f64d-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Frowning Dark Skin Tone',
-		codepoint: '1f64d 1f3ff 200d 2640 fe0f'
+		codepoint: '1f64d-1f3ff-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Frowning Light Skin Tone',
-		codepoint: '1f64d 1f3fb 200d 2640 fe0f'
+		codepoint: '1f64d-1f3fb-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Frowning Medium Dark Skin Tone',
-		codepoint: '1f64d 1f3fe 200d 2640 fe0f'
+		codepoint: '1f64d-1f3fe-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Frowning Medium Light Skin Tone',
-		codepoint: '1f64d 1f3fc 200d 2640 fe0f'
+		codepoint: '1f64d-1f3fc-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Frowning Medium Skin Tone',
-		codepoint: '1f64d 1f3fd 200d 2640 fe0f'
+		codepoint: '1f64d-1f3fd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Genie',
-		codepoint: '1f9de 200d 2640 fe0f'
+		codepoint: '1f9de-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Gesturing No',
-		codepoint: '1f645 200d 2640 fe0f'
+		codepoint: '1f645-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Gesturing No Dark Skin Tone',
-		codepoint: '1f645 1f3ff 200d 2640 fe0f'
+		codepoint: '1f645-1f3ff-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Gesturing No Light Skin Tone',
-		codepoint: '1f645 1f3fb 200d 2640 fe0f'
+		codepoint: '1f645-1f3fb-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Gesturing No Medium Dark Skin Tone',
-		codepoint: '1f645 1f3fe 200d 2640 fe0f'
+		codepoint: '1f645-1f3fe-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Gesturing No Medium Light Skin Tone',
-		codepoint: '1f645 1f3fc 200d 2640 fe0f'
+		codepoint: '1f645-1f3fc-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Gesturing No Medium Skin Tone',
-		codepoint: '1f645 1f3fd 200d 2640 fe0f'
+		codepoint: '1f645-1f3fd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Gesturing Ok',
-		codepoint: '1f646 200d 2640 fe0f'
+		codepoint: '1f646-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Gesturing Ok Dark Skin Tone',
-		codepoint: '1f646 1f3ff 200d 2640 fe0f'
+		codepoint: '1f646-1f3ff-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Gesturing Ok Light Skin Tone',
-		codepoint: '1f646 1f3fb 200d 2640 fe0f'
+		codepoint: '1f646-1f3fb-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Gesturing Ok Medium Dark Skin Tone',
-		codepoint: '1f646 1f3fe 200d 2640 fe0f'
+		codepoint: '1f646-1f3fe-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Gesturing Ok Medium Light Skin Tone',
-		codepoint: '1f646 1f3fc 200d 2640 fe0f'
+		codepoint: '1f646-1f3fc-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Gesturing Ok Medium Skin Tone',
-		codepoint: '1f646 1f3fd 200d 2640 fe0f'
+		codepoint: '1f646-1f3fd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Getting Haircut',
-		codepoint: '1f487 200d 2640 fe0f'
+		codepoint: '1f487-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Getting Haircut Dark Skin Tone',
-		codepoint: '1f487 1f3ff 200d 2640 fe0f'
+		codepoint: '1f487-1f3ff-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Getting Haircut Light Skin Tone',
-		codepoint: '1f487 1f3fb 200d 2640 fe0f'
+		codepoint: '1f487-1f3fb-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Getting Haircut Medium Dark Skin Tone',
-		codepoint: '1f487 1f3fe 200d 2640 fe0f'
+		codepoint: '1f487-1f3fe-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Getting Haircut Medium Light Skin Tone',
-		codepoint: '1f487 1f3fc 200d 2640 fe0f'
+		codepoint: '1f487-1f3fc-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Getting Haircut Medium Skin Tone',
-		codepoint: '1f487 1f3fd 200d 2640 fe0f'
+		codepoint: '1f487-1f3fd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Getting Massage',
-		codepoint: '1f486 200d 2640 fe0f'
+		codepoint: '1f486-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Getting Massage Dark Skin Tone',
-		codepoint: '1f486 1f3ff 200d 2640 fe0f'
+		codepoint: '1f486-1f3ff-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Getting Massage Light Skin Tone',
-		codepoint: '1f486 1f3fb 200d 2640 fe0f'
+		codepoint: '1f486-1f3fb-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Getting Massage Medium Dark Skin Tone',
-		codepoint: '1f486 1f3fe 200d 2640 fe0f'
+		codepoint: '1f486-1f3fe-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Getting Massage Medium Light Skin Tone',
-		codepoint: '1f486 1f3fc 200d 2640 fe0f'
+		codepoint: '1f486-1f3fc-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Getting Massage Medium Skin Tone',
-		codepoint: '1f486 1f3fd 200d 2640 fe0f'
+		codepoint: '1f486-1f3fd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Golfing',
-		codepoint: '1f3cc fe0f 200d 2640 fe0f'
+		codepoint: '1f3cc-fe0f-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Golfing Dark Skin Tone',
-		codepoint: '1f3cc 1f3ff 200d 2640 fe0f'
+		codepoint: '1f3cc-1f3ff-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Golfing Light Skin Tone',
-		codepoint: '1f3cc 1f3fb 200d 2640 fe0f'
+		codepoint: '1f3cc-1f3fb-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Golfing Medium Dark Skin Tone',
-		codepoint: '1f3cc 1f3fe 200d 2640 fe0f'
+		codepoint: '1f3cc-1f3fe-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Golfing Medium Light Skin Tone',
-		codepoint: '1f3cc 1f3fc 200d 2640 fe0f'
+		codepoint: '1f3cc-1f3fc-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Golfing Medium Skin Tone',
-		codepoint: '1f3cc 1f3fd 200d 2640 fe0f'
+		codepoint: '1f3cc-1f3fd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Guard',
-		codepoint: '1f482 200d 2640 fe0f'
+		codepoint: '1f482-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Guard Dark Skin Tone',
-		codepoint: '1f482 1f3ff 200d 2640 fe0f'
+		codepoint: '1f482-1f3ff-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Guard Light Skin Tone',
-		codepoint: '1f482 1f3fb 200d 2640 fe0f'
+		codepoint: '1f482-1f3fb-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Guard Medium Dark Skin Tone',
-		codepoint: '1f482 1f3fe 200d 2640 fe0f'
+		codepoint: '1f482-1f3fe-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Guard Medium Light Skin Tone',
-		codepoint: '1f482 1f3fc 200d 2640 fe0f'
+		codepoint: '1f482-1f3fc-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Guard Medium Skin Tone',
-		codepoint: '1f482 1f3fd 200d 2640 fe0f'
+		codepoint: '1f482-1f3fd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Health Worker',
-		codepoint: '1f469 200d 2695 fe0f'
+		codepoint: '1f469-200d-2695-fe0f'
 	},
 	{
 		shortName: 'Woman Health Worker Dark Skin Tone',
-		codepoint: '1f469 1f3ff 200d 2695 fe0f'
+		codepoint: '1f469-1f3ff-200d-2695-fe0f'
 	},
 	{
 		shortName: 'Woman Health Worker Light Skin Tone',
-		codepoint: '1f469 1f3fb 200d 2695 fe0f'
+		codepoint: '1f469-1f3fb-200d-2695-fe0f'
 	},
 	{
 		shortName: 'Woman Health Worker Medium Dark Skin Tone',
-		codepoint: '1f469 1f3fe 200d 2695 fe0f'
+		codepoint: '1f469-1f3fe-200d-2695-fe0f'
 	},
 	{
 		shortName: 'Woman Health Worker Medium Light Skin Tone',
-		codepoint: '1f469 1f3fc 200d 2695 fe0f'
+		codepoint: '1f469-1f3fc-200d-2695-fe0f'
 	},
 	{
 		shortName: 'Woman Health Worker Medium Skin Tone',
-		codepoint: '1f469 1f3fd 200d 2695 fe0f'
+		codepoint: '1f469-1f3fd-200d-2695-fe0f'
 	},
 	{
 		shortName: 'Woman In Lotus Position',
-		codepoint: '1f9d8 200d 2640 fe0f'
+		codepoint: '1f9d8-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman In Lotus Position Dark Skin Tone',
-		codepoint: '1f9d8 1f3ff 200d 2640 fe0f'
+		codepoint: '1f9d8-1f3ff-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman In Lotus Position Light Skin Tone',
-		codepoint: '1f9d8 1f3fb 200d 2640 fe0f'
+		codepoint: '1f9d8-1f3fb-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman In Lotus Position Medium Dark Skin Tone',
-		codepoint: '1f9d8 1f3fe 200d 2640 fe0f'
+		codepoint: '1f9d8-1f3fe-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman In Lotus Position Medium Light Skin Tone',
-		codepoint: '1f9d8 1f3fc 200d 2640 fe0f'
+		codepoint: '1f9d8-1f3fc-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman In Lotus Position Medium Skin Tone',
-		codepoint: '1f9d8 1f3fd 200d 2640 fe0f'
+		codepoint: '1f9d8-1f3fd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman In Manual Wheelchair',
-		codepoint: '1f469 200d 1f9bd'
+		codepoint: '1f469-200d-1f9bd'
 	},
 	{
 		shortName: 'Woman In Manual Wheelchair Dark Skin Tone',
-		codepoint: '1f469 1f3ff 200d 1f9bd'
+		codepoint: '1f469-1f3ff-200d-1f9bd'
 	},
 	{
 		shortName: 'Woman In Manual Wheelchair Light Skin Tone',
-		codepoint: '1f469 1f3fb 200d 1f9bd'
+		codepoint: '1f469-1f3fb-200d-1f9bd'
 	},
 	{
 		shortName: 'Woman In Manual Wheelchair Medium Dark Skin Tone',
-		codepoint: '1f469 1f3fe 200d 1f9bd'
+		codepoint: '1f469-1f3fe-200d-1f9bd'
 	},
 	{
 		shortName: 'Woman In Manual Wheelchair Medium Light Skin Tone',
-		codepoint: '1f469 1f3fc 200d 1f9bd'
+		codepoint: '1f469-1f3fc-200d-1f9bd'
 	},
 	{
 		shortName: 'Woman In Manual Wheelchair Medium Skin Tone',
-		codepoint: '1f469 1f3fd 200d 1f9bd'
+		codepoint: '1f469-1f3fd-200d-1f9bd'
 	},
 	{
 		shortName: 'Woman In Motorized Wheelchair',
-		codepoint: '1f469 200d 1f9bc'
+		codepoint: '1f469-200d-1f9bc'
 	},
 	{
 		shortName: 'Woman In Motorized Wheelchair Dark Skin Tone',
-		codepoint: '1f469 1f3ff 200d 1f9bc'
+		codepoint: '1f469-1f3ff-200d-1f9bc'
 	},
 	{
 		shortName: 'Woman In Motorized Wheelchair Light Skin Tone',
-		codepoint: '1f469 1f3fb 200d 1f9bc'
+		codepoint: '1f469-1f3fb-200d-1f9bc'
 	},
 	{
 		shortName: 'Woman In Motorized Wheelchair Medium Dark Skin Tone',
-		codepoint: '1f469 1f3fe 200d 1f9bc'
+		codepoint: '1f469-1f3fe-200d-1f9bc'
 	},
 	{
 		shortName: 'Woman In Motorized Wheelchair Medium Light Skin Tone',
-		codepoint: '1f469 1f3fc 200d 1f9bc'
+		codepoint: '1f469-1f3fc-200d-1f9bc'
 	},
 	{
 		shortName: 'Woman In Motorized Wheelchair Medium Skin Tone',
-		codepoint: '1f469 1f3fd 200d 1f9bc'
+		codepoint: '1f469-1f3fd-200d-1f9bc'
 	},
 	{
 		shortName: 'Woman In Steamy Room',
-		codepoint: '1f9d6 200d 2640 fe0f'
+		codepoint: '1f9d6-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman In Steamy Room Dark Skin Tone',
-		codepoint: '1f9d6 1f3ff 200d 2640 fe0f'
+		codepoint: '1f9d6-1f3ff-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman In Steamy Room Light Skin Tone',
-		codepoint: '1f9d6 1f3fb 200d 2640 fe0f'
+		codepoint: '1f9d6-1f3fb-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman In Steamy Room Medium Dark Skin Tone',
-		codepoint: '1f9d6 1f3fe 200d 2640 fe0f'
+		codepoint: '1f9d6-1f3fe-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman In Steamy Room Medium Light Skin Tone',
-		codepoint: '1f9d6 1f3fc 200d 2640 fe0f'
+		codepoint: '1f9d6-1f3fc-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman In Steamy Room Medium Skin Tone',
-		codepoint: '1f9d6 1f3fd 200d 2640 fe0f'
+		codepoint: '1f9d6-1f3fd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman In Tuxedo',
-		codepoint: '1f935 200d 2640 fe0f'
+		codepoint: '1f935-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman In Tuxedo Dark Skin Tone',
-		codepoint: '1f935 1f3ff 200d 2640 fe0f'
+		codepoint: '1f935-1f3ff-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman In Tuxedo Light Skin Tone',
-		codepoint: '1f935 1f3fb 200d 2640 fe0f'
+		codepoint: '1f935-1f3fb-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman In Tuxedo Medium Dark Skin Tone',
-		codepoint: '1f935 1f3fe 200d 2640 fe0f'
+		codepoint: '1f935-1f3fe-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman In Tuxedo Medium Light Skin Tone',
-		codepoint: '1f935 1f3fc 200d 2640 fe0f'
+		codepoint: '1f935-1f3fc-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman In Tuxedo Medium Skin Tone',
-		codepoint: '1f935 1f3fd 200d 2640 fe0f'
+		codepoint: '1f935-1f3fd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Judge',
-		codepoint: '1f469 200d 2696 fe0f'
+		codepoint: '1f469-200d-2696-fe0f'
 	},
 	{
 		shortName: 'Woman Judge Dark Skin Tone',
-		codepoint: '1f469 1f3ff 200d 2696 fe0f'
+		codepoint: '1f469-1f3ff-200d-2696-fe0f'
 	},
 	{
 		shortName: 'Woman Judge Light Skin Tone',
-		codepoint: '1f469 1f3fb 200d 2696 fe0f'
+		codepoint: '1f469-1f3fb-200d-2696-fe0f'
 	},
 	{
 		shortName: 'Woman Judge Medium Dark Skin Tone',
-		codepoint: '1f469 1f3fe 200d 2696 fe0f'
+		codepoint: '1f469-1f3fe-200d-2696-fe0f'
 	},
 	{
 		shortName: 'Woman Judge Medium Light Skin Tone',
-		codepoint: '1f469 1f3fc 200d 2696 fe0f'
+		codepoint: '1f469-1f3fc-200d-2696-fe0f'
 	},
 	{
 		shortName: 'Woman Judge Medium Skin Tone',
-		codepoint: '1f469 1f3fd 200d 2696 fe0f'
+		codepoint: '1f469-1f3fd-200d-2696-fe0f'
 	},
 	{
 		shortName: 'Woman Juggling',
-		codepoint: '1f939 200d 2640 fe0f'
+		codepoint: '1f939-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Juggling Dark Skin Tone',
-		codepoint: '1f939 1f3ff 200d 2640 fe0f'
+		codepoint: '1f939-1f3ff-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Juggling Light Skin Tone',
-		codepoint: '1f939 1f3fb 200d 2640 fe0f'
+		codepoint: '1f939-1f3fb-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Juggling Medium Dark Skin Tone',
-		codepoint: '1f939 1f3fe 200d 2640 fe0f'
+		codepoint: '1f939-1f3fe-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Juggling Medium Light Skin Tone',
-		codepoint: '1f939 1f3fc 200d 2640 fe0f'
+		codepoint: '1f939-1f3fc-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Juggling Medium Skin Tone',
-		codepoint: '1f939 1f3fd 200d 2640 fe0f'
+		codepoint: '1f939-1f3fd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Kneeling',
-		codepoint: '1f9ce 200d 2640 fe0f'
+		codepoint: '1f9ce-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Kneeling Dark Skin Tone',
-		codepoint: '1f9ce 1f3ff 200d 2640 fe0f'
+		codepoint: '1f9ce-1f3ff-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Kneeling Light Skin Tone',
-		codepoint: '1f9ce 1f3fb 200d 2640 fe0f'
+		codepoint: '1f9ce-1f3fb-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Kneeling Medium Dark Skin Tone',
-		codepoint: '1f9ce 1f3fe 200d 2640 fe0f'
+		codepoint: '1f9ce-1f3fe-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Kneeling Medium Light Skin Tone',
-		codepoint: '1f9ce 1f3fc 200d 2640 fe0f'
+		codepoint: '1f9ce-1f3fc-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Kneeling Medium Skin Tone',
-		codepoint: '1f9ce 1f3fd 200d 2640 fe0f'
+		codepoint: '1f9ce-1f3fd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Lifting Weights',
-		codepoint: '1f3cb fe0f 200d 2640 fe0f'
+		codepoint: '1f3cb-fe0f-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Lifting Weights Dark Skin Tone',
-		codepoint: '1f3cb 1f3ff 200d 2640 fe0f'
+		codepoint: '1f3cb-1f3ff-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Lifting Weights Light Skin Tone',
-		codepoint: '1f3cb 1f3fb 200d 2640 fe0f'
+		codepoint: '1f3cb-1f3fb-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Lifting Weights Medium Dark Skin Tone',
-		codepoint: '1f3cb 1f3fe 200d 2640 fe0f'
+		codepoint: '1f3cb-1f3fe-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Lifting Weights Medium Light Skin Tone',
-		codepoint: '1f3cb 1f3fc 200d 2640 fe0f'
+		codepoint: '1f3cb-1f3fc-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Lifting Weights Medium Skin Tone',
-		codepoint: '1f3cb 1f3fd 200d 2640 fe0f'
+		codepoint: '1f3cb-1f3fd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Light Skin Tone',
-		codepoint: '1f469 1f3fb'
+		codepoint: '1f469-1f3fb'
 	},
 	{
 		shortName: 'Woman Light Skin Tone Bald',
-		codepoint: '1f469 1f3fb 200d 1f9b2'
+		codepoint: '1f469-1f3fb-200d-1f9b2'
 	},
 	{
 		shortName: 'Woman Light Skin Tone Beard',
-		codepoint: '1f9d4 1f3fb 200d 2640 fe0f'
+		codepoint: '1f9d4-1f3fb-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Light Skin Tone Blond Hair',
-		codepoint: '1f471 1f3fb 200d 2640 fe0f'
+		codepoint: '1f471-1f3fb-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Light Skin Tone Christmas',
-		codepoint: '1f469 1f3fb 200d 1f384'
+		codepoint: '1f469-1f3fb-200d-1f384'
 	},
 	{
 		shortName: 'Woman Light Skin Tone Curly Hair',
-		codepoint: '1f469 1f3fb 200d 1f9b1'
+		codepoint: '1f469-1f3fb-200d-1f9b1'
 	},
 	{
 		shortName: 'Woman Light Skin Tone Red Hair',
-		codepoint: '1f469 1f3fb 200d 1f9b0'
+		codepoint: '1f469-1f3fb-200d-1f9b0'
 	},
 	{
 		shortName: 'Woman Light Skin Tone White Hair',
-		codepoint: '1f469 1f3fb 200d 1f9b3'
+		codepoint: '1f469-1f3fb-200d-1f9b3'
 	},
 	{
 		shortName: 'Woman Mage',
-		codepoint: '1f9d9 200d 2640 fe0f'
+		codepoint: '1f9d9-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Mage Dark Skin Tone',
-		codepoint: '1f9d9 1f3ff 200d 2640 fe0f'
+		codepoint: '1f9d9-1f3ff-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Mage Light Skin Tone',
-		codepoint: '1f9d9 1f3fb 200d 2640 fe0f'
+		codepoint: '1f9d9-1f3fb-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Mage Medium Dark Skin Tone',
-		codepoint: '1f9d9 1f3fe 200d 2640 fe0f'
+		codepoint: '1f9d9-1f3fe-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Mage Medium Light Skin Tone',
-		codepoint: '1f9d9 1f3fc 200d 2640 fe0f'
+		codepoint: '1f9d9-1f3fc-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Mage Medium Skin Tone',
-		codepoint: '1f9d9 1f3fd 200d 2640 fe0f'
+		codepoint: '1f9d9-1f3fd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Mechanic',
-		codepoint: '1f469 200d 1f527'
+		codepoint: '1f469-200d-1f527'
 	},
 	{
 		shortName: 'Woman Mechanic Dark Skin Tone',
-		codepoint: '1f469 1f3ff 200d 1f527'
+		codepoint: '1f469-1f3ff-200d-1f527'
 	},
 	{
 		shortName: 'Woman Mechanic Light Skin Tone',
-		codepoint: '1f469 1f3fb 200d 1f527'
+		codepoint: '1f469-1f3fb-200d-1f527'
 	},
 	{
 		shortName: 'Woman Mechanic Medium Dark Skin Tone',
-		codepoint: '1f469 1f3fe 200d 1f527'
+		codepoint: '1f469-1f3fe-200d-1f527'
 	},
 	{
 		shortName: 'Woman Mechanic Medium Light Skin Tone',
-		codepoint: '1f469 1f3fc 200d 1f527'
+		codepoint: '1f469-1f3fc-200d-1f527'
 	},
 	{
 		shortName: 'Woman Mechanic Medium Skin Tone',
-		codepoint: '1f469 1f3fd 200d 1f527'
+		codepoint: '1f469-1f3fd-200d-1f527'
 	},
 	{
 		shortName: 'Woman Medium Dark Skin Tone',
-		codepoint: '1f469 1f3fe'
+		codepoint: '1f469-1f3fe'
 	},
 	{
 		shortName: 'Woman Medium Dark Skin Tone Bald',
-		codepoint: '1f469 1f3fe 200d 1f9b2'
+		codepoint: '1f469-1f3fe-200d-1f9b2'
 	},
 	{
 		shortName: 'Woman Medium Dark Skin Tone Beard',
-		codepoint: '1f9d4 1f3fe 200d 2640 fe0f'
+		codepoint: '1f9d4-1f3fe-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Medium Dark Skin Tone Blond Hair',
-		codepoint: '1f471 1f3fe 200d 2640 fe0f'
+		codepoint: '1f471-1f3fe-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Medium Dark Skin Tone Christmas',
-		codepoint: '1f469 1f3fe 200d 1f384'
+		codepoint: '1f469-1f3fe-200d-1f384'
 	},
 	{
 		shortName: 'Woman Medium Dark Skin Tone Curly Hair',
-		codepoint: '1f469 1f3fe 200d 1f9b1'
+		codepoint: '1f469-1f3fe-200d-1f9b1'
 	},
 	{
 		shortName: 'Woman Medium Dark Skin Tone Red Hair',
-		codepoint: '1f469 1f3fe 200d 1f9b0'
+		codepoint: '1f469-1f3fe-200d-1f9b0'
 	},
 	{
 		shortName: 'Woman Medium Dark Skin Tone White Hair',
-		codepoint: '1f469 1f3fe 200d 1f9b3'
+		codepoint: '1f469-1f3fe-200d-1f9b3'
 	},
 	{
 		shortName: 'Woman Medium Light Skin Tone',
-		codepoint: '1f469 1f3fc'
+		codepoint: '1f469-1f3fc'
 	},
 	{
 		shortName: 'Woman Medium Light Skin Tone Bald',
-		codepoint: '1f469 1f3fc 200d 1f9b2'
+		codepoint: '1f469-1f3fc-200d-1f9b2'
 	},
 	{
 		shortName: 'Woman Medium Light Skin Tone Beard',
-		codepoint: '1f9d4 1f3fc 200d 2640 fe0f'
+		codepoint: '1f9d4-1f3fc-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Medium Light Skin Tone Blond Hair',
-		codepoint: '1f471 1f3fc 200d 2640 fe0f'
+		codepoint: '1f471-1f3fc-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Medium Light Skin Tone Christmas',
-		codepoint: '1f469 1f3fc 200d 1f384'
+		codepoint: '1f469-1f3fc-200d-1f384'
 	},
 	{
 		shortName: 'Woman Medium Light Skin Tone Curly Hair',
-		codepoint: '1f469 1f3fc 200d 1f9b1'
+		codepoint: '1f469-1f3fc-200d-1f9b1'
 	},
 	{
 		shortName: 'Woman Medium Light Skin Tone Red Hair',
-		codepoint: '1f469 1f3fc 200d 1f9b0'
+		codepoint: '1f469-1f3fc-200d-1f9b0'
 	},
 	{
 		shortName: 'Woman Medium Light Skin Tone White Hair',
-		codepoint: '1f469 1f3fc 200d 1f9b3'
+		codepoint: '1f469-1f3fc-200d-1f9b3'
 	},
 	{
 		shortName: 'Woman Medium Skin Tone',
-		codepoint: '1f469 1f3fd'
+		codepoint: '1f469-1f3fd'
 	},
 	{
 		shortName: 'Woman Medium Skin Tone Bald',
-		codepoint: '1f469 1f3fd 200d 1f9b2'
+		codepoint: '1f469-1f3fd-200d-1f9b2'
 	},
 	{
 		shortName: 'Woman Medium Skin Tone Beard',
-		codepoint: '1f9d4 1f3fd 200d 2640 fe0f'
+		codepoint: '1f9d4-1f3fd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Medium Skin Tone Blond Hair',
-		codepoint: '1f471 1f3fd 200d 2640 fe0f'
+		codepoint: '1f471-1f3fd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Medium Skin Tone Christmas',
-		codepoint: '1f469 1f3fd 200d 1f384'
+		codepoint: '1f469-1f3fd-200d-1f384'
 	},
 	{
 		shortName: 'Woman Medium Skin Tone Curly Hair',
-		codepoint: '1f469 1f3fd 200d 1f9b1'
+		codepoint: '1f469-1f3fd-200d-1f9b1'
 	},
 	{
 		shortName: 'Woman Medium Skin Tone Red Hair',
-		codepoint: '1f469 1f3fd 200d 1f9b0'
+		codepoint: '1f469-1f3fd-200d-1f9b0'
 	},
 	{
 		shortName: 'Woman Medium Skin Tone White Hair',
-		codepoint: '1f469 1f3fd 200d 1f9b3'
+		codepoint: '1f469-1f3fd-200d-1f9b3'
 	},
 	{
 		shortName: 'Woman Mountain Biking',
-		codepoint: '1f6b5 200d 2640 fe0f'
+		codepoint: '1f6b5-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Mountain Biking Dark Skin Tone',
-		codepoint: '1f6b5 1f3ff 200d 2640 fe0f'
+		codepoint: '1f6b5-1f3ff-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Mountain Biking Light Skin Tone',
-		codepoint: '1f6b5 1f3fb 200d 2640 fe0f'
+		codepoint: '1f6b5-1f3fb-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Mountain Biking Medium Dark Skin Tone',
-		codepoint: '1f6b5 1f3fe 200d 2640 fe0f'
+		codepoint: '1f6b5-1f3fe-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Mountain Biking Medium Light Skin Tone',
-		codepoint: '1f6b5 1f3fc 200d 2640 fe0f'
+		codepoint: '1f6b5-1f3fc-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Mountain Biking Medium Skin Tone',
-		codepoint: '1f6b5 1f3fd 200d 2640 fe0f'
+		codepoint: '1f6b5-1f3fd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Office Worker',
-		codepoint: '1f469 200d 1f4bc'
+		codepoint: '1f469-200d-1f4bc'
 	},
 	{
 		shortName: 'Woman Office Worker Dark Skin Tone',
-		codepoint: '1f469 1f3ff 200d 1f4bc'
+		codepoint: '1f469-1f3ff-200d-1f4bc'
 	},
 	{
 		shortName: 'Woman Office Worker Light Skin Tone',
-		codepoint: '1f469 1f3fb 200d 1f4bc'
+		codepoint: '1f469-1f3fb-200d-1f4bc'
 	},
 	{
 		shortName: 'Woman Office Worker Medium Dark Skin Tone',
-		codepoint: '1f469 1f3fe 200d 1f4bc'
+		codepoint: '1f469-1f3fe-200d-1f4bc'
 	},
 	{
 		shortName: 'Woman Office Worker Medium Light Skin Tone',
-		codepoint: '1f469 1f3fc 200d 1f4bc'
+		codepoint: '1f469-1f3fc-200d-1f4bc'
 	},
 	{
 		shortName: 'Woman Office Worker Medium Skin Tone',
-		codepoint: '1f469 1f3fd 200d 1f4bc'
+		codepoint: '1f469-1f3fd-200d-1f4bc'
 	},
 	{
 		shortName: 'Woman Pilot',
-		codepoint: '1f469 200d 2708 fe0f'
+		codepoint: '1f469-200d-2708-fe0f'
 	},
 	{
 		shortName: 'Woman Pilot Dark Skin Tone',
-		codepoint: '1f469 1f3ff 200d 2708 fe0f'
+		codepoint: '1f469-1f3ff-200d-2708-fe0f'
 	},
 	{
 		shortName: 'Woman Pilot Light Skin Tone',
-		codepoint: '1f469 1f3fb 200d 2708 fe0f'
+		codepoint: '1f469-1f3fb-200d-2708-fe0f'
 	},
 	{
 		shortName: 'Woman Pilot Medium Dark Skin Tone',
-		codepoint: '1f469 1f3fe 200d 2708 fe0f'
+		codepoint: '1f469-1f3fe-200d-2708-fe0f'
 	},
 	{
 		shortName: 'Woman Pilot Medium Light Skin Tone',
-		codepoint: '1f469 1f3fc 200d 2708 fe0f'
+		codepoint: '1f469-1f3fc-200d-2708-fe0f'
 	},
 	{
 		shortName: 'Woman Pilot Medium Skin Tone',
-		codepoint: '1f469 1f3fd 200d 2708 fe0f'
+		codepoint: '1f469-1f3fd-200d-2708-fe0f'
 	},
 	{
 		shortName: 'Woman Playing Handball',
-		codepoint: '1f93e 200d 2640 fe0f'
+		codepoint: '1f93e-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Playing Handball Dark Skin Tone',
-		codepoint: '1f93e 1f3ff 200d 2640 fe0f'
+		codepoint: '1f93e-1f3ff-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Playing Handball Light Skin Tone',
-		codepoint: '1f93e 1f3fb 200d 2640 fe0f'
+		codepoint: '1f93e-1f3fb-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Playing Handball Medium Dark Skin Tone',
-		codepoint: '1f93e 1f3fe 200d 2640 fe0f'
+		codepoint: '1f93e-1f3fe-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Playing Handball Medium Light Skin Tone',
-		codepoint: '1f93e 1f3fc 200d 2640 fe0f'
+		codepoint: '1f93e-1f3fc-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Playing Handball Medium Skin Tone',
-		codepoint: '1f93e 1f3fd 200d 2640 fe0f'
+		codepoint: '1f93e-1f3fd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Playing Water Polo',
-		codepoint: '1f93d 200d 2640 fe0f'
+		codepoint: '1f93d-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Playing Water Polo Dark Skin Tone',
-		codepoint: '1f93d 1f3ff 200d 2640 fe0f'
+		codepoint: '1f93d-1f3ff-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Playing Water Polo Light Skin Tone',
-		codepoint: '1f93d 1f3fb 200d 2640 fe0f'
+		codepoint: '1f93d-1f3fb-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Playing Water Polo Medium Dark Skin Tone',
-		codepoint: '1f93d 1f3fe 200d 2640 fe0f'
+		codepoint: '1f93d-1f3fe-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Playing Water Polo Medium Light Skin Tone',
-		codepoint: '1f93d 1f3fc 200d 2640 fe0f'
+		codepoint: '1f93d-1f3fc-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Playing Water Polo Medium Skin Tone',
-		codepoint: '1f93d 1f3fd 200d 2640 fe0f'
+		codepoint: '1f93d-1f3fd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Police Officer',
-		codepoint: '1f46e 200d 2640 fe0f'
+		codepoint: '1f46e-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Police Officer Dark Skin Tone',
-		codepoint: '1f46e 1f3ff 200d 2640 fe0f'
+		codepoint: '1f46e-1f3ff-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Police Officer Light Skin Tone',
-		codepoint: '1f46e 1f3fb 200d 2640 fe0f'
+		codepoint: '1f46e-1f3fb-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Police Officer Medium Dark Skin Tone',
-		codepoint: '1f46e 1f3fe 200d 2640 fe0f'
+		codepoint: '1f46e-1f3fe-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Police Officer Medium Light Skin Tone',
-		codepoint: '1f46e 1f3fc 200d 2640 fe0f'
+		codepoint: '1f46e-1f3fc-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Police Officer Medium Skin Tone',
-		codepoint: '1f46e 1f3fd 200d 2640 fe0f'
+		codepoint: '1f46e-1f3fd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Pouting',
-		codepoint: '1f64e 200d 2640 fe0f'
+		codepoint: '1f64e-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Pouting Dark Skin Tone',
-		codepoint: '1f64e 1f3ff 200d 2640 fe0f'
+		codepoint: '1f64e-1f3ff-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Pouting Light Skin Tone',
-		codepoint: '1f64e 1f3fb 200d 2640 fe0f'
+		codepoint: '1f64e-1f3fb-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Pouting Medium Dark Skin Tone',
-		codepoint: '1f64e 1f3fe 200d 2640 fe0f'
+		codepoint: '1f64e-1f3fe-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Pouting Medium Light Skin Tone',
-		codepoint: '1f64e 1f3fc 200d 2640 fe0f'
+		codepoint: '1f64e-1f3fc-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Pouting Medium Skin Tone',
-		codepoint: '1f64e 1f3fd 200d 2640 fe0f'
+		codepoint: '1f64e-1f3fd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Raising Hand',
-		codepoint: '1f64b 200d 2640 fe0f'
+		codepoint: '1f64b-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Raising Hand Dark Skin Tone',
-		codepoint: '1f64b 1f3ff 200d 2640 fe0f'
+		codepoint: '1f64b-1f3ff-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Raising Hand Light Skin Tone',
-		codepoint: '1f64b 1f3fb 200d 2640 fe0f'
+		codepoint: '1f64b-1f3fb-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Raising Hand Medium Dark Skin Tone',
-		codepoint: '1f64b 1f3fe 200d 2640 fe0f'
+		codepoint: '1f64b-1f3fe-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Raising Hand Medium Light Skin Tone',
-		codepoint: '1f64b 1f3fc 200d 2640 fe0f'
+		codepoint: '1f64b-1f3fc-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Raising Hand Medium Skin Tone',
-		codepoint: '1f64b 1f3fd 200d 2640 fe0f'
+		codepoint: '1f64b-1f3fd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Red Hair',
-		codepoint: '1f469 200d 1f9b0'
+		codepoint: '1f469-200d-1f9b0'
 	},
 	{
 		shortName: 'Woman Rowing Boat',
-		codepoint: '1f6a3 200d 2640 fe0f'
+		codepoint: '1f6a3-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Rowing Boat Dark Skin Tone',
-		codepoint: '1f6a3 1f3ff 200d 2640 fe0f'
+		codepoint: '1f6a3-1f3ff-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Rowing Boat Light Skin Tone',
-		codepoint: '1f6a3 1f3fb 200d 2640 fe0f'
+		codepoint: '1f6a3-1f3fb-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Rowing Boat Medium Dark Skin Tone',
-		codepoint: '1f6a3 1f3fe 200d 2640 fe0f'
+		codepoint: '1f6a3-1f3fe-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Rowing Boat Medium Light Skin Tone',
-		codepoint: '1f6a3 1f3fc 200d 2640 fe0f'
+		codepoint: '1f6a3-1f3fc-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Rowing Boat Medium Skin Tone',
-		codepoint: '1f6a3 1f3fd 200d 2640 fe0f'
+		codepoint: '1f6a3-1f3fd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Running',
-		codepoint: '1f3c3 200d 2640 fe0f'
+		codepoint: '1f3c3-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Running Dark Skin Tone',
-		codepoint: '1f3c3 1f3ff 200d 2640 fe0f'
+		codepoint: '1f3c3-1f3ff-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Running Light Skin Tone',
-		codepoint: '1f3c3 1f3fb 200d 2640 fe0f'
+		codepoint: '1f3c3-1f3fb-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Running Medium Dark Skin Tone',
-		codepoint: '1f3c3 1f3fe 200d 2640 fe0f'
+		codepoint: '1f3c3-1f3fe-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Running Medium Light Skin Tone',
-		codepoint: '1f3c3 1f3fc 200d 2640 fe0f'
+		codepoint: '1f3c3-1f3fc-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Running Medium Skin Tone',
-		codepoint: '1f3c3 1f3fd 200d 2640 fe0f'
+		codepoint: '1f3c3-1f3fd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman S Boot',
@@ -13645,367 +13649,367 @@ export default [
 	},
 	{
 		shortName: 'Woman Scientist',
-		codepoint: '1f469 200d 1f52c'
+		codepoint: '1f469-200d-1f52c'
 	},
 	{
 		shortName: 'Woman Scientist Dark Skin Tone',
-		codepoint: '1f469 1f3ff 200d 1f52c'
+		codepoint: '1f469-1f3ff-200d-1f52c'
 	},
 	{
 		shortName: 'Woman Scientist Light Skin Tone',
-		codepoint: '1f469 1f3fb 200d 1f52c'
+		codepoint: '1f469-1f3fb-200d-1f52c'
 	},
 	{
 		shortName: 'Woman Scientist Medium Dark Skin Tone',
-		codepoint: '1f469 1f3fe 200d 1f52c'
+		codepoint: '1f469-1f3fe-200d-1f52c'
 	},
 	{
 		shortName: 'Woman Scientist Medium Light Skin Tone',
-		codepoint: '1f469 1f3fc 200d 1f52c'
+		codepoint: '1f469-1f3fc-200d-1f52c'
 	},
 	{
 		shortName: 'Woman Scientist Medium Skin Tone',
-		codepoint: '1f469 1f3fd 200d 1f52c'
+		codepoint: '1f469-1f3fd-200d-1f52c'
 	},
 	{
 		shortName: 'Woman Shrugging',
-		codepoint: '1f937 200d 2640 fe0f'
+		codepoint: '1f937-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Shrugging Dark Skin Tone',
-		codepoint: '1f937 1f3ff 200d 2640 fe0f'
+		codepoint: '1f937-1f3ff-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Shrugging Light Skin Tone',
-		codepoint: '1f937 1f3fb 200d 2640 fe0f'
+		codepoint: '1f937-1f3fb-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Shrugging Medium Dark Skin Tone',
-		codepoint: '1f937 1f3fe 200d 2640 fe0f'
+		codepoint: '1f937-1f3fe-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Shrugging Medium Light Skin Tone',
-		codepoint: '1f937 1f3fc 200d 2640 fe0f'
+		codepoint: '1f937-1f3fc-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Shrugging Medium Skin Tone',
-		codepoint: '1f937 1f3fd 200d 2640 fe0f'
+		codepoint: '1f937-1f3fd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Singer',
-		codepoint: '1f469 200d 1f3a4'
+		codepoint: '1f469-200d-1f3a4'
 	},
 	{
 		shortName: 'Woman Singer Dark Skin Tone',
-		codepoint: '1f469 1f3ff 200d 1f3a4'
+		codepoint: '1f469-1f3ff-200d-1f3a4'
 	},
 	{
 		shortName: 'Woman Singer Light Skin Tone',
-		codepoint: '1f469 1f3fb 200d 1f3a4'
+		codepoint: '1f469-1f3fb-200d-1f3a4'
 	},
 	{
 		shortName: 'Woman Singer Medium Dark Skin Tone',
-		codepoint: '1f469 1f3fe 200d 1f3a4'
+		codepoint: '1f469-1f3fe-200d-1f3a4'
 	},
 	{
 		shortName: 'Woman Singer Medium Light Skin Tone',
-		codepoint: '1f469 1f3fc 200d 1f3a4'
+		codepoint: '1f469-1f3fc-200d-1f3a4'
 	},
 	{
 		shortName: 'Woman Singer Medium Skin Tone',
-		codepoint: '1f469 1f3fd 200d 1f3a4'
+		codepoint: '1f469-1f3fd-200d-1f3a4'
 	},
 	{
 		shortName: 'Woman Standing',
-		codepoint: '1f9cd 200d 2640 fe0f'
+		codepoint: '1f9cd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Standing Dark Skin Tone',
-		codepoint: '1f9cd 1f3ff 200d 2640 fe0f'
+		codepoint: '1f9cd-1f3ff-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Standing Light Skin Tone',
-		codepoint: '1f9cd 1f3fb 200d 2640 fe0f'
+		codepoint: '1f9cd-1f3fb-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Standing Medium Dark Skin Tone',
-		codepoint: '1f9cd 1f3fe 200d 2640 fe0f'
+		codepoint: '1f9cd-1f3fe-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Standing Medium Light Skin Tone',
-		codepoint: '1f9cd 1f3fc 200d 2640 fe0f'
+		codepoint: '1f9cd-1f3fc-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Standing Medium Skin Tone',
-		codepoint: '1f9cd 1f3fd 200d 2640 fe0f'
+		codepoint: '1f9cd-1f3fd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Student',
-		codepoint: '1f469 200d 1f393'
+		codepoint: '1f469-200d-1f393'
 	},
 	{
 		shortName: 'Woman Student Dark Skin Tone',
-		codepoint: '1f469 1f3ff 200d 1f393'
+		codepoint: '1f469-1f3ff-200d-1f393'
 	},
 	{
 		shortName: 'Woman Student Light Skin Tone',
-		codepoint: '1f469 1f3fb 200d 1f393'
+		codepoint: '1f469-1f3fb-200d-1f393'
 	},
 	{
 		shortName: 'Woman Student Medium Dark Skin Tone',
-		codepoint: '1f469 1f3fe 200d 1f393'
+		codepoint: '1f469-1f3fe-200d-1f393'
 	},
 	{
 		shortName: 'Woman Student Medium Light Skin Tone',
-		codepoint: '1f469 1f3fc 200d 1f393'
+		codepoint: '1f469-1f3fc-200d-1f393'
 	},
 	{
 		shortName: 'Woman Student Medium Skin Tone',
-		codepoint: '1f469 1f3fd 200d 1f393'
+		codepoint: '1f469-1f3fd-200d-1f393'
 	},
 	{
 		shortName: 'Woman Superhero',
-		codepoint: '1f9b8 200d 2640 fe0f'
+		codepoint: '1f9b8-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Superhero Dark Skin Tone',
-		codepoint: '1f9b8 1f3ff 200d 2640 fe0f'
+		codepoint: '1f9b8-1f3ff-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Superhero Light Skin Tone',
-		codepoint: '1f9b8 1f3fb 200d 2640 fe0f'
+		codepoint: '1f9b8-1f3fb-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Superhero Medium Dark Skin Tone',
-		codepoint: '1f9b8 1f3fe 200d 2640 fe0f'
+		codepoint: '1f9b8-1f3fe-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Superhero Medium Light Skin Tone',
-		codepoint: '1f9b8 1f3fc 200d 2640 fe0f'
+		codepoint: '1f9b8-1f3fc-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Superhero Medium Skin Tone',
-		codepoint: '1f9b8 1f3fd 200d 2640 fe0f'
+		codepoint: '1f9b8-1f3fd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Supervillain',
-		codepoint: '1f9b9 200d 2640 fe0f'
+		codepoint: '1f9b9-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Supervillain Dark Skin Tone',
-		codepoint: '1f9b9 1f3ff 200d 2640 fe0f'
+		codepoint: '1f9b9-1f3ff-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Supervillain Light Skin Tone',
-		codepoint: '1f9b9 1f3fb 200d 2640 fe0f'
+		codepoint: '1f9b9-1f3fb-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Supervillain Medium Dark Skin Tone',
-		codepoint: '1f9b9 1f3fe 200d 2640 fe0f'
+		codepoint: '1f9b9-1f3fe-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Supervillain Medium Light Skin Tone',
-		codepoint: '1f9b9 1f3fc 200d 2640 fe0f'
+		codepoint: '1f9b9-1f3fc-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Supervillain Medium Skin Tone',
-		codepoint: '1f9b9 1f3fd 200d 2640 fe0f'
+		codepoint: '1f9b9-1f3fd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Surfing',
-		codepoint: '1f3c4 200d 2640 fe0f'
+		codepoint: '1f3c4-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Surfing Dark Skin Tone',
-		codepoint: '1f3c4 1f3ff 200d 2640 fe0f'
+		codepoint: '1f3c4-1f3ff-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Surfing Light Skin Tone',
-		codepoint: '1f3c4 1f3fb 200d 2640 fe0f'
+		codepoint: '1f3c4-1f3fb-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Surfing Medium Dark Skin Tone',
-		codepoint: '1f3c4 1f3fe 200d 2640 fe0f'
+		codepoint: '1f3c4-1f3fe-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Surfing Medium Light Skin Tone',
-		codepoint: '1f3c4 1f3fc 200d 2640 fe0f'
+		codepoint: '1f3c4-1f3fc-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Surfing Medium Skin Tone',
-		codepoint: '1f3c4 1f3fd 200d 2640 fe0f'
+		codepoint: '1f3c4-1f3fd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Swimming',
-		codepoint: '1f3ca 200d 2640 fe0f'
+		codepoint: '1f3ca-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Swimming Dark Skin Tone',
-		codepoint: '1f3ca 1f3ff 200d 2640 fe0f'
+		codepoint: '1f3ca-1f3ff-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Swimming Light Skin Tone',
-		codepoint: '1f3ca 1f3fb 200d 2640 fe0f'
+		codepoint: '1f3ca-1f3fb-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Swimming Medium Dark Skin Tone',
-		codepoint: '1f3ca 1f3fe 200d 2640 fe0f'
+		codepoint: '1f3ca-1f3fe-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Swimming Medium Light Skin Tone',
-		codepoint: '1f3ca 1f3fc 200d 2640 fe0f'
+		codepoint: '1f3ca-1f3fc-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Swimming Medium Skin Tone',
-		codepoint: '1f3ca 1f3fd 200d 2640 fe0f'
+		codepoint: '1f3ca-1f3fd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Teacher',
-		codepoint: '1f469 200d 1f3eb'
+		codepoint: '1f469-200d-1f3eb'
 	},
 	{
 		shortName: 'Woman Teacher Dark Skin Tone',
-		codepoint: '1f469 1f3ff 200d 1f3eb'
+		codepoint: '1f469-1f3ff-200d-1f3eb'
 	},
 	{
 		shortName: 'Woman Teacher Light Skin Tone',
-		codepoint: '1f469 1f3fb 200d 1f3eb'
+		codepoint: '1f469-1f3fb-200d-1f3eb'
 	},
 	{
 		shortName: 'Woman Teacher Medium Dark Skin Tone',
-		codepoint: '1f469 1f3fe 200d 1f3eb'
+		codepoint: '1f469-1f3fe-200d-1f3eb'
 	},
 	{
 		shortName: 'Woman Teacher Medium Light Skin Tone',
-		codepoint: '1f469 1f3fc 200d 1f3eb'
+		codepoint: '1f469-1f3fc-200d-1f3eb'
 	},
 	{
 		shortName: 'Woman Teacher Medium Skin Tone',
-		codepoint: '1f469 1f3fd 200d 1f3eb'
+		codepoint: '1f469-1f3fd-200d-1f3eb'
 	},
 	{
 		shortName: 'Woman Technologist',
-		codepoint: '1f469 200d 1f4bb'
+		codepoint: '1f469-200d-1f4bb'
 	},
 	{
 		shortName: 'Woman Technologist Dark Skin Tone',
-		codepoint: '1f469 1f3ff 200d 1f4bb'
+		codepoint: '1f469-1f3ff-200d-1f4bb'
 	},
 	{
 		shortName: 'Woman Technologist Light Skin Tone',
-		codepoint: '1f469 1f3fb 200d 1f4bb'
+		codepoint: '1f469-1f3fb-200d-1f4bb'
 	},
 	{
 		shortName: 'Woman Technologist Medium Dark Skin Tone',
-		codepoint: '1f469 1f3fe 200d 1f4bb'
+		codepoint: '1f469-1f3fe-200d-1f4bb'
 	},
 	{
 		shortName: 'Woman Technologist Medium Light Skin Tone',
-		codepoint: '1f469 1f3fc 200d 1f4bb'
+		codepoint: '1f469-1f3fc-200d-1f4bb'
 	},
 	{
 		shortName: 'Woman Technologist Medium Skin Tone',
-		codepoint: '1f469 1f3fd 200d 1f4bb'
+		codepoint: '1f469-1f3fd-200d-1f4bb'
 	},
 	{
 		shortName: 'Woman Tipping Hand',
-		codepoint: '1f481 200d 2640 fe0f'
+		codepoint: '1f481-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Tipping Hand Dark Skin Tone',
-		codepoint: '1f481 1f3ff 200d 2640 fe0f'
+		codepoint: '1f481-1f3ff-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Tipping Hand Light Skin Tone',
-		codepoint: '1f481 1f3fb 200d 2640 fe0f'
+		codepoint: '1f481-1f3fb-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Tipping Hand Medium Dark Skin Tone',
-		codepoint: '1f481 1f3fe 200d 2640 fe0f'
+		codepoint: '1f481-1f3fe-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Tipping Hand Medium Light Skin Tone',
-		codepoint: '1f481 1f3fc 200d 2640 fe0f'
+		codepoint: '1f481-1f3fc-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Tipping Hand Medium Skin Tone',
-		codepoint: '1f481 1f3fd 200d 2640 fe0f'
+		codepoint: '1f481-1f3fd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Vampire',
-		codepoint: '1f9db 200d 2640 fe0f'
+		codepoint: '1f9db-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Vampire Dark Skin Tone',
-		codepoint: '1f9db 1f3ff 200d 2640 fe0f'
+		codepoint: '1f9db-1f3ff-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Vampire Light Skin Tone',
-		codepoint: '1f9db 1f3fb 200d 2640 fe0f'
+		codepoint: '1f9db-1f3fb-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Vampire Medium Dark Skin Tone',
-		codepoint: '1f9db 1f3fe 200d 2640 fe0f'
+		codepoint: '1f9db-1f3fe-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Vampire Medium Light Skin Tone',
-		codepoint: '1f9db 1f3fc 200d 2640 fe0f'
+		codepoint: '1f9db-1f3fc-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Vampire Medium Skin Tone',
-		codepoint: '1f9db 1f3fd 200d 2640 fe0f'
+		codepoint: '1f9db-1f3fd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Walking',
-		codepoint: '1f6b6 200d 2640 fe0f'
+		codepoint: '1f6b6-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Walking Dark Skin Tone',
-		codepoint: '1f6b6 1f3ff 200d 2640 fe0f'
+		codepoint: '1f6b6-1f3ff-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Walking Light Skin Tone',
-		codepoint: '1f6b6 1f3fb 200d 2640 fe0f'
+		codepoint: '1f6b6-1f3fb-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Walking Medium Dark Skin Tone',
-		codepoint: '1f6b6 1f3fe 200d 2640 fe0f'
+		codepoint: '1f6b6-1f3fe-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Walking Medium Light Skin Tone',
-		codepoint: '1f6b6 1f3fc 200d 2640 fe0f'
+		codepoint: '1f6b6-1f3fc-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Walking Medium Skin Tone',
-		codepoint: '1f6b6 1f3fd 200d 2640 fe0f'
+		codepoint: '1f6b6-1f3fd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Wearing Turban',
-		codepoint: '1f473 200d 2640 fe0f'
+		codepoint: '1f473-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Wearing Turban Dark Skin Tone',
-		codepoint: '1f473 1f3ff 200d 2640 fe0f'
+		codepoint: '1f473-1f3ff-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Wearing Turban Light Skin Tone',
-		codepoint: '1f473 1f3fb 200d 2640 fe0f'
+		codepoint: '1f473-1f3fb-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Wearing Turban Medium Dark Skin Tone',
-		codepoint: '1f473 1f3fe 200d 2640 fe0f'
+		codepoint: '1f473-1f3fe-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Wearing Turban Medium Light Skin Tone',
-		codepoint: '1f473 1f3fc 200d 2640 fe0f'
+		codepoint: '1f473-1f3fc-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman Wearing Turban Medium Skin Tone',
-		codepoint: '1f473 1f3fd 200d 2640 fe0f'
+		codepoint: '1f473-1f3fd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman White Hair',
-		codepoint: '1f469 200d 1f9b3'
+		codepoint: '1f469-200d-1f9b3'
 	},
 	{
 		shortName: 'Woman With Headscarf',
@@ -14013,75 +14017,75 @@ export default [
 	},
 	{
 		shortName: 'Woman With Headscarf Dark Skin Tone',
-		codepoint: '1f9d5 1f3ff'
+		codepoint: '1f9d5-1f3ff'
 	},
 	{
 		shortName: 'Woman With Headscarf Light Skin Tone',
-		codepoint: '1f9d5 1f3fb'
+		codepoint: '1f9d5-1f3fb'
 	},
 	{
 		shortName: 'Woman With Headscarf Medium Dark Skin Tone',
-		codepoint: '1f9d5 1f3fe'
+		codepoint: '1f9d5-1f3fe'
 	},
 	{
 		shortName: 'Woman With Headscarf Medium Light Skin Tone',
-		codepoint: '1f9d5 1f3fc'
+		codepoint: '1f9d5-1f3fc'
 	},
 	{
 		shortName: 'Woman With Headscarf Medium Skin Tone',
-		codepoint: '1f9d5 1f3fd'
+		codepoint: '1f9d5-1f3fd'
 	},
 	{
 		shortName: 'Woman With Veil',
-		codepoint: '1f470 200d 2640 fe0f'
+		codepoint: '1f470-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman With Veil Dark Skin Tone',
-		codepoint: '1f470 1f3ff 200d 2640 fe0f'
+		codepoint: '1f470-1f3ff-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman With Veil Light Skin Tone',
-		codepoint: '1f470 1f3fb 200d 2640 fe0f'
+		codepoint: '1f470-1f3fb-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman With Veil Medium Dark Skin Tone',
-		codepoint: '1f470 1f3fe 200d 2640 fe0f'
+		codepoint: '1f470-1f3fe-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman With Veil Medium Light Skin Tone',
-		codepoint: '1f470 1f3fc 200d 2640 fe0f'
+		codepoint: '1f470-1f3fc-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman With Veil Medium Skin Tone',
-		codepoint: '1f470 1f3fd 200d 2640 fe0f'
+		codepoint: '1f470-1f3fd-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Woman With White Cane',
-		codepoint: '1f469 200d 1f9af'
+		codepoint: '1f469-200d-1f9af'
 	},
 	{
 		shortName: 'Woman With White Cane Dark Skin Tone',
-		codepoint: '1f469 1f3ff 200d 1f9af'
+		codepoint: '1f469-1f3ff-200d-1f9af'
 	},
 	{
 		shortName: 'Woman With White Cane Light Skin Tone',
-		codepoint: '1f469 1f3fb 200d 1f9af'
+		codepoint: '1f469-1f3fb-200d-1f9af'
 	},
 	{
 		shortName: 'Woman With White Cane Medium Dark Skin Tone',
-		codepoint: '1f469 1f3fe 200d 1f9af'
+		codepoint: '1f469-1f3fe-200d-1f9af'
 	},
 	{
 		shortName: 'Woman With White Cane Medium Light Skin Tone',
-		codepoint: '1f469 1f3fc 200d 1f9af'
+		codepoint: '1f469-1f3fc-200d-1f9af'
 	},
 	{
 		shortName: 'Woman With White Cane Medium Skin Tone',
-		codepoint: '1f469 1f3fd 200d 1f9af'
+		codepoint: '1f469-1f3fd-200d-1f9af'
 	},
 	{
 		shortName: 'Woman Zombie',
-		codepoint: '1f9df 200d 2640 fe0f'
+		codepoint: '1f9df-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Women Holding Hands',
@@ -14089,103 +14093,103 @@ export default [
 	},
 	{
 		shortName: 'Women Holding Hands Dark Skin Tone',
-		codepoint: '1f46d 1f3ff'
+		codepoint: '1f46d-1f3ff'
 	},
 	{
 		shortName: 'Women Holding Hands Dark Skin Tone Light Skin Tone',
-		codepoint: '1f469 1f3ff 200d 1f91d 200d 1f469 1f3fb'
+		codepoint: '1f469-1f3ff-200d-1f91d-200d-1f469-1f3fb'
 	},
 	{
 		shortName: 'Women Holding Hands Dark Skin Tone Medium Dark Skin Tone',
-		codepoint: '1f469 1f3ff 200d 1f91d 200d 1f469 1f3fe'
+		codepoint: '1f469-1f3ff-200d-1f91d-200d-1f469-1f3fe'
 	},
 	{
 		shortName: 'Women Holding Hands Dark Skin Tone Medium Light Skin Tone',
-		codepoint: '1f469 1f3ff 200d 1f91d 200d 1f469 1f3fc'
+		codepoint: '1f469-1f3ff-200d-1f91d-200d-1f469-1f3fc'
 	},
 	{
 		shortName: 'Women Holding Hands Dark Skin Tone Medium Skin Tone',
-		codepoint: '1f469 1f3ff 200d 1f91d 200d 1f469 1f3fd'
+		codepoint: '1f469-1f3ff-200d-1f91d-200d-1f469-1f3fd'
 	},
 	{
 		shortName: 'Women Holding Hands Light Skin Tone',
-		codepoint: '1f46d 1f3fb'
+		codepoint: '1f46d-1f3fb'
 	},
 	{
 		shortName: 'Women Holding Hands Light Skin Tone Dark Skin Tone',
-		codepoint: '1f469 1f3fb 200d 1f91d 200d 1f469 1f3ff'
+		codepoint: '1f469-1f3fb-200d-1f91d-200d-1f469-1f3ff'
 	},
 	{
 		shortName: 'Women Holding Hands Light Skin Tone Medium Dark Skin Tone',
-		codepoint: '1f469 1f3fb 200d 1f91d 200d 1f469 1f3fe'
+		codepoint: '1f469-1f3fb-200d-1f91d-200d-1f469-1f3fe'
 	},
 	{
 		shortName: 'Women Holding Hands Light Skin Tone Medium Light Skin Tone',
-		codepoint: '1f469 1f3fb 200d 1f91d 200d 1f469 1f3fc'
+		codepoint: '1f469-1f3fb-200d-1f91d-200d-1f469-1f3fc'
 	},
 	{
 		shortName: 'Women Holding Hands Light Skin Tone Medium Skin Tone',
-		codepoint: '1f469 1f3fb 200d 1f91d 200d 1f469 1f3fd'
+		codepoint: '1f469-1f3fb-200d-1f91d-200d-1f469-1f3fd'
 	},
 	{
 		shortName: 'Women Holding Hands Medium Dark Skin Tone',
-		codepoint: '1f46d 1f3fe'
+		codepoint: '1f46d-1f3fe'
 	},
 	{
 		shortName: 'Women Holding Hands Medium Dark Skin Tone Dark Skin Tone',
-		codepoint: '1f469 1f3fe 200d 1f91d 200d 1f469 1f3ff'
+		codepoint: '1f469-1f3fe-200d-1f91d-200d-1f469-1f3ff'
 	},
 	{
 		shortName: 'Women Holding Hands Medium Dark Skin Tone Light Skin Tone',
-		codepoint: '1f469 1f3fe 200d 1f91d 200d 1f469 1f3fb'
+		codepoint: '1f469-1f3fe-200d-1f91d-200d-1f469-1f3fb'
 	},
 	{
 		shortName: 'Women Holding Hands Medium Dark Skin Tone Medium Light Skin Tone',
-		codepoint: '1f469 1f3fe 200d 1f91d 200d 1f469 1f3fc'
+		codepoint: '1f469-1f3fe-200d-1f91d-200d-1f469-1f3fc'
 	},
 	{
 		shortName: 'Women Holding Hands Medium Dark Skin Tone Medium Skin Tone',
-		codepoint: '1f469 1f3fe 200d 1f91d 200d 1f469 1f3fd'
+		codepoint: '1f469-1f3fe-200d-1f91d-200d-1f469-1f3fd'
 	},
 	{
 		shortName: 'Women Holding Hands Medium Light Skin Tone',
-		codepoint: '1f46d 1f3fc'
+		codepoint: '1f46d-1f3fc'
 	},
 	{
 		shortName: 'Women Holding Hands Medium Light Skin Tone Dark Skin Tone',
-		codepoint: '1f469 1f3fc 200d 1f91d 200d 1f469 1f3ff'
+		codepoint: '1f469-1f3fc-200d-1f91d-200d-1f469-1f3ff'
 	},
 	{
 		shortName: 'Women Holding Hands Medium Light Skin Tone Light Skin Tone',
-		codepoint: '1f469 1f3fc 200d 1f91d 200d 1f469 1f3fb'
+		codepoint: '1f469-1f3fc-200d-1f91d-200d-1f469-1f3fb'
 	},
 	{
 		shortName: 'Women Holding Hands Medium Light Skin Tone Medium Dark Skin Tone',
-		codepoint: '1f469 1f3fc 200d 1f91d 200d 1f469 1f3fe'
+		codepoint: '1f469-1f3fc-200d-1f91d-200d-1f469-1f3fe'
 	},
 	{
 		shortName: 'Women Holding Hands Medium Light Skin Tone Medium Skin Tone',
-		codepoint: '1f469 1f3fc 200d 1f91d 200d 1f469 1f3fd'
+		codepoint: '1f469-1f3fc-200d-1f91d-200d-1f469-1f3fd'
 	},
 	{
 		shortName: 'Women Holding Hands Medium Skin Tone',
-		codepoint: '1f46d 1f3fd'
+		codepoint: '1f46d-1f3fd'
 	},
 	{
 		shortName: 'Women Holding Hands Medium Skin Tone Dark Skin Tone',
-		codepoint: '1f469 1f3fd 200d 1f91d 200d 1f469 1f3ff'
+		codepoint: '1f469-1f3fd-200d-1f91d-200d-1f469-1f3ff'
 	},
 	{
 		shortName: 'Women Holding Hands Medium Skin Tone Light Skin Tone',
-		codepoint: '1f469 1f3fd 200d 1f91d 200d 1f469 1f3fb'
+		codepoint: '1f469-1f3fd-200d-1f91d-200d-1f469-1f3fb'
 	},
 	{
 		shortName: 'Women Holding Hands Medium Skin Tone Medium Dark Skin Tone',
-		codepoint: '1f469 1f3fd 200d 1f91d 200d 1f469 1f3fe'
+		codepoint: '1f469-1f3fd-200d-1f91d-200d-1f469-1f3fe'
 	},
 	{
 		shortName: 'Women Holding Hands Medium Skin Tone Medium Light Skin Tone',
-		codepoint: '1f469 1f3fd 200d 1f91d 200d 1f469 1f3fc'
+		codepoint: '1f469-1f3fd-200d-1f91d-200d-1f469-1f3fc'
 	},
 	{
 		shortName: 'Women S Room',
@@ -14193,11 +14197,11 @@ export default [
 	},
 	{
 		shortName: 'Women With Bunny Ears',
-		codepoint: '1f46f 200d 2640 fe0f'
+		codepoint: '1f46f-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Women Wrestling',
-		codepoint: '1f93c 200d 2640 fe0f'
+		codepoint: '1f93c-200d-2640-fe0f'
 	},
 	{
 		shortName: 'Wood',
@@ -14233,23 +14237,23 @@ export default [
 	},
 	{
 		shortName: 'Writing Hand Dark Skin Tone',
-		codepoint: '270d 1f3ff'
+		codepoint: '270d-1f3ff'
 	},
 	{
 		shortName: 'Writing Hand Light Skin Tone',
-		codepoint: '270d 1f3fb'
+		codepoint: '270d-1f3fb'
 	},
 	{
 		shortName: 'Writing Hand Medium Dark Skin Tone',
-		codepoint: '270d 1f3fe'
+		codepoint: '270d-1f3fe'
 	},
 	{
 		shortName: 'Writing Hand Medium Light Skin Tone',
-		codepoint: '270d 1f3fc'
+		codepoint: '270d-1f3fc'
 	},
 	{
 		shortName: 'Writing Hand Medium Skin Tone',
-		codepoint: '270d 1f3fd'
+		codepoint: '270d-1f3fd'
 	},
 	{
 		shortName: 'Yarn',
