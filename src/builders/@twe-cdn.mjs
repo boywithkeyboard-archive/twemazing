@@ -13,7 +13,7 @@ import log from '../logger.mjs'
 
   // generate package.json
   await log('Generating package.json...')
-  await writeFile(path.join(__dirname, '../../../packages/@twe-cdn/package.json'), JSON.stringify({
+  await writeFile(path.join(__dirname, '../../packages/@twe-cdn/package.json'), JSON.stringify({
     name: '@twe/cdn',
     version: config.version,
     description: config.description,
@@ -28,9 +28,9 @@ import log from '../logger.mjs'
 
   // copy license
   await log('Copying the license...')
-  await copy(path.join(__dirname, '../../../license'), path.join(__dirname, '../../../packages/@twe-cdn/license'))
+  await copy(path.join(__dirname, '../../license'), path.join(__dirname, '../../packages/@twe-cdn/license'))
 
   // copy readme
   await log('Copying the readme...')
-  await copy(path.join(__dirname, '../../../readme.md'), path.join(__dirname, '../../../packages/@twe-cdn/readme.md'))
+  await copy(path.join(__dirname, '../../readme.md'), path.join(__dirname, '../../packages/@twe-cdn/readme.md'))
 })()
