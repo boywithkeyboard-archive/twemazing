@@ -4,7 +4,7 @@ import { copy, emptyDir } from 'fs-extra'
 import path, { dirname } from 'path'
 import { fileURLToPath } from 'url'
 import log from '../logger.mjs'
-import emojisconfig from '../emojisconfig.mjs'
+import emojis from '../emojis.mjs'
 import { existsSync } from 'fs'
 import CleanCSS from 'clean-css'
 
@@ -65,7 +65,7 @@ let stylesheet = `/*!
 }
 `
 
-for (const emoji of emojisconfig) {
+for (const emoji of emojis) {
 stylesheet += `
 .twe-${emoji.shortName.toLowerCase().replaceAll(' ', '-')} {
   background: url('https://cdn.jsdelivr.net/npm/@twe/x/${emoji.codepoint.replaceAll(' ', '-')}.svg');
