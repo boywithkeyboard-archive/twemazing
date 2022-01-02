@@ -1,5 +1,5 @@
 /*!
- *  Twemazing v2.0.2 by Azury - https://twemazing.com
+ *  Twemazing v2.0.3 by Azury - https://twemazing.com
  *  License - Apache-2.0
  */
 
