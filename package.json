@@ -33,7 +33,7 @@
     "chalk": "^5.0.0",
     "clean-css": "^5.2.2",
     "fs-extra": "^10.0.0",
-    "packu": "^2.0.6",
+    "packu": "^2.0.7",
     "react": "^17.0.2",
     "rollup": "^2.62.0",
     "rollup-plugin-dts": "^4.1.0",
