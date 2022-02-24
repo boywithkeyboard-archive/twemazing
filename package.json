@@ -26,7 +26,7 @@
     "publish:all": "npm run publish:twecdn && npm run publish:twemoji && npm run publish:twex && npm run publish:css && npm run publish:cdn && npm run publish:scss && npm run publish:sass && npm run publish:react && npm run publish:js"
   },
   "devDependencies": {
-    "@rollup/plugin-commonjs": "^21.0.1",
+    "@rollup/plugin-commonjs": "^21.0.2",
     "@rollup/plugin-node-resolve": "^13.1.2",
     "@rollup/plugin-typescript": "^8.3.0",
     "@types/react": "^17.0.38",
