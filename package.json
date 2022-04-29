@@ -28,7 +28,7 @@
   "devDependencies": {
     "@rollup/plugin-commonjs": "^21.0.1",
     "@rollup/plugin-node-resolve": "^13.1.2",
-    "@rollup/plugin-typescript": "^8.3.0",
+    "@rollup/plugin-typescript": "^8.3.2",
     "@types/react": "^17.0.38",
     "clean-css": "^5.2.2",
     "fs-extra": "^10.0.0",
