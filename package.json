@@ -32,7 +32,7 @@
     "@types/react": "^17.0.38",
     "clean-css": "^5.2.2",
     "fs-extra": "^10.0.0",
-    "packu": "^2.0.7",
+    "packu": "^2.1.0",
     "react": "^17.0.2",
     "rollup": "^2.63.0",
     "rollup-plugin-dts": "^4.1.0",
