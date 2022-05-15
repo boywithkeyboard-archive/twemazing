@@ -2,9 +2,9 @@
   "name": "twemazing",
   "version": "3.0.0",
   "description": "🎉 A better Twemoji Library",
-  "jsdelivr": "./dist/index.js",
+  "jsdelivr": "./dist/index.min.css",
   "main": "./dist/react.js",
-  "sass": "./dist/index.scss",
+  "sass": "./dist/index.min.scss",
   "types": "./types/index.d.ts",
   "files": [
     "*.{css,scss,js}"
@@ -30,6 +30,7 @@
     "react-dom": "^18.1.0",
     "svgo": "^2.8.0",
     "ts-node": "^10.7.0",
-    "typescript": "^4.6.3"
+    "typescript": "^4.6.3",
+    "unicode-emoji-json": "^0.3.1"
   }
 }
