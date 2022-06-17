@@ -11,10 +11,10 @@
   ],
   "scripts": {
     "build": "ts-node scripts/build.ts",
-    "publish:canary": "npm run build && npm publish --tag canary",
-    "publish:patch": "npm version patch && npm run build && npm publish",
-    "publish:minor": "npm version minor && npm run build && npm publish",
-    "publish:major": "npm version major && npm run build && npm publish"
+    "publish:canary": "npm version prerelease --preid=canary && npm publish --tag canary",
+    "publish:patch": "npm version patch && npm publish",
+    "publish:minor": "npm version minor && npm publish",
+    "publish:major": "npm version major && npm publish"
   },
   "devDependencies": {
     "@types/fs-extra": "^9.0.13",
