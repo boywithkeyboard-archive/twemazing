@@ -1,10 +1,10 @@
 {
   "name": "twemazing",
   "version": "3.0.0",
-  "description": "🎉 A better Twemoji Library",
-  "jsdelivr": "./dist/index.min.css",
-  "main": "./dist/react.js",
-  "sass": "./dist/index.min.scss",
+  "description": "🫠 A fully automated library for Twemoji.",
+  "jsdelivr": "./x/twemoji.css",
+  "main": "./x/index.js",
+  "sass": "./x/twemoji.scss",
   "types": "./types/index.d.ts",
   "files": [
     "*.{css,scss,js}"
@@ -18,19 +18,15 @@
   },
   "devDependencies": {
     "@types/fs-extra": "^9.0.13",
-    "@types/node": "^17.0.33",
-    "@types/react": "^18.0.9",
-    "@types/react-dom": "^18.0.4",
+    "@types/node": "^17.0.45",
     "@types/svgo": "^2.6.3",
     "chalk": "^4.1.2",
     "clean-css": "^5.3.0",
-    "esbuild": "^0.14.39",
+    "esbuild": "^0.14.45",
     "fs-extra": "^10.1.0",
-    "react": "^18.1.0",
-    "react-dom": "^18.1.0",
     "svgo": "^2.8.0",
-    "ts-node": "^10.7.0",
-    "typescript": "^4.6.4",
+    "ts-node": "^10.8.1",
+    "typescript": "^4.7.3",
     "unicode-emoji-json": "^0.3.1"
   }
 }
