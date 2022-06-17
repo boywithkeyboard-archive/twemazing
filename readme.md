@@ -1,83 +1,33 @@
-# twemazing
+## twemazing
 
-🧸 **twemazing** - a better Twemoji Library!
+> **Note**  
+> twemazing **only receives bug fixes** and is **entirely automated** since the release of v3.
 
-#### Libraries
+### Installation
 
-- [`twemazing`](https://www.npmjs.com/package/twemazing) **(react)**
-- [`@twemazing/css`](https://www.npmjs.com/package/@twemazing/css) **(css)**
-- [`@twemazing/js`](https://www.npmjs.com/package/@twemazing/js) **(js)**
-- [`@twemazing/sass`](https://www.npmjs.com/package/@twemazing/sass) **(sass)**
-- [`@twemazing/scss`](https://www.npmjs.com/package/@twemazing/scss) **(scss)**
-- [`@twemazing/cdn`](https://www.npmjs.com/package/@twemazing/cdn) **(images)**
+```bash
+npm i twemazing
+```
 
-#### CDN Clones
+### Usage
 
-- [`@twe/x`](https://www.npmjs.com/package/@twe/x)
-- [`@twe/moji`](https://www.npmjs.com/package/@twe/moji)
-- [`@twe/cdn`](https://www.npmjs.com/package/@twe/cdn)
+#### JS
+```js
+import 'twemazing/x/twemoji.css'
+```
 
-###### ℹ️ All our packages follow the versioning of this repository. ✅ Up to date with [Twemoji v13.1.0](https://twemoji.twitter.com). 🏷️ Names as of [Emojipedia](https://emojipedia.org/emoji).
+#### CSS
+```css
+@import 'twemazing/x/twemoji.css';
 
-## Usage
+/* sass */
+@import 'twemazing/x/twemoji.scss';
+```
 
-- ### React Library
+#### HTML
+```html
+<link rel="stylesheet" href="/path/to/twemazing/x/twemoji.css">
 
-  - #### Installation
-    ```sh-session
-    npm i twemazing
-    yarn add twemazing
-    ```
-    
-  - #### Usage
-    ```js
-    import { PartyingFace } from 'twemazing'
-    
-    <PartyingFace size={512} /> // -> 🥳
-    ```
-  
-- ### CSS Library
-
-  - #### Installation
-    ```html
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@twemazing/css">
-    ```
-    ```css
-    @import url('https://cdn.jsdelivr.net/npm/@twemazing/css');
-    ```
-
-  - #### Usage
-    ```html
-    <i class="twe twe-partying-face"></i> <!-- 🥳 -->
-    ```
-    
-- ### JavaScript Library
-  - #### Installation
-    ```html
-    <script src="https://cdn.jsdelivr.net/npm/@twemazing/js"></script>
-    ```
-    
-  - #### Usage
-    ```html
-    <i class="twe twe-partying-face"></i> <!-- 🥳 -->
-    ```
-    
-- ### Sass Libraries
-  - #### Installation
-    ```scss
-    // scss
-    @import 'https://cdn.jsdelivr.net/npm/@twemazing/scss';
-    
-    // sass
-    @import 'https://cdn.jsdelivr.net/npm/@twemazing/sass';
-    ```
-    
-  - #### Usage
-    ```html
-    <i class="twe twe-partying-face"></i> <!-- 🥳 -->
-    ```
-- ### CDN[\*](#cdn-clones)
-
-  ```html
-  <img src="https://cdn.jsdelivr.net/npm/{cdn}/{codepoint_of_emoji}.svg" alt="error" />
-  ```
+<!-- cdn -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/twemazing@3/x/twemoji.css">
+```
