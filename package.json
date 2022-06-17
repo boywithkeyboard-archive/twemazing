@@ -3,14 +3,15 @@
   "version": "3.0.0",
   "description": "🫠 A fully automated library for Twemoji.",
   "jsdelivr": "./x/twemoji.css",
-  "main": "./x/index.js",
+  "main": "./x/utilities.js",
   "sass": "./x/twemoji.scss",
   "types": "./types/index.d.ts",
   "files": [
     "*.{css,scss,js}"
   ],
   "scripts": {
-    "build": "ts-node scripts/build.ts",
+    "build:updater": "esbuild src/updater/index.ts --bundle --minify --format=cjs --legal-comments=none --platform=node --outfile=dist/updater.js",
+    "build:utilities": "esbuild src/utilities.ts --bundle --minify --format=cjs --legal-comments=none --outfile=x/utilities.js",
     "publish:canary": "npm version prerelease --preid=canary && npm publish --tag canary",
     "publish:patch": "npm version patch && npm publish",
     "publish:minor": "npm version minor && npm publish",
