@@ -1,0 +1,83 @@
+name: 'Build and Publish (weekly)'
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'
+
+jobs:
+  update:
+    runs-on: 'ubuntu-latest'
+
+    steps:
+      - name: 'Git Checkout'
+        uses: 'actions/checkout@v2'
+
+      - name: 'Setup Node.js'
+        uses: 'actions/setup-node@v1'
+        with:
+          node-version: '18.x'
+
+      - name: 'Install Dependencies'
+        run: 'npm ci'
+
+      - name: 'Build Utilities'
+        run: 'npm run build:utilities'
+
+      - name: 'Build Updater'
+        run: 'npm run build:updater'
+
+      - name: 'Run Updater'
+        run: 'node dist/updater.js'
+
+      - name: 'Publish Update'
+        id: 'publish-update'
+        uses: 'actions/github-script@v6'
+        run: 'npm run publish:patch'
+        with:
+          script: |
+            const { readFile } = require('fs/promises')
+
+            const json = await (await fetch('https://api.github.com/repos/azurydev/twemazing/git/trees/canary')).json() 
+
+            const packageJson = await readFile('./package.json', { encoding: 'utf-8' })
+            const packageLockJson = await readFile('./package-lock.json', { encoding: 'utf-8' })
+
+            await github.rest.repos.createOrUpdateFileContents({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              path: 'package.json',
+              sha: json.tree.filter(i => i.path === 'package.json')[0].sha,
+              content: (new Buffer(packageJson)).toString('base64'),
+              message: 'updated package.json'
+            })
+
+            await github.rest.repos.createOrUpdateFileContents({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              path: 'package-lock.json',
+              sha: json.tree.filter(i => i.path === 'package-lock.json')[0].sha,
+              content: (new Buffer(packageLockJson)).toString('base64'),
+              message: 'updated package-lock.json'
+            })
+
+            return JSON.parse(packageJson).version
+
+
+      - name: 'Create and Publish Release'
+        uses: 'actions/github-script@v6'
+        env:
+          - version: 'v${{ steps.publish-update.outputs.result }}'
+        with:
+          script: |
+            github.rest.repos.createRelease({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              tag_name: process.env.version,
+              name: process.env.version,
+              body: '> **Note**\n> This is an automatic update and doesn't contain bug fixes or new features apart from new emojis.',
+              draft: false,
+              prerelease: false
+            })
+            
+
+
