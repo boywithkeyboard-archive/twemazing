@@ -22,7 +22,7 @@
     "@types/node": "^17.0.45",
     "@types/svgo": "^2.6.3",
     "chalk": "^4.1.2",
-    "clean-css": "^5.3.0",
+    "clean-css": "^5.3.1",
     "esbuild": "^0.14.45",
     "fs-extra": "^10.1.0",
     "svgo": "^2.8.0",
