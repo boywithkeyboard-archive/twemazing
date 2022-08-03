@@ -40,8 +40,7 @@ jobs:
     runs-on: 'ubuntu-latest'
 
     steps:
-      - name: 'Git Checkout'
-        uses: 'actions/checkout@v2'
+      - uses: 'actions/checkout@v2'
 
       - name: 'Setup Node.js'
         uses: 'actions/setup-node@v1'
@@ -62,7 +61,6 @@ jobs:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 
       - name: 'Push Changes'
-        uses: 'actions/checkout@v2'
         run: |
           git commit -am "ci: bump twemazing to latest twemoji version"
           git push
