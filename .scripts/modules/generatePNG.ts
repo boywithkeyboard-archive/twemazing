@@ -1,4 +1,3 @@
-import chalk from 'chalk'
 import { ensureDir } from 'fs-extra'
 import { readdir, readFile } from 'node:fs/promises'
 import { join } from 'node:path'
@@ -28,13 +27,10 @@ export const generatePNG = async () => {
   await ensureDir(join(__dirname, '../png/256x'))
   await ensureDir(join(__dirname, '../png/512x'))
 
-  for (let [i, e] of emojis.entries()) {
+  for (const e of emojis) {
     await generate(e, 512)
     await generate(e, 256)
     await generate(e, 128)
     await generate(e, 64)
-
-    console.clear()
-    console.log(chalk.gray(`${chalk.green(`${Math.round((((i + 1)/emojis.length) * 100) * 100) / 100}%`)} - ${chalk.white('generate png files')} (${i + 1}/${emojis.length})`))
   }
 }
