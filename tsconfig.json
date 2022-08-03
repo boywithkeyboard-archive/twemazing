@@ -1,20 +1,6 @@
 {
-  "compilerOptions": {
-    "target": "esnext",
-    "module": "es2022",
-    "moduleResolution": "node",
-    "esModuleInterop": true,
-    "forceConsistentCasingInFileNames": true,
-    "resolveJsonModule": true,
-    "alwaysStrict": true,
-    "strict": true,
-    "noImplicitOverride": true,
-    "removeComments": true,
-    "noEmit": true,
-    "skipLibCheck": true,
-    "newLine": "crlf",
-    "types": [
-      "node"
-    ]
-  }
+  "extends": "@azury/style/typescript",
+  "include": [
+    ".scripts/**/*.ts"
+  ]
 }
