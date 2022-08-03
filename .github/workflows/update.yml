@@ -11,6 +11,7 @@ jobs:
 
     outputs:
       latestVersion: ${{ steps.latest-version.outputs.result }}
+      lastVersion: ${{ env.lastVersion }}
 
     steps:
       - name: 'Git Checkout'
@@ -34,9 +35,12 @@ jobs:
   
             return (await res.json()).tag_name
 
+      - name: 'Get Last Version'
+        run: echo "lastVersion=$(cat version.txt)" >> $GITHUB_ENV
+
   update:
     needs: 'check-version'
-    if: ${{ needs.check-version.outputs.latestVersion != (cat version.txt) }}
+    if: ${{ needs.check-version.outputs.latestVersion != needs.check-version.outputs.lastVersion }}
     runs-on: 'ubuntu-latest'
 
     steps:
