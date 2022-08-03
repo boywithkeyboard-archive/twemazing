@@ -56,7 +56,7 @@ jobs:
 
       - name: 'Create Update'
         env:
-          - latestVersion: 'v${{ needs.check-version.outputs.latestVersion }}'
+          - latestVersion: ${{ needs.check-version.outputs.latestVersion }}
         run: 'npm run update'
       
       - name: 'Publish Packages'
