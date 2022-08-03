@@ -14,7 +14,7 @@
   "scripts": {
     "lint": "eslint .scripts",
     "format": "eslint .scripts --fix",
-    "update": "empty png svg && esbuild .scripts/update.ts --minify --bundle --format=cjs --external:sharp --legal-comments=none --platform=node --outfile=.cache/update.js && npm run build && node --no-deprecation .cache/update.js",
+    "update": "empty png svg && esbuild .scripts/update.ts --minify --bundle --format=cjs --external:sharp --legal-comments=none --platform=node --outfile=.cache/update.js && node --no-deprecation .cache/update.js",
     "delete": "esbuild .scripts/delete.ts --minify --bundle --format=cjs --legal-comments=none --platform=node --outfile=.cache/delete.js && node .cache/delete.js",
     "publish:all": "esbuild .scripts/publish.ts --minify --bundle --format=cjs --legal-comments=none --platform=node --outfile=.cache/publish.js && node .cache/publish.js",
     "publish:patch": "npm version patch && npm publish",
