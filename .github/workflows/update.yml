@@ -60,6 +60,7 @@ jobs:
         run: |
           echo "packageVersion=$(node -p "require('./package.json').version")" >> $GITHUB_ENV
           npm run update
+          npm config set max_body_size 200mb --registry https://registry.npmjs.org
           npm publish
           npm run publish:all
           git commit -am "ci: bump twemazing to latest twemoji version"
