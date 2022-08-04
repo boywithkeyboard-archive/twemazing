@@ -66,8 +66,8 @@ jobs:
           npm version patch
           npm run update
           npm run publish:all
-          git config --global user.email "unvented@users.noreply.github.com"
           git config --global user.name "unvented"
+          git config --global user.email "unvented@users.noreply.github.com"
           git commit -am "ci: bump twemazing to latest twemoji version"
           git push
 
