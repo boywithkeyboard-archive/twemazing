@@ -1,11 +1,8 @@
 import { copy } from 'fs-extra'
-import { exec } from 'node:child_process'
 import { readFile, writeFile } from 'node:fs/promises'
 import { join } from 'node:path'
 
 export const createPackages = async () => {
-  exec('npm version patch', { cwd: join(__dirname, '..') })
-
   const version = JSON.parse(await readFile(join(__dirname, '../package.json'), { encoding: 'utf-8' })).version
 
   , create = async (packageJsonSrc: string, src: string, packageDir: string) => {
@@ -26,12 +23,6 @@ export const createPackages = async () => {
   )
 
   // publish png packages
-  await create(
-    '../.scripts/packages/png.json',
-    '../png',
-    '../packages/png'
-  )
-
   await create(
     '../.scripts/packages/64x.json',
     '../png/64x',
