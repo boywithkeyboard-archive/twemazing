@@ -6,7 +6,7 @@
 
 ### SVG
 
-**Variable** × `~15 MB`
+**Variable** × `~8 MB`
 
 ```bash
 npm i @twemazing/svg
@@ -14,25 +14,25 @@ npm i @twemazing/svg
 
 ### PNG
 
-**64x** × `~25 MB`
+**64x** × `~8 MB`
 
 ```bash
 npm i @twemazing/64x
 ```
 
-**128x** × `~25 MB`
+**128x** × `~17 MB`
 
 ```bash
 npm i @twemazing/128x
 ```
 
-**256x** × `~25 MB`
+**256x** × `~35 MB`
 
 ```bash
 npm i @twemazing/256x
 ```
 
-**512x** × `~25 MB`
+**512x** × `~80 MB`
 
 ```bash
 npm i @twemazing/512x
