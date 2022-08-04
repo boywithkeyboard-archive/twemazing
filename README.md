@@ -4,14 +4,6 @@
 
 ## Installation
 
-### PNG + SVG
-
-**64x/128x/256x/512x** × `~150 MB`
-
-```bash
-npm i twemazing
-```
-
 ### SVG
 
 **Variable** × `~15 MB`
@@ -21,12 +13,6 @@ npm i @twemazing/svg
 ```
 
 ### PNG
-
-**64x/128x/256x/512x** × `~25 MB`
-
-```bash
-npm i @twemazing/png
-```
 
 **64x** × `~25 MB`
 
