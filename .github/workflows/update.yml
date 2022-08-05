@@ -32,9 +32,10 @@ jobs:
             const fetch = require('node-fetch')
             const { readFile } = require('fs/promises')
 
-            , latestVersion = (await (await fetch('https://api.github.com/repos/twitter/twemoji/releases/latest')).json()).tag_name
-  
-            return (latestVersion === await readFile('./version.txt', { encoding: 'utf-8' })) ? 'skip' : latestVersion
+            , lastVersion = (await readFile('./version.txt', { encoding: 'utf-8' })).replace(/\s+/g, '')
+            , latestVersion = (await (await fetch('https://api.github.com/repos/twitter/twemoji/releases/latest')).json()).tag_name.replace(/\s+/g, '')
+
+            return lastVersion == latestVersion ? 'skip' : latestVersion
 
   update:
     needs: 'compare-versions'
