@@ -5,12 +5,11 @@ on:
     - cron: '0 * * * *'
 
 jobs:
-  check-version:
+  compare-versions:
     runs-on: 'ubuntu-latest'
 
     outputs:
-      latestVersion: ${{ steps.latest-version.outputs.result }}
-      lastVersion: ${{ env.lastVersion }}
+      latestVersion: ${{ steps.compare-versions.outputs.result }}
 
     steps:
       - name: 'Git Checkout'
@@ -24,22 +23,20 @@ jobs:
       - name: 'Install node-fetch'
         run: 'npm install node-fetch@2'
 
-      - name: 'Get Latest Version'
-        id: 'latest-version'
+      - name: 'Compare Versions'
+        id: 'compare-versions'
         uses: 'actions/github-script@v6'
         with:
           script: |
             const fetch = require('node-fetch')
-            const res = await fetch('https://api.github.com/repos/twitter/twemoji/releases/latest')
-  
-            return (await res.json()).tag_name
 
-      - name: 'Get Last Version'
-        run: echo "lastVersion=$(cat version.txt)" >> $GITHUB_ENV
+            , latestVersion = (await (await fetch('https://api.github.com/repos/twitter/twemoji/releases/latest')).json()).tag_name
+  
+            return (latestVersion === await readFile(./version.txt)) ? 'skip' : latestVersion
 
   update:
-    needs: 'check-version'
-    if: ${{ needs.check-version.outputs.latestVersion != needs.check-version.outputs.lastVersion }}
+    needs: 'compare-versions'
+    if: ${{ needs.compare-versions.outputs.latestVersion != 'skip' }}
     runs-on: 'ubuntu-latest'
 
     steps:
@@ -54,7 +51,7 @@ jobs:
 
       - name: 'Create Update and Publish Packages'
         env:
-          latestVersion: ${{ needs.check-version.outputs.latestVersion }}
+          latestVersion: ${{ needs.compare-versions.outputs.latestVersion }}
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: |
           git config --global user.name "unvented"
@@ -69,7 +66,7 @@ jobs:
       - name: 'Create and Publish Release'
         uses: 'actions/github-script@v6'
         env:
-          latestVersion: 'v${{ needs.check-version.outputs.latestVersion }}'
+          latestVersion: ${{ needs.compare-versions.outputs.latestVersion }}
         with:
           script: |
             github.rest.repos.createRelease({
