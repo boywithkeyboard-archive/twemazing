@@ -42,7 +42,7 @@ jobs:
 
   update:
     needs: 'compare-versions'
-    if: ${{ needs.compare-versions.outputs.latestVersion != 'skip' }}
+    if: needs.compare-versions.outputs.latestVersion != 'skip'
     runs-on: 'ubuntu-latest'
 
     steps:
