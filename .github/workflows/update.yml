@@ -35,7 +35,10 @@ jobs:
             , lastVersion = (await readFile('./version.txt', { encoding: 'utf-8' })).replace(/\s+/g, '')
             , latestVersion = (await (await fetch('https://api.github.com/repos/twitter/twemoji/releases/latest')).json()).tag_name.replace(/\s+/g, '')
 
-            return lastVersion == latestVersion ? 'skip' : latestVersion
+            const res = lastVersion == latestVersion ? 'skip' : latestVersion
+            console.log(res)
+
+            return res
 
   update:
     needs: 'compare-versions'
