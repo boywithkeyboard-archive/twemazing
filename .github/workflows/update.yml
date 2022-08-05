@@ -1,8 +1,9 @@
 name: 'Update (hourly)'
 
 on:
-  schedule:
-    - cron: '0 * * * *'
+  push:
+    branches:
+      - 'dev'
 
 jobs:
   compare-versions:
