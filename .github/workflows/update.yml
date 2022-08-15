@@ -19,7 +19,7 @@ jobs:
       - name: 'Setup Node.js'
         uses: 'actions/setup-node@v3'
         with:
-          node-version: '18.x'
+          node-version: 18
 
       - name: 'Install node-fetch'
         run: 'npm install node-fetch@2'
