@@ -35,7 +35,7 @@ jobs:
             , lastVersion = (await readFile('./version.txt', { encoding: 'utf-8' })).replace(/\s+/g, '')
             , latestVersion = (await (await fetch('https://api.github.com/repos/twitter/twemoji/releases/latest')).json()).tag_name.replace(/\s+/g, '')
 
-            const res = lastVersion == latestVersion ? 'skip' : latestVersion
+            const res = lastVersion == latestVersion ? true : latestVersion
 
             return res
 
@@ -43,7 +43,7 @@ jobs:
         run: echo "${{ steps.compare-versions.outputs.result }}"
 
   update:
-    if: needs.compare-versions.outputs.latestVersion != 'skip'
+    if: needs.compare-versions.outputs.latestVersion != true
     needs: 'compare-versions'
     runs-on: 'ubuntu-latest'
 
