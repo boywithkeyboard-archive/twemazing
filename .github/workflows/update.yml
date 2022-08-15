@@ -1,9 +1,8 @@
 name: 'Update'
 
 on:
-  push:
-    branches:
-      - 'dev'
+  schedule:
+    - cron: '0 0 * * *'
 
 jobs:
   get-version:
