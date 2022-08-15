@@ -43,7 +43,7 @@ jobs:
         run: echo "${{ steps.compare-versions.outputs.result }}"
 
   update:
-    if: needs.compare-versions.outputs.latestVersion != true
+    if: ${{ needs.compare-versions.outputs.latestVersion }} != true
     needs: 'compare-versions'
     runs-on: 'ubuntu-latest'
 
