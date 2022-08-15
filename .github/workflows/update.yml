@@ -6,11 +6,11 @@ on:
       - 'dev'
 
 jobs:
-  compare-versions:
+  get-version:
     runs-on: 'ubuntu-latest'
 
     outputs:
-      latestVersion: ${{ steps.compare-versions.outputs.result }}
+      latestVersion: ${{ steps.get-version.outputs.result }}
 
     steps:
       - name: 'Git Checkout'
@@ -24,8 +24,8 @@ jobs:
       - name: 'Install node-fetch'
         run: 'npm install node-fetch@2'
 
-      - name: 'Compare Versions'
-        id: 'compare-versions'
+      - name: 'Get Latest Version'
+        id: 'get-version'
         uses: 'actions/github-script@v6'
         with:
           script: |
@@ -35,16 +35,13 @@ jobs:
             , lastVersion = (await readFile('./version.txt', { encoding: 'utf-8' })).replace(/\s+/g, '')
             , latestVersion = (await (await fetch('https://api.github.com/repos/twitter/twemoji/releases/latest')).json()).tag_name.replace(/\s+/g, '')
 
-            const res = lastVersion == latestVersion ? true : latestVersion
+            if (lastVersion == latestVersion)
+              throw new Error('package is up-to-date')
 
-            return res
-
-      - name: Get result
-        run: echo "${{ steps.compare-versions.outputs.result }}"
+            return latestVersion
 
   update:
-    if: ${{ needs.compare-versions.outputs.latestVersion }} != true
-    needs: 'compare-versions'
+    needs: 'get-version'
     runs-on: 'ubuntu-latest'
 
     steps:
@@ -59,7 +56,7 @@ jobs:
 
       - name: 'Create Update and Publish Packages'
         env:
-          latestVersion: ${{ needs.compare-versions.outputs.latestVersion }}
+          latestVersion: ${{ needs.get-version.outputs.latestVersion }}
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: |
           git config --global user.name "unvented"
@@ -74,7 +71,7 @@ jobs:
       - name: 'Create and Publish Release'
         uses: 'actions/github-script@v6'
         env:
-          latestVersion: ${{ needs.compare-versions.outputs.latestVersion }}
+          latestVersion: ${{ needs.get-version.outputs.latestVersion }}
         with:
           script: |
             github.rest.repos.createRelease({
@@ -86,6 +83,3 @@ jobs:
               draft: false,
               prerelease: false
             })
-            
-
-
