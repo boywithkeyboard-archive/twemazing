@@ -23,7 +23,7 @@
   "devDependencies": {
     "@azury/style": "^1.0.0",
     "@types/fs-extra": "^9.0.13",
-    "@types/node": "^18.7.3",
+    "@types/node": "^18.7.9",
     "@types/sharp": "^0.30.5",
     "@types/svgo": "^2.6.3",
     "@unvented/empty": "^1.0.3",
