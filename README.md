@@ -2,7 +2,7 @@
 
 > **Note**: twemazing **only receives bug fixes** and is **entirely automated**.
 
-## Installation
+> **Warning**: As of December 2022, Twemoji appears to no longer be maintained, making this project obsolete. Therefore, we'll archive this repository for the time being.
 
 ### SVG
 
